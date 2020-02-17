@@ -60,9 +60,8 @@ shinyServer(function (input, output, session) {
                       )
   })
   
-  # A reactive expression that returns the set of zips that are
-  # in bounds right now
-  zipsInBounds <- reactive({
+  # retreive stations in bound
+  stationsInBounds <- reactive({
     if (is.null(input$map_bounds))
       return(trends[FALSE,])
     
@@ -84,7 +83,7 @@ shinyServer(function (input, output, session) {
   
   output$histSlope <- renderPlot({
     # If no zipcodes are in view, don't plot
-    if (nrow(zipsInBounds()) == 0)
+    if (nrow(stationsInBounds()) == 0)
       return(NULL)
     
     hist(trends_subset()$slope,
@@ -95,7 +94,7 @@ shinyServer(function (input, output, session) {
          col = "lightgrey",
          border = 'white')
     
-    hist(zipsInBounds()$slope,
+    hist(stationsInBounds()$slope,
          xlab = NULL,
          breaks = slopeBreaks,
          xlim = c(-10,10),
