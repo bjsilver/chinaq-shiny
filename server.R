@@ -150,12 +150,5 @@ shinyServer(function (input, output, session) {
     
   })
   
-  # observeEvent(input$map_zoom, { 
-  #   p <- input$map_zoom
-  #   proxy <- leafletProxy("map")
-  #   print(p)
-  #   
-  # 
-  # })
   
 })
