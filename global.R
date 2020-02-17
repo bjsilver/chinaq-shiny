@@ -3,7 +3,7 @@ library(shinydashboard)
 library(leaflet)
 
 
-#setwd('/nfs/see-fs-02_users/eebjs/OneDrive/AIA_project/scripts/interactive_map/shiny_map/china_aqtrends')
+# setwd('/nfs/see-fs-02_users/eebjs/OneDrive/AIA_project/scripts/interactive_map/china_aqtrends')
 
 # load in trends dataset
 trends <- read.csv("./datafiles/theilsen_trends.csv", header=TRUE, stringsAsFactors=FALSE)
@@ -12,8 +12,11 @@ colnames(trends)[2] <- "pol"
 # combine with lookup data
 lookup <- read.csv("./datafiles/station_lookup.csv", header=TRUE, stringsAsFactors=FALSE)
 trends <- merge(trends, lookup, by = 'station')
+# remove rows with missing lat/lon data
+trends <- trends[!is.na(trends$lat),]
+trends <- trends[!is.na(trends$lon),]
 # exclude large trends
-trends <- trends[trends$slope>-10 & trends$slope<10, ]
+trends <- trends[trends$slope>-10 & trends$slope<10, ] # replace later with excluding short trends
 
 # load in means dataset
 means <- read.csv("./datafiles/decomposed_means.csv", header=TRUE, stringsAsFactors=FALSE, check.names = FALSE)
