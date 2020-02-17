@@ -1,0 +1,1634 @@
+station,lat,lon,station_name_pinyin,station_name_zh,station_name_en,city_pinyin,city_zh,city_en,region,province
+1167A,31.3708,120.641,xiāngchéngqū,相城区,Xiangcheng District,sūzhōu,苏州,Suzhou,Mainland China,Jiangsu
+1001A,39.8673,116.366,wànshòuxīgōng,万寿西宫,Wanshou Xigong,běijīng,北京,Beijing,Mainland China,Beijing
+1002A,40.2865,116.17,dìnglíng,定陵,Dingling,běijīng,北京,Beijing,Mainland China,Beijing
+1003A,39.9522,116.434,dōngsì,东四,Dongsi,běijīng,北京,Beijing,Mainland China,Beijing
+1004A,39.8745,116.434,tiāntán,天坛,Temple of Heaven,běijīng,北京,Beijing,Mainland China,Beijing
+1005A,39.9716,116.473,nóngzhǎnguǎn,农展馆,Agricultural exhibition hall,běijīng,北京,Beijing,Mainland China,Beijing
+1006A,39.9425,116.361,guānyuán,官园,Guanyuan,běijīng,北京,Beijing,Mainland China,Beijing
+1007A,39.9934,116.315,hǎidiànqūwànlǐu,海淀区万柳,"Wanliu, Haidian District",běijīng,北京,Beijing,Mainland China,Beijing
+1008A,40.1438,116.72,shùnyìxīnchéng,顺义新城,Shunyi New Town,běijīng,北京,Beijing,Mainland China,Beijing
+1009A,40.3937,116.644,huáiróuzhèn,怀柔镇,Huairou Town,běijīng,北京,Beijing,Mainland China,Beijing
+1010A,40.1952,116.23,chāngpíngzhèn,昌平镇,Changping Town,běijīng,北京,Beijing,Mainland China,Beijing
+1011A,40.0031,116.407,àotǐzhōngxīn,奥体中心,Olympic Sports Center,běijīng,北京,Beijing,Mainland China,Beijing
+1012A,39.9279,116.225,gǔchéng,古城,Gucheng District,běijīng,北京,Beijing,Mainland China,Beijing
+1013A,39.097,117.151,shìjiāncèzhōngxīn,市监测中心,City monitoring center,tiānjīn,天津,Tianjin,Mainland China,Tianjin
+1014A,39.173,117.193,nánkǒulù,南口路,Nankou Road,tiānjīn,天津,Tianjin,Mainland China,Tianjin
+1015A,39.1654,117.145,qínjiǎnlù,勤俭路,Diligent road,tiānjīn,天津,Tianjin,Mainland China,Tianjin
+1016A,39.1205,117.184,nánjīnglù,南京路,Nanjing Road,tiānjīn,天津,Tianjin,Mainland China,Tianjin
+1017A,39.1082,117.237,dàzhígūbāhàolù,大直沽八号路,Dazhijing No.8 Road,tiānjīn,天津,Tianjin,Mainland China,Tianjin
+1018A,39.0927,117.202,qiánjìnlù,前进路,Forward road,tiānjīn,天津,Tianjin,Mainland China,Tianjin
+1019A,39.2133,117.1837,běichénkējìyuánqū,北辰科技园区,Beichen Science and Technology Park,tiānjīn,天津,Tianjin,Mainland China,Tianjin
+1020A,39.1337,117.269,tiānshānlù,天山路,Tianshan Road,tiānjīn,天津,Tianjin,Mainland China,Tianjin
+1021A,39.0877,117.307,yuèjìnlù,跃进路,Yuejin Road,tiānjīn,天津,Tianjin,Mainland China,Tianjin
+1023A,39.0343,117.707,dìsìdàjiē,第四大街,Fourth Avenue,tiānjīn,天津,Tianjin,Mainland China,Tianjin
+1024A,38.8394,117.457,yǒngmínglù,永明路,Yongming Road,tiānjīn,天津,Tianjin,Mainland China,Tianjin
+1025A,39.124,117.401,hángtiānlù,航天路,Space road,tiānjīn,天津,Tianjin,Mainland China,Tianjin
+1026A,39.1587,117.764,hànběilù,汉北路,Hanbei Road,tiānjīn,天津,Tianjin,Mainland China,Tianjin
+1027A,38.9194,117.157,tuánbówā,团泊洼,Group,tiānjīn,天津,Tianjin,Mainland China,Tianjin
+1028A,37.99018,114.60383,huàgōngxuéxiào,化工学校,Chemical school,shíjiāzhuāng,石家庄,Shijiazhuang,Mainland China,Hebei
+1029A,38.0513,114.4548,zhígōngyìyuàn,职工医院,Staff hospital,shíjiāzhuāng,石家庄,Shijiazhuang,Mainland China,Hebei
+1030A,38.0398,114.6046,gāoxīnqū,高新区,High-tech Zone,shíjiāzhuāng,石家庄,Shijiazhuang,Mainland China,Hebei
+1031A,38.1398,114.5019,xīběishǔiyuán,西北水源,Northwest water source,shíjiāzhuāng,石家庄,Shijiazhuang,Mainland China,Hebei
+1032A,38.00583333,114.4586111,xīnángāojiào,西南高教,Southwestern Higher Education,shíjiāzhuāng,石家庄,Shijiazhuang,Mainland China,Hebei
+1033A,38.01777778,114.53305559999998,shìjìgōngyuán,世纪公园,Century Park,shíjiāzhuāng,石家庄,Shijiazhuang,Mainland China,Hebei
+1034A,38.0524,114.5214,rénmínhùitáng,人民会堂,People&#39;s Hall,shíjiāzhuāng,石家庄,Shijiazhuang,Mainland China,Hebei
+1035A,37.9097,114.3541,fēnglóngshān,封龙山,Fenglongshan,shíjiāzhuāng,石家庄,Shijiazhuang,Mainland China,Hebei
+1036A,39.6308,118.1662,gōngxiāoshè,供销社,Supply and marketing agency,tángshān,唐山,Tangshan,Mainland China,Hebei
+1037A,39.643,118.144,léidázhàn,雷达站,Radar stations,tángshān,唐山,Tangshan,Mainland China,Hebei
+1038A,39.6407,118.1853,wùzījú,物资局,Material bureau,tángshān,唐山,Tangshan,Mainland China,Hebei
+1039A,39.6679,118.2185,táocígōngsī,陶瓷公司,Ceramic company,tángshān,唐山,Tangshan,Mainland China,Hebei
+1040A,39.65782,118.1838,shíèrzhōng,十二中,Twelve,tángshān,唐山,Tangshan,Mainland China,Hebei
+1041A,39.6295,118.1997,xiǎoshān,小山,highlands,tángshān,唐山,Tangshan,Mainland China,Hebei
+1042A,39.8283,119.5259,běidàihéhuánbǎojú,北戴河环保局,Beidaihe Environmental Protection Bureau,qínhuángdǎo,秦皇岛,Qinhuangdao,Mainland China,Hebei
+1043A,40.0181,119.7624,dìyīguān,第一关,1st Level,qínhuángdǎo,秦皇岛,Qinhuangdao,Mainland China,Hebei
+1044A,39.9567,119.6023,jiāncèzhàn,监测站,GHG monitoring,qínhuángdǎo,秦皇岛,Qinhuangdao,Mainland China,Hebei
+1045A,39.9358,119.607,shìzhèngfǔ,市政府,Local government,qínhuángdǎo,秦皇岛,Qinhuangdao,Mainland China,Hebei
+1046A,39.9419,119.5369,jiànshèdàshà,建设大厦,Building,qínhuángdǎo,秦皇岛,Qinhuangdao,Mainland China,Hebei
+1047A,36.61763,114.5129,huánbǎojú,环保局,Environmental Protection Agency,hándān,邯郸,邯郸,Mainland China,Hebei
+1048A,36.6164,114.5426,dōngwūshǔichùlǐchǎng,东污水处理厂,East sewage treatment plant,hándān,邯郸,邯郸,Mainland China,Hebei
+1049A,36.5776,114.5035,kuàngyuàn,矿院,Mine,hándān,邯郸,邯郸,Mainland China,Hebei
+1050A,36.61981,114.4965,cóngtáigōngyuán,丛台公园,Congtai Park,hándān,邯郸,邯郸,Mainland China,Hebei
+1051A,38.8632,115.493,yóuyǒngguǎn,游泳馆,Natatorium,bǎodìng,保定,Baoding,Mainland China,Hebei
+1052A,38.8957,115.5223,huádiànèrqū,华电二区,Huadian District 2,bǎodìng,保定,Baoding,Mainland China,Hebei
+1053A,38.9108,115.4713,jiēdàizhōngxīn,接待中心,Reception centres 1997,bǎodìng,保定,Baoding,Mainland China,Hebei
+1054A,38.8416,115.4612,dìbiǎoshǔichǎng,地表水厂,Surface water plant,bǎodìng,保定,Baoding,Mainland China,Hebei
+1055A,38.8756,115.442,xiáopiànchǎng,胶片厂,Film factory,bǎodìng,保定,Baoding,Mainland China,Hebei
+1056A,38.8707,115.5214,jiāncèzhàn,监测站,GHG monitoring,bǎodìng,保定,Baoding,Mainland China,Hebei
+1057A,40.8367,114.8985,rénmíngōngyuán,人民公园,Woodlands Peak,zhāngjiākǒu,张家口,Zhangjiakou,Mainland China,Hebei
+1058A,40.79481,114.892,tànjīchǎng,探机厂,Detector factory,zhāngjiākǒu,张家口,Zhangjiakou,Mainland China,Hebei
+1059A,40.8115,114.8814,wǔjīnkù,五金库,Hardware store,zhāngjiākǒu,张家口,Zhangjiakou,Mainland China,Hebei
+1060A,40.7688,114.9032,shìjìháoyuán,世纪豪园,Century Park,zhāngjiākǒu,张家口,Zhangjiakou,Mainland China,Hebei
+1061A,40.8725,114.904,běibèngfáng,北泵房,North pump house,zhāngjiākǒu,张家口,Zhangjiakou,Mainland China,Hebei
+1062A,40.9161,117.9664,tiělù,铁路,Rail transport,chéngdé,承德,Chengde,Mainland China,Hebei
+1063A,40.9843,117.9525,zhōngguóyínxíng,中国银行,Bank of China,chéngdé,承德,Chengde,Mainland China,Hebei
+1064A,40.9359,117.963,kāifāqū,开发区,Thereof: Development,chéngdé,承德,Chengde,Mainland China,Hebei
+1065A,40.9733,117.8184,wénhuàzhōngxīn,文化中心,Activities Cultural nucleus,chéngdé,承德,Chengde,Mainland China,Hebei
+1066A,41.0112,117.9384,lígōng,离宫,Palace,chéngdé,承德,Chengde,Mainland China,Hebei
+1067A,39.5178,116.6838,yàocáigōngsī,药材公司,Medicinal company,lángfāng,廊坊,Langfang,Mainland China,Hebei
+1068A,39.5747,116.7729,kāifāqū,开发区,Thereof: Development,lángfāng,廊坊,Langfang,Mainland China,Hebei
+1069A,39.5571,116.715,huánjìngjiāncèjiānlǐzhōngxīn,环境监测监理中心,Environmental Monitoring Supervision Center,lángfāng,廊坊,Langfang,Mainland China,Hebei
+1070A,39.5343,116.7464,běihuáhángtiānxuéyuàn,北华航天学院,Beihua Institute of Aerospace,lángfāng,廊坊,Langfang,Mainland China,Hebei
+1071A,38.2991,116.8854,cāngxiànchéngjiànjú,沧县城建局,Qi County Urban Construction Bureau,cāngzhōu,沧州,Zhangzhou,Mainland China,Hebei
+1072A,38.3254,116.8584,diànshìzhuǎnbōzhàn,电视转播站,Television relay station,cāngzhōu,沧州,Zhangzhou,Mainland China,Hebei
+1073A,38.3228,116.8709,shìhuánbǎojú,市环保局,municipal environmental protection Bureau,cāngzhōu,沧州,Zhangzhou,Mainland China,Hebei
+1074A,37.7575,115.6951,diànjīběichǎng,电机北厂,Motor North Factory,héngshǔi,衡水,Hengshui,Mainland China,Hebei
+1075A,37.7379,115.6426,shìjiāncèzhàn,市监测站,City monitoring station,héngshǔi,衡水,Hengshui,Mainland China,Hebei
+1076A,37.739,115.6906,shìhuánbǎojú,市环保局,municipal environmental protection Bureau,héngshǔi,衡水,Hengshui,Mainland China,Hebei
+1077A,37.0967,114.4821,dáhuóquán,达活泉,Dahuoquan,xíngtái,邢台,Xingtai,Mainland China,Hebei
+1078A,37.0533,114.5261,xíngshīgāozhuān,邢师高专,Xing Shi College,xíngtái,邢台,Xingtai,Mainland China,Hebei
+1079A,37.0964,114.5331,lùqiáogōngsī,路桥公司,Road and bridge company,xíngtái,邢台,Xingtai,Mainland China,Hebei
+1080A,37.062,114.4854,shìhuánbǎojú,市环保局,municipal environmental protection Bureau,xíngtái,邢台,Xingtai,Mainland China,Hebei
+1081A,37.8873,112.522,jiāncǎopíng,尖草坪,Sharp lawn,tàiyuán,太原,Taiyuan,Mainland China,Shanxi
+1082A,37.9103,112.573,jiànhé,涧河,Luohe,tàiyuán,太原,Taiyuan,Mainland China,Shanxi
+1083A,38.0108,112.434,shànglán,上兰,Shanglan,tàiyuán,太原,Taiyuan,Mainland China,Shanxi
+1084A,37.7124,112.469,jìnyuán,晋源,Jinyuan,tàiyuán,太原,Taiyuan,Mainland China,Shanxi
+1085A,37.7394,112.5583,xiǎodiàn,小店,Small shop,tàiyuán,太原,Taiyuan,Mainland China,Shanxi
+1086A,37.8692,112.5369,táoyuán,桃园,Peach Park,tàiyuán,太原,Taiyuan,Mainland China,Shanxi
+1087A,37.8195,112.57,wùchéng,坞城,Dock city,tàiyuán,太原,Taiyuan,Mainland China,Shanxi
+1088A,37.9854,112.549,nánzhài,南寨,Nanzhai,tàiyuán,太原,Taiyuan,Mainland China,Shanxi
+1089A,37.7805,112.488,jīnshèng,金胜,Jin Sheng,tàiyuán,太原,Taiyuan,Mainland China,Shanxi
+1090A,40.7579,111.651,hūshìyījiān,呼市一监,Hohichi,hūhéhàotè,呼和浩特,Hohhot,Mainland China,Nei Mongol
+1091A,40.8033,111.658,xiǎozhào,小召,Xiao Zhao,hūhéhàotè,呼和浩特,Hohhot,Mainland China,Nei Mongol
+1092A,40.8452,111.659,xīngsōngxiǎoqū,兴松小区,Xingsong Community,hūhéhàotè,呼和浩特,Hohhot,Mainland China,Nei Mongol
+1093A,40.8144,111.608,tángchǎng,糖厂,Sugar factory,hūhéhàotè,呼和浩特,Hohhot,Mainland China,Nei Mongol
+1094A,40.8369,111.751,rúyìshǔichùlǐchǎng,如意水处理厂,Ruyi Water Treatment Plant,hūhéhàotè,呼和浩特,Hohhot,Mainland China,Nei Mongol
+1095A,40.8062,111.7277,èrshíjǐuzhōng,二十九中,Twenty-nine,hūhéhàotè,呼和浩特,Hohhot,Mainland China,Nei Mongol
+1096A,40.7866,111.551,gōngdàjīnchuānxiàoqū,工大金川校区,Gongda Jinchuan Campus,hūhéhàotè,呼和浩特,Hohhot,Mainland China,Nei Mongol
+1097A,40.7612,111.717,huàféichǎngshēnghuóqū,化肥厂生活区,Fertilizer plant living area,hūhéhàotè,呼和浩特,Hohhot,Mainland China,Nei Mongol
+1098A,41.9339,123.6836,sēnlínlù,森林路,Forest road,shěnyáng,沈阳,Shenyang,Mainland China,Liaoning
+1099A,41.7561,123.535,húnnándōnglù,浑南东路,South East Road,shěnyáng,沈阳,Shenyang,Mainland China,Liaoning
+1100A,41.7089,123.439,xīnxìujiē,新秀街,New show street,shěnyáng,沈阳,Shenyang,Mainland China,Liaoning
+1101A,41.7694,123.284,cānghǎilù,沧海路,Bohai Road,shěnyáng,沈阳,Shenyang,Mainland China,Liaoning
+1102A,41.8336,123.542,dōnglínglù,东陵路,Dongling Road,shěnyáng,沈阳,Shenyang,Mainland China,Liaoning
+1103A,41.8472,123.428,língdōngjiē,陵东街,Lingdong Street,shěnyáng,沈阳,Shenyang,Mainland China,Liaoning
+1104A,41.765,123.41,wénhuàlù,文化路,Cultural road,shěnyáng,沈阳,Shenyang,Mainland China,Liaoning
+1105A,41.7775,123.478,xiǎohéyán,小河沿,Small riverside,shěnyáng,沈阳,Shenyang,Mainland China,Liaoning
+1106A,41.7972,123.3997,tàiyuánjiē,太原街,Taiyuan Street,shěnyáng,沈阳,Shenyang,Mainland China,Liaoning
+1107A,41.7806,123.3606,nánshídōnglù,南十东路,Nanshi East Road,shěnyáng,沈阳,Shenyang,Mainland China,Liaoning
+1108A,41.9228,123.3783,jīngshěnjiē,京沈街,Jingshen Street,shěnyáng,沈阳,Shenyang,Mainland China,Liaoning
+1109A,38.973888889,121.61194444,gānjǐngzǐ,甘井子,Ganjingzi,dàlián,大连,Dalian,Mainland China,Liaoning
+1110A,38.951111110999996,121.565,zhōushǔizǐ,周水子,Zhou Shuizi,dàlián,大连,Dalian,Mainland China,Liaoning
+1111A,38.885,121.56388889,xīnghǎisānzhàn,星海三站,Xinghai Third Station,dàlián,大连,Dalian,Mainland China,Liaoning
+1112A,38.911944444,121.63305556,qīngníwāqiáo,青泥洼桥,Qingniu Bridge,dàlián,大连,Dalian,Mainland China,Liaoning
+1113A,38.863888889,121.625,fùjiāzhuāng,傅家庄,Fujiazhuang,dàlián,大连,Dalian,Mainland China,Liaoning
+1114A,38.856111111,121.51805556,qīxiánlíng,七贤岭,Qixianling,dàlián,大连,Dalian,Mainland China,Liaoning
+1115A,38.808055556,121.25888889,lv̌shùn,旅顺,Lushun,dàlián,大连,Dalian,Mainland China,Liaoning
+1116A,39.1311,121.7481,jīnzhōu,金州,Golden State,dàlián,大连,Dalian,Mainland China,Liaoning
+1117A,39.0511,121.7769,kāifāqū,开发区,Thereof: Development,dàlián,大连,Dalian,Mainland China,Liaoning
+1118A,39.0631,121.9769,shuāngDgǎng,双D港,Double D port,dàlián,大连,Dalian,Mainland China,Liaoning
+1119A,43.9167,125.323,shípǐnchǎng,食品厂,food factory,chángchūn,长春,Changchun,Mainland China,Jilin
+1120A,43.91,125.287,kèchēchǎng,客车厂,Bus factory,chángchūn,长春,Changchun,Mainland China,Jilin
+1121A,43.84,125.2786,yóudiànxuéyuàn,邮电学院,School of Posts and Telecommunications,chángchūn,长春,Changchun,Mainland China,Jilin
+1122A,43.8748,125.3649,láodònggōngyuán,劳动公园,Labor park,chángchūn,长春,Changchun,Mainland China,Jilin
+1123A,43.8694,125.325,yuánlínchù,园林处,Garden office,chángchūn,长春,Changchun,Mainland China,Jilin
+1124A,43.7878,125.454,jìngyuètán,净月潭,Jingyuetan,chángchūn,长春,Changchun,Mainland China,Jilin
+1125A,43.55,125.633,shuǎiwānzǐ,甩湾子,Tsuen Wanzi,chángchūn,长春,Changchun,Mainland China,Jilin
+1126A,43.8667,125.417,jīngkāiqūhuánwèichù,经开区环卫处,Economic Development Zone,chángchūn,长春,Changchun,Mainland China,Jilin
+1127A,43.8167,125.25,gāoxīnqūguǎnwěihùi,高新区管委会,High-tech Zone Management Committee,chángchūn,长春,Changchun,Mainland China,Jilin
+1128A,43.85,125.217,dàishāngōngyuán,岱山公园,Lushan Park,chángchūn,长春,Changchun,Mainland China,Jilin
+1129A,45.755,126.542,língběi,岭北,Lingbei,hāěrbīn,哈尔滨,Harbin,Mainland China,Heilongjiang
+1130A,45.8167,126.561,sōngběishāngdà,松北商大,Songbei Business University,hāěrbīn,哈尔滨,Harbin,Mainland China,Heilongjiang
+1131A,45.5422,126.979,āchénghùiníng,阿城会宁,Acheng Huining,hāěrbīn,哈尔滨,Harbin,Mainland China,Heilongjiang
+1132A,45.7222,126.599,nángǎngxuéfǔlù,南岗学府路,Nangang Xuefu Road,hāěrbīn,哈尔滨,Harbin,Mainland China,Heilongjiang
+1133A,45.7733,126.689,tàipínghóngwěigōngyuán,太平宏伟公园,Taiping Grand Park,hāěrbīn,哈尔滨,Harbin,Mainland China,Heilongjiang
+1134A,45.7667,126.635,dàowàichéngdéguǎngcháng,道外承德广场,Chengde Square,hāěrbīn,哈尔滨,Harbin,Mainland China,Heilongjiang
+1135A,45.7319,126.685,xiāngfānghóngqídàjiē,香坊红旗大街,Xiangfang Hongqi Street,hāěrbīn,哈尔滨,Harbin,Mainland China,Heilongjiang
+1136A,45.7258,126.646,dònglìhépínglù,动力和平路,Power and peace road,hāěrbīn,哈尔滨,Harbin,Mainland China,Heilongjiang
+1137A,45.7478,126.593,dàolǐjiànguólù,道里建国路,Daoli Jianguo Road,hāěrbīn,哈尔滨,Harbin,Mainland China,Heilongjiang
+1138A,45.61,126.615,píngfángdōngqīngchǎng,平房东轻厂,Bungalow East Light Factory,hāěrbīn,哈尔滨,Harbin,Mainland China,Heilongjiang
+1139A,45.9819,126.6106,hūlánshīzhuān,呼兰师专,Hulan Teachers College,hāěrbīn,哈尔滨,Harbin,Mainland China,Heilongjiang
+1140A,45.6842,126.6206,shěngnóngkēyuàn,省农科院,Provincial Academy of Agricultural Sciences,hāěrbīn,哈尔滨,Harbin,Mainland China,Heilongjiang
+1141A,31.238000000000003,121.4,pǔtuó,普陀,Putuo,shànghǎi,上海,Shanghai,Mainland China,Shanghai
+1142A,31.2036,121.478,shíwǔchǎng,十五厂,Fifteen factory,shànghǎi,上海,Shanghai,Mainland China,Shanghai
+1143A,31.3008,121.467,hóngkǒu,虹口,Hongkou,shànghǎi,上海,Shanghai,Mainland China,Shanghai
+1144A,31.1654,121.412,xúhùishàngshīdà,徐汇上师大,Xuhui Masters,shànghǎi,上海,Shanghai,Mainland China,Shanghai
+1145A,31.2659,121.536,yángpǔsìpiāo,杨浦四漂,Yangpu four float,shànghǎi,上海,Shanghai,Mainland China,Shanghai
+1146A,31.0935,120.978,qīngpǔdiànshānhú,青浦淀山湖,Qingpu Dianshan Lake,shànghǎi,上海,Shanghai,Mainland China,Shanghai
+1147A,31.2261,121.425,jìngānjiāncèzhàn,静安监测站,Jing&#39;an Monitoring Station,shànghǎi,上海,Shanghai,Mainland China,Shanghai
+1148A,31.1907,121.703,pǔdōngchuānshā,浦东川沙,Pudong Chuansha,shànghǎi,上海,Shanghai,Mainland China,Shanghai
+1149A,31.2284,121.533,pǔdōngxīnqūjiāncèzhàn,浦东新区监测站,Pudong New Area Monitoring Station,shànghǎi,上海,Shanghai,Mainland China,Shanghai
+1150A,31.2071,121.577,pǔdōngzhāngjiāng,浦东张江,Pudong Zhangjiang,shànghǎi,上海,Shanghai,Mainland China,Shanghai
+1151A,32.1083,118.803,màigāoqiáo,迈皋桥,Maiqiao Bridge,nánjīng,南京,Nanjing,Mainland China,Jiangsu
+1152A,32.0572,118.749,cǎochángmén,草场门,Grassland gate,nánjīng,南京,Nanjing,Mainland China,Jiangsu
+1153A,32.0723,118.778,shānxīlù,山西路,Shanxi Road,nánjīng,南京,Nanjing,Mainland China,Jiangsu
+1154A,32.0144,118.777,zhōnghuámén,中华门,Zhonghuamen,nánjīng,南京,Nanjing,Mainland China,Jiangsu
+1155A,32.0314,118.803,rùijīnlù,瑞金路,Ruijin Road,nánjīng,南京,Nanjing,Mainland China,Jiangsu
+1156A,32.0775,118.795,xuánwǔhú,玄武湖,Xuanwu Lake,nánjīng,南京,Nanjing,Mainland China,Jiangsu
+1158A,32.0092,118.737,àotǐzhōngxīn,奥体中心,Olympic Sports Center,nánjīng,南京,Nanjing,Mainland China,Jiangsu
+1159A,32.105,118.907,xiānlíndàxuéchéng,仙林大学城,Xianlin University City,nánjīng,南京,Nanjing,Mainland China,Jiangsu
+1160A,31.2472,120.561,shàngfāngshān,上方山,Upper mountain,sūzhōu,苏州,Suzhou,Mainland China,Jiangsu
+1161A,31.2864,120.628,nánmén,南门,South gate,sūzhōu,苏州,Suzhou,Mainland China,Jiangsu
+1162A,31.3019,120.591,cǎixiāng,彩香,Colorful,sūzhōu,苏州,Suzhou,Mainland China,Jiangsu
+1163A,31.3264,120.596,yàgāngchǎng,轧钢厂,Rolling mill,sūzhōu,苏州,Suzhou,Mainland China,Jiangsu
+1164A,31.2703,120.613,wúzhōngqū,吴中区,Wuzhong District,sūzhōu,苏州,Suzhou,Mainland China,Jiangsu
+1165A,31.2994,120.543,sūzhōuxīnqū,苏州新区,Suzhou New District,sūzhōu,苏州,Suzhou,Mainland China,Jiangsu
+1166A,31.3097,120.669,sūzhōugōngyèyuánqū,苏州工业园区,Suzhou Industrial Park,sūzhōu,苏州,Suzhou,Mainland China,Jiangsu
+1168A,31.96,120.913,nánjiāo,南郊,Southern suburbs,nántōng,南通,Nantong,Mainland China,Jiangsu
+1169A,32.0005,120.86,hóngqiáo,虹桥,Hongqiao,nántōng,南通,Nantong,Mainland China,Jiangsu
+1170A,32.02,120.87,chéngzhōng,城中,In the city,nántōng,南通,Nantong,Mainland China,Jiangsu
+1171A,31.93,120.94,xīnghúhuāyuán,星湖花园,Star Lake Garden,nántōng,南通,Nantong,Mainland China,Jiangsu
+1172A,32.0417,120.81,zǐlángxuéyuàn,紫琅学院,Ziyan College,nántōng,南通,Nantong,Mainland China,Jiangsu
+1173A,34.5885,119.176,shìhuánjìngjiāncèzhàn,市环境监测站,City Environmental Monitoring Station,liányúngǎng,连云港,Lianyungang,Mainland China,Jiangsu
+1174A,34.5896,119.141,hóngménpàichūsuǒ,洪门派出所,Hongmen Police Station,liányúngǎng,连云港,Lianyungang,Mainland China,Jiangsu
+1175A,34.7507,119.368,xūgōuhédiànzhuānjiācūn,墟沟核电专家村,Xugou Nuclear Power Expert Village,liányúngǎng,连云港,Lianyungang,Mainland China,Jiangsu
+1176A,34.6984,119.348,kāifāqūhéngrùiyìyàogōngsī,开发区恒瑞医药公司,Development Zone Hengrui Pharmaceutical Company,liányúngǎng,连云港,Lianyungang,Mainland China,Jiangsu
+1177A,34.2761,117.167,huánghéxīncūn,黄河新村,Yellow River New Village,xúzhōu,徐州,Xuzhou,Mainland China,Jiangsu
+1178A,34.2417,117.192,huáitǎ,淮塔,Huaita,xúzhōu,徐州,Xuzhou,Mainland China,Jiangsu
+1179A,34.3083,117.192,tóngshānshòuyìyuàn,铜山兽医院,Tongshan Beast Hospital,xúzhōu,徐州,Xuzhou,Mainland China,Jiangsu
+1180A,34.2153,117.256,xīnchéngqū,新城区,Xincheng,xúzhōu,徐州,Xuzhou,Mainland China,Jiangsu
+1181A,34.2911,117.244,táoyuánlù,桃园路,Taoyuan Road,xúzhōu,徐州,Xuzhou,Mainland China,Jiangsu
+1182A,34.2778,117.2933,nóngkēyuàn,农科院,Academy of Agricultural Sciences,xúzhōu,徐州,Xuzhou,Mainland China,Jiangsu
+1183A,34.1806,117.166,tóngshānqūhuánbǎojú,铜山区环保局,Tongshan District Environmental Protection Bureau,xúzhōu,徐州,Xuzhou,Mainland China,Jiangsu
+1184A,32.3878,119.46,chéngdōngcáizhèngsuǒ,城东财政所,Chengdong Finance Office,yángzhōu,扬州,Yangzhou,Mainland China,Jiangsu
+1185A,32.41,119.404,shìjiāncèzhàn,市监测站,City monitoring station,yángzhōu,扬州,Yangzhou,Mainland China,Jiangsu
+1186A,32.3761,119.389,hánjiāngjiāncèzhàn,邗江监测站,Minjiang Monitoring Station,yángzhōu,扬州,Yangzhou,Mainland China,Jiangsu
+1187A,32.4033,119.439,dìsìyìyuàn,第四医院,Fourth hospital,yángzhōu,扬州,Yangzhou,Mainland China,Jiangsu
+1188A,31.4867,120.269,xuělàng,雪浪,Snow wave,wúxí,无锡,Wuxi,Mainland China,Jiangsu
+1189A,31.6219,120.275,huángxiàng,黄巷,Yellow alley,wúxí,无锡,Wuxi,Mainland China,Jiangsu
+1191A,31.5031,120.242,qītáng,漆塘,Paint pond,wúxí,无锡,Wuxi,Mainland China,Jiangsu
+1192A,31.5848,120.354,dōngtíng,东亭,Dongting,wúxí,无锡,Wuxi,Mainland China,Jiangsu
+1193A,31.5475,120.354,wàngzhuāng,旺庄,Wangzhuang,wúxí,无锡,Wuxi,Mainland China,Jiangsu
+1194A,31.5631,120.245,róngxiàng,荣巷,Rongxiang,wúxí,无锡,Wuxi,Mainland China,Jiangsu
+1195A,31.6842,120.288,yànqiáo,堰桥,Bridge,wúxí,无锡,Wuxi,Mainland China,Jiangsu
+1196A,31.7586,119.996,shìjiāncèzhàn,市监测站,City monitoring station,chángzhōu,常州,Changzhou,Mainland China,Jiangsu
+1197A,31.7786,119.933,chéngjiànxuéxiào,城建学校,Urban construction school,chángzhōu,常州,Changzhou,Mainland China,Jiangsu
+1198A,31.8089,119.962,chánggōngyuàn,常工院,Changgongyuan,chángzhōu,常州,Changzhou,Mainland China,Jiangsu
+1199A,31.7638,120.0393,lùchéng,潞城,Yucheng,chángzhōu,常州,Changzhou,Mainland China,Jiangsu
+1200A,31.7039,119.935,wǔjìnjiāncèzhàn,武进监测站,Wujin Monitoring Station,chángzhōu,常州,Changzhou,Mainland China,Jiangsu
+1201A,31.9108,119.905,ānjiā,安家,settle down,chángzhōu,常州,Changzhou,Mainland China,Jiangsu
+1202A,32.205490000000005,119.42511,huánjìngjiāncèzhàn,环境监测站,Environmental monitoring observatories;,zhènjiāng,镇江,Zhenjiang,Mainland China,Jiangsu
+1203A,32.1883,119.68,xīnqūbànshìchù,新区办事处,New District Office,zhènjiāng,镇江,Zhenjiang,Mainland China,Jiangsu
+1204A,32.215,119.491,zhíjiàozhōngxīn,职教中心,Vocational education center,zhènjiāng,镇江,Zhenjiang,Mainland China,Jiangsu
+1205A,32.1319,119.43,dāntúqūjiāncèzhàn,丹徒区监测站,Dantu District Monitoring Station,zhènjiāng,镇江,Zhenjiang,Mainland China,Jiangsu
+1206A,32.4867,119.9,gōngyuánlù,公园路,Park Road,tàizhōu,泰州,Taizhou,Mainland China,Jiangsu
+1207A,32.4611,119.9219,liánhuā,莲花,Nelumbo nucifera,tàizhōu,泰州,Taizhou,Mainland China,Jiangsu
+1208A,32.303000000000004,119.882,gāogǎngqūzhèngfǔ,高港区政府,Gaogang District Government,tàizhōu,泰州,Taizhou,Mainland China,Jiangsu
+1209A,32.4639,119.888,líuxuéshēngchuàngyèyuán,留学生创业园,International Student Pioneer Park,tàizhōu,泰州,Taizhou,Mainland China,Jiangsu
+1210A,33.5981,119.036,bōchíshān,钵池山,Dianchishan,huáiān,淮安,Huaian,Mainland China,Jiangsu
+1211A,33.575,119.007,běijīngnánlù,北京南路,Beijing South Road,huáiān,淮安,Huaian,Mainland China,Jiangsu
+1212A,33.6067,118.989,shìjiāncèzhàn,市监测站,City monitoring station,huáiān,淮安,Huaian,Mainland China,Jiangsu
+1213A,33.5039,119.135,chǔzhōuqūjiāncèzhàn,楚州区监测站,Chuzhou District Monitoring Station,huáiān,淮安,Huaian,Mainland China,Jiangsu
+1214A,33.626999999999995,119.0122,huáiyīnqūjiāncèzhàn,淮阴区监测站,Huaiyin District Monitoring Station,huáiān,淮安,Huaian,Mainland China,Jiangsu
+1215A,33.4022,120.118,yánchéngdiànchǎng,盐城电厂,Yancheng Power Plant,yánchéng,盐城,Yancheng,Mainland China,Jiangsu
+1216A,33.3942,120.156,shìjiāncèzhàn,市监测站,City monitoring station,yánchéng,盐城,Yancheng,Mainland China,Jiangsu
+1217A,33.3719,120.129,wénfēngzhōngxué,文峰中学,Wenfeng Middle School,yánchéng,盐城,Yancheng,Mainland China,Jiangsu
+1218A,33.3947,120.225,kāifāqūguǎnwěihùi,开发区管委会,Development Zone Management Committee,yánchéng,盐城,Yancheng,Mainland China,Jiangsu
+1219A,33.96,118.2658,shìjiāncèzhàn,市监测站,City monitoring station,sùqiān,宿迁,Suqian,Mainland China,Jiangsu
+1220A,33.9528,118.293,sùqiānxuéyuàn,宿迁学院,Suqian College,sùqiān,宿迁,Suqian,Mainland China,Jiangsu
+1221A,33.9592,118.2442,sùqiānzhōngxué,宿迁中学,Suqian Middle School,sùqiān,宿迁,Suqian,Mainland China,Jiangsu
+1222A,33.9506,118.3214,sùyùqūhuánbǎojú,宿豫区环保局,Suyu District Environmental Protection Bureau,sùqiān,宿迁,Suqian,Mainland China,Jiangsu
+1223A,30.21,120.211,bīnjiāng,滨江,Riverside,hángzhōu,杭州,Hangzhou,Mainland China,Zhejiang
+1224A,30.2747,120.063,xīxī,西溪,Xixi,hángzhōu,杭州,Hangzhou,Mainland China,Zhejiang
+1225A,29.635,119.026,qiāndǎohú,千岛湖,Qiandao Lake,hángzhōu,杭州,Hangzhou,Mainland China,Zhejiang
+1226A,30.3058,120.348,xiàshā,下沙,Xiasha,hángzhōu,杭州,Hangzhou,Mainland China,Zhejiang
+1227A,30.2456,120.127,wòlóngqiáo,卧龙桥,Wolong Bridge,hángzhōu,杭州,Hangzhou,Mainland China,Zhejiang
+1228A,30.2692,120.19,zhèjiāngnóngdà,浙江农大,Zhejiang Agricultural University,hángzhōu,杭州,Hangzhou,Mainland China,Zhejiang
+1229A,30.2897,120.157,zhāohūiwǔqū,朝晖五区,Zhaohui District,hángzhōu,杭州,Hangzhou,Mainland China,Zhejiang
+1230A,30.3119,120.12,hémùxiǎoxué,和睦小学,Heyi Primary School,hángzhōu,杭州,Hangzhou,Mainland China,Zhejiang
+1231A,30.4183,120.301,línpíngzhèn,临平镇,Linping Town,hángzhōu,杭州,Hangzhou,Mainland China,Zhejiang
+1232A,30.1819,120.27,chéngxiāngzhèn,城厢镇,Chengxiang Town,hángzhōu,杭州,Hangzhou,Mainland China,Zhejiang
+1233A,30.1808,120.088,yúnqī,云栖,Yunqi,hángzhōu,杭州,Hangzhou,Mainland China,Zhejiang
+1234A,29.9108,121.836,qūhuánbǎodàlóu,区环保大楼,District Environmental Protection Building,níngbō,宁波,Ningbo,Mainland China,Zhejiang
+1235A,29.8208,121.56,wànlǐxuéyuàn,万里学院,Wanli College,níngbō,宁波,Ningbo,Mainland China,Zhejiang
+1236A,29.9572,121.713,lóngsàiyìyuàn,龙赛医院,Long Sai Hospital,níngbō,宁波,Ningbo,Mainland China,Zhejiang
+1237A,29.8906,121.554,sānjiāngzhōngxué,三江中学,Sanjiang Middle School,níngbō,宁波,Ningbo,Mainland China,Zhejiang
+1238A,29.90154,121.61927,shìzhèngguǎnlǐzhàn,市政管理站,Municipal management station,níngbō,宁波,Ningbo,Mainland China,Zhejiang
+1239A,29.7736,121.633,qiánhúshǔichǎng,钱湖水厂,Qianhu Water Plant,níngbō,宁波,Ningbo,Mainland China,Zhejiang
+1240A,29.8633,121.586,tàigǔxiǎoxué,太古小学,Taikoo Elementary School,níngbō,宁波,Ningbo,Mainland China,Zhejiang
+1241A,29.8506,121.524,shìhuánjìngjiāncèzhōngxīn,市环境监测中心,City Environmental Monitoring Center,níngbō,宁波,Ningbo,Mainland China,Zhejiang
+1242A,28.0089,120.634,ōuhǎi,瓯海,Bohai,wēnzhōu,温州,Wenzhou,Mainland China,Zhejiang
+1243A,27.9939,120.677,nánpǔ,南浦,Nanpu,wēnzhōu,温州,Wenzhou,Mainland China,Zhejiang
+1244A,27.9747,120.76,lóngwān,龙湾,Longwan,wēnzhōu,温州,Wenzhou,Mainland China,Zhejiang
+1245A,28.0167,120.671,shìzhàn,市站,City station,wēnzhōu,温州,Wenzhou,Mainland China,Zhejiang
+1246A,30.0911,120.598,páojiāngzhàn,袍江站,Paojiang Station,shàoxīng,绍兴,Shaoxing,Mainland China,Zhejiang
+1247A,29.9919,120.605,chéngdōngkāifāwěi,城东开发委,Chengdong Development Committee,shàoxīng,绍兴,Shaoxing,Mainland China,Zhejiang
+1248A,30.007,120.576,shìhuánbǎozhàn,市环保站,City Environmental Protection Station,shàoxīng,绍兴,Shaoxing,Mainland China,Zhejiang
+1249A,30.8867,120.1,chéngběishǔichǎng,城北水厂,Chengbei Water Plant,húzhōu,湖州,Huzhou,Mainland China,Zhejiang
+1250A,30.8244,120.07,chéngxīshǔichǎng,城西水厂,Chengxi Water Plant,húzhōu,湖州,Huzhou,Mainland China,Zhejiang
+1251A,30.8617,120.093,jíshānxīncūn,吉山新村,Jishan New Village,húzhōu,湖州,Huzhou,Mainland China,Zhejiang
+1252A,30.7946,120.744,qīnghéxiǎoxué,清河小学,Qinghe Primary School,jiāxīng,嘉兴,Jiaxing,Mainland China,Zhejiang
+1253A,30.7478,120.726,jiāxīngxuéyuàn,嘉兴学院,Jiaxing College,jiāxīng,嘉兴,Jiaxing,Mainland China,Zhejiang
+1254A,30.75642,120.75971,jiāncèzhàn,监测站,GHG monitoring,jiāxīng,嘉兴,Jiaxing,Mainland China,Zhejiang
+1255A,28.6459,121.273,huángyánhuánbǎodàlóu,黄岩环保大楼,Huangyan Environmental Protection Building,táizhōu,台州,Taizhou,Mainland China,Zhejiang
+1256A,28.6542,121.419,táizhōuhuánbǎodàlóu,台州环保大楼,Taizhou Environmental Protection Building,táizhōu,台州,Taizhou,Mainland China,Zhejiang
+1257A,28.5773,121.377,lùqiáotiányángwáng,路桥田洋王,Luqiao Tianyang Wang,táizhōu,台州,Taizhou,Mainland China,Zhejiang
+1258A,30.0203,122.122,dìnghǎitánfēng,定海檀枫,Dinghai Tanfeng,zhōushān,舟山,Zhoushan,Mainland China,Zhejiang
+1259A,29.9558,122.3094,pǔtuódōnggǎng,普陀东港,Putuo Donggang,zhōushān,舟山,Zhoushan,Mainland China,Zhejiang
+1260A,29.9944,122.19,línchéngxīnqū,临城新区,Lincheng New District,zhōushān,舟山,Zhoushan,Mainland China,Zhejiang
+1261A,29.1131,119.649,sìzhōng,四中,Fourth,jīnhuá,金华,Jinhua,Mainland China,Zhejiang
+1262A,29.077,119.647,shíwǔzhōng,十五中,Fifteen,jīnhuá,金华,Jinhua,Mainland China,Zhejiang
+1263A,29.1029,119.686,jiāncèzhàn,监测站,GHG monitoring,jīnhuá,金华,Jinhua,Mainland China,Zhejiang
+1265A,28.9664,118.871,shíyànxuéxiào,实验学校,experiment School,qúzhōu,衢州,Zhangzhou,Mainland China,Zhejiang
+1266A,28.9745,118.855,qúzhōuxuéyuàn,衢州学院,Chuzhou College,qúzhōu,衢州,Zhangzhou,Mainland China,Zhejiang
+1267A,28.4514,119.914,jiāncèzhàndàlóu,监测站大楼,Monitoring station building,lìshǔi,丽水,Lishui,Mainland China,Zhejiang
+1268A,28.4586,119.93,liándūxiǎoxué,莲都小学,Liandu Primary School,lìshǔi,丽水,Lishui,Mainland China,Zhejiang
+1269A,28.4231,119.879,yúzhuāngqián,余庄前,Yu Zhuangqian,lìshǔi,丽水,Lishui,Mainland China,Zhejiang
+1270A,31.7848,117.196,míngzhūguǎngcháng,明珠广场,Pearl Square,héféi,合肥,Hefei,Mainland China,Anhui
+1271A,31.8766,117.307,sānlǐjiē,三里街,Sanli Street,héféi,合肥,Hefei,Mainland China,Anhui
+1272A,31.8706,117.259,hǔpòshānzhuāng,琥珀山庄,Amber Hill,héféi,合肥,Hefei,Mainland China,Anhui
+1273A,31.9051,117.16,dǒngpūshǔikù,董铺水库,Dongpu Reservoir,héféi,合肥,Hefei,Mainland China,Anhui
+1274A,31.8572,117.25,chángjiāngzhōnglù,长江中路,Yangtze River Middle Road,héféi,合肥,Hefei,Mainland China,Anhui
+1275A,31.9438,117.266,lúyángqū,庐阳区,Luyang District,héféi,合肥,Hefei,Mainland China,Anhui
+1276A,31.8585,117.336,yáohǎiqū,瑶海区,Yaohai District,héféi,合肥,Hefei,Mainland China,Anhui
+1277A,31.7956,117.302,bāohéqū,包河区,Baohe District,héféi,合肥,Hefei,Mainland China,Anhui
+1278A,31.7386,117.278,bīnhúxīnqū,滨湖新区,Binhu New District,héféi,合肥,Hefei,Mainland China,Anhui
+1279A,31.8516,117.124,gāoxīnqū,高新区,High-tech Zone,héféi,合肥,Hefei,Mainland China,Anhui
+1280A,26.0542,119.389,gǔshān,鼓山,Gushan,fúzhōu,福州,Fuzhou,Mainland China,Fujian
+1281A,26.0258,119.414,kuàiān,快安,Quick,fúzhōu,福州,Fuzhou,Mainland China,Fujian
+1282A,26.0392,119.303,shīdà,师大,Normal University,fúzhōu,福州,Fuzhou,Mainland China,Fujian
+1283A,26.1092,119.299,wǔsìběilù,五四北路,Wusi North Road,fúzhōu,福州,Fuzhou,Mainland China,Fujian
+1284A,26.0797,119.268,yángqiáoxīlù,杨桥西路,Yangqiao West Road,fúzhōu,福州,Fuzhou,Mainland China,Fujian
+1285A,26.0753,119.315,zǐyáng,紫阳,Ziyang,fúzhōu,福州,Fuzhou,Mainland China,Fujian
+1286A,24.818055555999997,118.15694444,xīdōng,溪东,Xidong,shàmén,厦门,Xiamen,Mainland China,Fujian
+1287A,24.476666666999996,118.15138889,hóngwén,洪文,Hong Wen,shàmén,厦门,Xiamen,Mainland China,Fujian
+1288A,24.445833333000003,118.06361111,gǔlàngyǔ,鼓浪屿,Gulangyu,shàmén,厦门,Xiamen,Mainland China,Fujian
+1290A,28.6844,115.893,shěngwàibàn,省外办,Provincial Foreign Affairs Office,nánchāng,南昌,Nanchang,Mainland China,Jiangxi
+1291A,28.6839,115.8886,shěnglínyègōngsī,省林业公司,Provincial Forestry Company,nánchāng,南昌,Nanchang,Mainland China,Jiangxi
+1292A,28.7442,115.813,línkēsuǒ,林科所,Forest Institute,nánchāng,南昌,Nanchang,Mainland China,Jiangxi
+1293A,28.6969,115.973,jīngdōngzhènzhèngfǔ,京东镇政府,Jingdong Town Government,nánchāng,南昌,Nanchang,Mainland China,Jiangxi
+1294A,28.6869,115.852,jiàngōngxuéxiào,建工学校,Construction school,nánchāng,南昌,Nanchang,Mainland China,Jiangxi
+1295A,28.6425,115.892,xiànghú,象湖,Elephant lake,nánchāng,南昌,Nanchang,Mainland China,Jiangxi
+1296A,28.7994,115.742,wǔzhúxuéxiào,武术学校,Martial arts school,nánchāng,南昌,Nanchang,Mainland China,Jiangxi
+1297A,28.6131,115.912,shíhuà,石化,Petrify,nánchāng,南昌,Nanchang,Mainland China,Jiangxi
+1298A,28.6844,115.931,shěngzhàn,省站,Provincial station,nánchāng,南昌,Nanchang,Mainland China,Jiangxi
+1299A,36.6114,116.988,kēgānsuǒ,科干所,Kogan,jìnán,济南,Jinan,Mainland China,Shandong
+1300A,36.67,116.93,nóngkēsuǒ,农科所,Agricultural Institute,jìnán,济南,Jinan,Mainland China,Shandong
+1301A,36.6739,117.114,kāifāqū,开发区,Thereof: Development,jìnán,济南,Jinan,Mainland China,Shandong
+1302A,36.6872,116.989,jìnánhuàgōngchǎng,济南化工厂,Jinan Chemical Plant,jìnán,济南,Jinan,Mainland China,Shandong
+1303A,36.6868,117.0684,shěngzhǒngzǐcāngkù,省种子仓库,Provincial seed warehouse,jìnán,济南,Jinan,Mainland China,Shandong
+1304A,36.6489,116.943,jīchuángèrchǎng,机床二厂,Machine tool factory,jìnán,济南,Jinan,Mainland China,Shandong
+1305A,36.6622,117.049,shìjiāncèzhàn,市监测站,City monitoring station,jìnán,济南,Jinan,Mainland China,Shandong
+1306A,36.5336,116.734,chángqīngdǎngxiào,长清党校,Changqing Party School,jìnán,济南,Jinan,Mainland China,Shandong
+1307A,36.2403,120.6659,yǎngkǒu,仰口,Yangkou,qīngdǎo,青岛,Qingdao,Mainland China,Shandong
+1308A,36.1851,120.3905,lǐcāngqūzǐzhàn,李沧区子站,Lisong District Substation,qīngdǎo,青岛,Qingdao,Mainland China,Shandong
+1310A,36.0654,120.4134,shìnánqūdōngbùzǐzhàn,市南区东部子站,City Southern District East Substation,qīngdǎo,青岛,Qingdao,Mainland China,Shandong
+1311A,36.1032,120.3664,sìfāngqūzǐzhàn,四方区子站,Sifang District Substation,qīngdǎo,青岛,Qingdao,Mainland China,Shandong
+1312A,36.0543,120.2992,shìnánqūxībùzǐzhàn,市南区西部子站,Shinan District West Substation,qīngdǎo,青岛,Qingdao,Mainland China,Shandong
+1313A,36.0851,120.4587,láoshānqūzǐzhàn,崂山区子站,Laoshan District Substation,qīngdǎo,青岛,Qingdao,Mainland China,Shandong
+1314A,36.3083,120.1964,huángdǎoqūzǐzhàn,黄岛区子站,Huangdao District Substation,qīngdǎo,青岛,Qingdao,Mainland China,Shandong
+1315A,36.2403,120.4001,chéngyángqūzǐzhàn,城阳区子站,Chengyang District Substation,qīngdǎo,青岛,Qingdao,Mainland China,Shandong
+1316A,34.7545,113.681,yānchǎng,烟厂,Tobacco factory,zhèngzhōu,郑州,Zhengzhou,Mainland China,Henan
+1317A,34.7745,113.641,zhèngfǎngjī,郑纺机,Zheng Textile Machinery,zhèngzhōu,郑州,Zhengzhou,Mainland China,Henan
+1318A,34.8019,113.675,yínxíngxuéxiào,银行学校,Bank school,zhèngzhōu,郑州,Zhengzhou,Mainland China,Henan
+1319A,34.802,113.564,gōngshǔigōngsī,供水公司,Water supply company,zhèngzhōu,郑州,Zhengzhou,Mainland China,Henan
+1320A,34.7187,113.727,jīngkāiqūguǎnwěi,经开区管委,Economic Development Zone Management Committee,zhèngzhōu,郑州,Zhengzhou,Mainland China,Henan
+1321A,34.719,113.734,sìshíqīzhōng,四十七中,Forty-seven,zhèngzhōu,郑州,Zhengzhou,Mainland China,Henan
+1322A,34.7496,113.5991,shìjiāncèzhàn,市监测站,City monitoring station,zhèngzhōu,郑州,Zhengzhou,Mainland China,Henan
+1323A,34.7538,113.6356,héyìdà,河医大,River Medical University,zhèngzhōu,郑州,Zhengzhou,Mainland China,Henan
+1324A,34.9162,113.6113,gǎnglǐshǔikù,岗李水库,Gangli Reservoir,zhèngzhōu,郑州,Zhengzhou,Mainland China,Henan
+1325A,30.5719,114.3672,dōnghúlíyuán,东湖梨园,Donghu Pear Garden,wǔhàn,武汉,Wuhan,Mainland China,Hubei
+1326A,30.5514,114.2511,hànyángyuèhú,汉阳月湖,Hanyang Yuehu,wǔhàn,武汉,Wuhan,Mainland China,Hubei
+1327A,30.6197,114.2836,hànkǒuhuāqiáo,汉口花桥,Hankou Flower Bridge,wǔhàn,武汉,Wuhan,Mainland China,Hubei
+1328A,30.5494,114.3006,wǔchāngzǐyáng,武昌紫阳,Wuchang Ziyang,wǔhàn,武汉,Wuhan,Mainland China,Hubei
+1329A,30.6103,114.4272,qīngshāngānghuā,青山钢花,Qingshan Steel Flower,wǔhàn,武汉,Wuhan,Mainland China,Hubei
+1330A,30.4753,114.1525,dùnkǒuxīnqū,沌口新区,Dunkou New District,wǔhàn,武汉,Wuhan,Mainland China,Hubei
+1331A,30.5947,114.3008,hànkǒujiāngtān,汉口江滩,Hankou River Beach,wǔhàn,武汉,Wuhan,Mainland China,Hubei
+1332A,30.4822,114.3894,dōnghúgāoxīn,东湖高新,Donghu High-tech,wǔhàn,武汉,Wuhan,Mainland China,Hubei
+1333A,30.6414,114.2131,wújiāshān,吴家山,Wujiashan,wǔhàn,武汉,Wuhan,Mainland China,Hubei
+1334A,30.2997,113.8531,chénhúqīháo,沉湖七壕,Shenhu Seven Miles,wǔhàn,武汉,Wuhan,Mainland China,Hubei
+1335A,28.2325,113.0833,jīngkāiqūhuánbǎojú,经开区环保局,Economic Development Zone Environmental Protection Bureau,chángshā,长沙,Changsha,Mainland China,Hunan
+1336A,28.2189,112.8872,gāokāiqūhuánbǎojú,高开区环保局,Gaokai District Environmental Protection Bureau,chángshā,长沙,Changsha,Mainland China,Hunan
+1337A,28.2053,113.0792,mǎpōlíng,马坡岭,Mapo Ridge,chángshā,长沙,Changsha,Mainland China,Hunan
+1338A,28.19,112.9394,húnánshīfàndàxué,湖南师范大学,Hunan Normal University,chángshā,长沙,Changsha,Mainland China,Hunan
+1339A,28.1442,112.9956,yǔhuāqūhuánbǎojú,雨花区环保局,Yuhua District Environmental Protection Bureau,chángshā,长沙,Changsha,Mainland China,Hunan
+1340A,28.2597,112.9792,wǔjiālíng,伍家岭,Wu Jialing,chángshā,长沙,Changsha,Mainland China,Hunan
+1341A,28.1944,113.0014,huǒchēxīnzhàn,火车新站,New train station,chángshā,长沙,Changsha,Mainland China,Hunan
+1342A,28.1178,112.9844,tiānxīnqūhuánbǎojú,天心区环保局,Tianxin District Environmental Protection Bureau,chángshā,长沙,Changsha,Mainland China,Hunan
+1343A,28.1308,112.8908,húnánzhōngyìyàodàxué,湖南中医药大学,Hunan University of Traditional Chinese Medicine,chángshā,长沙,Changsha,Mainland China,Hunan
+1344A,28.3586,112.9958,shāpíng,沙坪,Shaping,chángshā,长沙,Changsha,Mainland China,Hunan
+1345A,23.1422,113.235,guǎngyǎzhōngxué,广雅中学,Guangya Middle School,guǎngzhōu,广州,Guangzhou,Mainland China,Guangdong
+1346A,23.105,113.261,shìwǔzhōng,市五中,City No. 5,guǎngzhōu,广州,Guangzhou,Mainland China,Guangdong
+1347A,23.148770000000006,113.30676,tiānhézhíyòu,天河职幼,Tianhe Vocational and Child,guǎngzhōu,广州,Guangzhou,Mainland China,Guangdong
+1348A,23.0916,113.348,guǎngdōngshāngxuéyuàn,广东商学院,Guangdong Business School,guǎngzhōu,广州,Guangzhou,Mainland China,Guangdong
+1349A,23.105,113.433,shìbāshílìuzhōng,市八十六中,City 86,guǎngzhōu,广州,Guangzhou,Mainland China,Guangdong
+1350A,22.9477,113.352,fānyúzhōngxué,番禺中学,Panyu Middle School,guǎngzhōu,广州,Guangzhou,Mainland China,Guangdong
+1351A,23.3917,113.215,huādūshīfàn,花都师范,Huadu Teacher,guǎngzhōu,广州,Guangzhou,Mainland China,Guangdong
+1352A,23.1331,113.26,shìjiāncèzhàn,市监测站,City monitoring station,guǎngzhōu,广州,Guangzhou,Mainland China,Guangdong
+1353A,23.2783,113.568,jǐulóngzhènzhènlóng,九龙镇镇龙,Jiulong Zhenlong,guǎngzhōu,广州,Guangzhou,Mainland China,Guangdong
+1354A,23.1569,113.281,lùhú,麓湖,Wuhu,guǎngzhōu,广州,Guangzhou,Mainland China,Guangdong
+1355A,23.5538,113.589,màofēngshānsēnlíngōngyuán,帽峰山森林公园,Hat Peak Mountain Forest Park,guǎngzhōu,广州,Guangzhou,Mainland China,Guangdong
+1356A,22.5545,114.1063,lìyuán,荔园,Gion,shēnzhèn,深圳,Shenzhen,Mainland China,Guangdong
+1357A,22.5625,114.117,hónghú,洪湖,Honghu,shēnzhèn,深圳,Shenzhen,Mainland China,Guangdong
+1358A,22.5417,113.987,huáqiáochéng,华侨城,Overseas Chinese Town,shēnzhèn,深圳,Shenzhen,Mainland China,Guangdong
+1359A,22.5171,113.9181,nányóu,南油,South oil,shēnzhèn,深圳,Shenzhen,Mainland China,Guangdong
+1360A,22.5908,114.263,yántián,盐田,Yantian,shēnzhèn,深圳,Shenzhen,Mainland China,Guangdong
+1361A,22.7267,114.24,lónggǎng,龙岗,Longgang,shēnzhèn,深圳,Shenzhen,Mainland China,Guangdong
+1362A,22.5794,113.891,xīxiāng,西乡,Xixiang,shēnzhèn,深圳,Shenzhen,Mainland China,Guangdong
+1363A,22.5422,114.494,nánào,南澳,South Australia,shēnzhèn,深圳,Shenzhen,Mainland China,Guangdong
+1364A,22.6342,114.41,kúiyǒng,葵涌,Kwai Chung,shēnzhèn,深圳,Shenzhen,Mainland China,Guangdong
+1365A,22.5978,114.297,méishā,梅沙,Mesa,shēnzhèn,深圳,Shenzhen,Mainland China,Guangdong
+1366A,22.75,114.085,guānlán,观澜,Guanlan,shēnzhèn,深圳,Shenzhen,Mainland China,Guangdong
+1367A,22.2611,113.574,jídà,吉大,Jida,zhūhǎi,珠海,Zhuhai,Mainland China,Guangdong
+1368A,22.2294,113.495,qiánshān,前山,Front mountain,zhūhǎi,珠海,Zhuhai,Mainland China,Guangdong
+1369A,22.4251,113.628,tángjiā,唐家,Tang family,zhūhǎi,珠海,Zhuhai,Mainland China,Guangdong
+1370A,22.2281,113.299,dǒumén,斗门,Doumen,zhūhǎi,珠海,Zhuhai,Mainland China,Guangdong
+1371A,23.0048,113.134,wānliáng,湾梁,Bay beam,fóshān,佛山,Foshan,Mainland China,Guangdong
+1372A,23.0395,113.105,huácáizhízhōng,华材职中,Huacai middle school,fóshān,佛山,Foshan,Mainland China,Guangdong
+1373A,23.0467,113.144,nánhǎiqìxiàngjú,南海气象局,South China Sea Meteorological Bureau,fóshān,佛山,Foshan,Mainland China,Guangdong
+1374A,22.8054,113.292,shùndésūgǎng,顺德苏岗,Shunde Sugang,fóshān,佛山,Foshan,Mainland China,Guangdong
+1375A,22.7629,113.257,rónggùijiēdàobàn,容桂街道办,Ronggui Street Office,fóshān,佛山,Foshan,Mainland China,Guangdong
+1376A,22.8693,112.844,gāomíngkǒngtáng,高明孔堂,Gao Ming Kong Tang,fóshān,佛山,Foshan,Mainland China,Guangdong
+1377A,23.1572,112.885,sānshǔijiāncèzhàn,三水监测站,Sanshui Monitoring Station,fóshān,佛山,Foshan,Mainland China,Guangdong
+1378A,23.1886,112.863,sānshǔiyúndōnghǎi,三水云东海,Sanshui Yundonghai,fóshān,佛山,Foshan,Mainland China,Guangdong
+1379A,22.5211,113.3769,huábǎiyuán,华柏园,Huabaiyuan,zhōngshān,中山,Zhongshan,Mainland China,Guangdong
+1380A,22.5497,113.3881,zhāngxī,张溪,Zhang Xi,zhōngshān,中山,Zhongshan,Mainland China,Guangdong
+1381A,22.5111,113.4075,zǐmǎlíng,紫马岭,Zimaling,zhōngshān,中山,Zhongshan,Mainland China,Guangdong
+1382A,22.4853,113.4411,chángjiānglv̌yóuqū,长江旅游区,Yangtze River Tourist Area,zhōngshān,中山,Zhongshan,Mainland China,Guangdong
+1383A,22.6069,113.104,běijiē,北街,North Street,jiāngmén,江门,Jiangmen,Mainland China,Guangdong
+1384A,22.5811,113.074,xīqū,西区,West region,jiāngmén,江门,Jiangmen,Mainland China,Guangdong
+1385A,22.5328,113.024,gūifēngxī,圭峰西,Guifeng West,jiāngmén,江门,Jiangmen,Mainland China,Guangdong
+1386A,22.5931,113.0819,dōnghú,东湖,East lake,jiāngmén,江门,Jiangmen,Mainland China,Guangdong
+1387A,23.05361111,113.7819444,dōngchéngzhǔshān,东城主山,Dongcheng main mountain,dōngguān,东莞,Dongguan,Mainland China,Guangdong
+1388A,23.02777778,113.7461111,nánchéngyuánlíng,南城元岭,Nancheng Yuanling,dōngguān,东莞,Dongguan,Mainland China,Guangdong
+1389A,23.06,113.7480556,guānchénglíchuān,莞城梨川,Guancheng Lichuan,dōngguān,东莞,Dongguan,Mainland China,Guangdong
+1390A,23.01277778,113.79444440000002,dōngchéngshíjǐng,东城石井,Dongcheng Ishii,dōngguān,东莞,Dongguan,Mainland China,Guangdong
+1391A,22.96583333,113.7383333,nánchéngxīpíng,南城西平,Nancheng Xiping,dōngguān,东莞,Dongguan,Mainland China,Guangdong
+1392A,23.0528,114.4183,hénánànjīnshānhúzǐzhàn,河南岸金山湖子站,Henan shore Jinshanhuzi Station,hùizhōu,惠州,Huizhou,Mainland China,Guangdong
+1393A,23.08,114.4053,xiàpǔhéngjiāngsānlùzǐzhàn,下埔横江三路子站,Xiapu Hengjiang Sanlu Substation,hùizhōu,惠州,Huizhou,Mainland China,Guangdong
+1394A,23.1142,114.4103,jiāngběiyúnshānxīlùzǐzhàn,江北云山西路子站,Jiangbei West Road Substation,hùizhōu,惠州,Huizhou,Mainland China,Guangdong
+1395A,22.8172,114.3244,hùiyángqūchéngxīulùchuánhúzǐzhàn,惠阳区承修路船湖子站,Huiyang District Chengxiu Road Chuanhuzi Station,hùizhōu,惠州,Huizhou,Mainland China,Guangdong
+1396A,22.7422,114.5317,dàyàwānguǎnwěihùizǐzhàn,大亚湾管委会子站,Daya Bay Management Committee Substation,hùizhōu,惠州,Huizhou,Mainland China,Guangdong
+1397A,23.0706,112.427,mùgǎngzǐzhàn,睦岗子站,Qigangzi Station,zhàoqìng,肇庆,Zhaoqing,Mainland China,Guangdong
+1398A,23.0528,112.471,chéngzhōngzǐzhàn,城中子站,Chengzhongzi Station,zhàoqìng,肇庆,Zhaoqing,Mainland China,Guangdong
+1399A,23.1617,112.565,kēngkǒuzǐzhàn,坑口子站,Hangkouzi Station,zhàoqìng,肇庆,Zhaoqing,Mainland China,Guangdong
+1400A,23.0786,112.4722,qīxīngyánzǐzhàn,七星岩子站,Qixingyanzi Station,zhàoqìng,肇庆,Zhaoqing,Mainland China,Guangdong
+1401A,22.7875,108.301,zhènnínghuāyuán,振宁花园,Zhenning Garden,nánníng,南宁,Nanning,Mainland China,Guangxi
+1402A,22.8561,108.316,běihú,北湖,North Lake,nánníng,南宁,Nanning,Mainland China,Guangxi
+1403A,22.8225,108.321,shìjiāncèzhàn,市监测站,City monitoring station,nánníng,南宁,Nanning,Mainland China,Guangxi
+1404A,22.805,108.383,dàzìránhuāyuán,大自然花园,Nature garden,nánníng,南宁,Nanning,Mainland China,Guangxi
+1405A,22.7906,108.439,xiānhú,仙葫,Fairy,nánníng,南宁,Nanning,Mainland China,Guangxi
+1406A,22.8464,108.239,qūnóngzhíyuàn,区农职院,District Agricultural Vocational College,nánníng,南宁,Nanning,Mainland China,Guangxi
+1407A,22.735,108.328,yīnghuájiāyuán,英华嘉园,Yinghua Jiayuan,nánníng,南宁,Nanning,Mainland China,Guangxi
+1408A,22.7833,108.244,shājǐngzhènjiēdàobàn,沙井镇街道办,Shajing Town Street Office,nánníng,南宁,Nanning,Mainland China,Guangxi
+1409A,19.9507,110.576,dōngzhàigǎng,东寨港,Dongzhai Port,hǎikǒu,海口,Haikou,Mainland China,Hainan
+1410A,20.0574,110.3232,hǎinándàxué,海南大学,Hainan Univeristy,hǎikǒu,海口,Haikou,Mainland China,Hainan
+1411A,20.0053,110.283,xìuyīnghǎinányìyuàn,秀英海南医院,Xiuying Hainan Hospital,hǎikǒu,海口,Haikou,Mainland China,Hainan
+1412A,19.9969,110.338,hǎinánshīfàndàxué,海南师范大学,Hainan Normal University,hǎikǒu,海口,Haikou,Mainland China,Hainan
+1413A,20.0356,110.33,lónghuálùhuánbǎojúsùshè,龙华路环保局宿舍,Longhua Road Environmental Protection Bureau Hostel,hǎikǒu,海口,Haikou,Mainland China,Hainan
+1414A,29.8272,106.379,jìnyúnshān,缙云山,Jinyun Mountain,zhòngqìng,重庆,Chongqing,Mainland China,Chongqing
+1415A,29.5736,106.46,gāojiāhuāyuán,高家花园,Gaojia Garden,zhòngqìng,重庆,Chongqing,Mainland China,Chongqing
+1416A,29.8264,106.424,tiānshēng,天生,Born,zhòngqìng,重庆,Chongqing,Mainland China,Chongqing
+1417A,29.7228,106.626,liǎnglù,两路,Two way,zhòngqìng,重庆,Chongqing,Mainland China,Chongqing
+1418A,29.5983,106.296,hǔxī,虎溪,Huxi,zhòngqìng,重庆,Chongqing,Mainland China,Chongqing
+1419A,29.5186,106.54,nánpíng,南坪,Nanping,zhòngqìng,重庆,Chongqing,Mainland China,Chongqing
+1420A,29.6219,106.65,tángjiātuó,唐家沱,Tang Jiaxuan,zhòngqìng,重庆,Chongqing,Mainland China,Chongqing
+1421A,29.4892,106.634,cháyuán,茶园,tea garden,zhòngqìng,重庆,Chongqing,Mainland China,Chongqing
+1422A,29.4822,106.364,báishìyì,白市驿,White market,zhòngqìng,重庆,Chongqing,Mainland China,Chongqing
+1423A,29.5642,106.571,jiěfàngbēi,解放碑,Jiefangbei,zhòngqìng,重庆,Chongqing,Mainland China,Chongqing
+1424A,29.5164,106.512,yángjiāpíng,杨家坪,Yang Jiaping,zhòngqìng,重庆,Chongqing,Mainland China,Chongqing
+1425A,29.7125,106.617,kōnggǎng,空港,Airport,zhòngqìng,重庆,Chongqing,Mainland China,Chongqing
+1426A,29.4892,106.468,xīnshāncūn,新山村,Johor Bahru,zhòngqìng,重庆,Chongqing,Mainland China,Chongqing
+1427A,29.6453,106.562,lǐjiā,礼嘉,Lijia,zhòngqìng,重庆,Chongqing,Mainland China,Chongqing
+1428A,29.709,106.452,càijiā,蔡家,Cai Jia,zhòngqìng,重庆,Chongqing,Mainland China,Chongqing
+1429A,29.389,106.513,yúxīnjiē,鱼新街,Fish new street,zhòngqìng,重庆,Chongqing,Mainland China,Chongqing
+1430A,29.4272,106.591,nánquán,南泉,Nanquan,zhòngqìng,重庆,Chongqing,Mainland China,Chongqing
+1431A,30.72358333,103.97275,jīnquánliǎnghé,金泉两河,Jinquan two rivers,chéngdū,成都,Chengdu,Mainland China,Sichuan
+1432A,30.6872,104.176,shílǐdiàn,十里店,Shilidian,chéngdū,成都,Chengdu,Mainland China,Sichuan
+1433A,30.5706,104.079,sānwǎyáo,三瓦窑,Sanwa Kiln,chéngdū,成都,Chengdu,Mainland China,Sichuan
+1434A,30.63,104.1113889,shāhépū,沙河铺,Shahepu,chéngdū,成都,Chengdu,Mainland China,Sichuan
+1435A,30.685,104.074,liángjiāxiàng,梁家巷,Liangjiaxiang,chéngdū,成都,Chengdu,Mainland China,Sichuan
+1436A,30.6544,104.026,cǎotángsì,草堂寺,Caotang Temple,chéngdū,成都,Chengdu,Mainland China,Sichuan
+1437A,30.6578,104.054,jūnpíngjiē,君平街,Junping Street,chéngdū,成都,Chengdu,Mainland China,Sichuan
+1438A,31.0283,103.613,língyánsì,灵岩寺,Lingyan Temple,chéngdū,成都,Chengdu,Mainland China,Sichuan
+1439A,26.6029,106.6856,mǎānshān,马鞍山,Ma On Shan,gùiyáng,贵阳,Guiyang,Mainland China,Guizhou
+1440A,26.5689,106.6971,shìhuánbǎozhàn,市环保站,City Environmental Protection Station,gùiyáng,贵阳,Guiyang,Mainland China,Guizhou
+1441A,26.6266,106.6243,jiànhúlù,鉴湖路,Jianhu Road,gùiyáng,贵阳,Guiyang,Mainland China,Guizhou
+1442A,26.6343,106.7487,yànzǐchōng,燕子冲,Swallow,gùiyáng,贵阳,Guiyang,Mainland China,Guizhou
+1443A,26.4364,106.6554,bìyúnwō,碧云窝,Biyunwo,gùiyáng,贵阳,Guiyang,Mainland China,Guizhou
+1444A,26.5155,106.6948,zhōngyuàncūn,中院村,Zhongyuan Village,gùiyáng,贵阳,Guiyang,Mainland China,Guizhou
+1445A,26.6009,106.7105,hóngbiānmén,红边门,Red door,gùiyáng,贵阳,Guiyang,Mainland China,Guizhou
+1446A,26.5697,106.7164,xīnhuálù,新华路,Xinhua Road,gùiyáng,贵阳,Guiyang,Mainland China,Guizhou
+1449A,25.0124,102.743,guānshàng,关上,close,kūnmíng,昆明,Kunming,Mainland China,Yunnan
+1450A,24.8885,102.821,chénggòngxīnqū,呈贡新区,Chenggong New District,kūnmíng,昆明,Kunming,Mainland China,Yunnan
+1451A,24.9624,102.625,xīshānsēnlíngōngyuán,西山森林公园,Xishan Forest Park,kūnmíng,昆明,Kunming,Mainland China,Yunnan
+1452A,25.0836,102.728,lóngquánzhèn,龙泉镇,Longquan Town,kūnmíng,昆明,Kunming,Mainland China,Yunnan
+1453A,25.0405,102.722,dōngfēngdōnglù,东风东路,Dongfeng East Road,kūnmíng,昆明,Kunming,Mainland China,Yunnan
+1454A,25.067,102.681,jīndǐngshān,金鼎山,Jindingshan,kūnmíng,昆明,Kunming,Mainland China,Yunnan
+1455A,25.0359,102.638,bìjīguǎngcháng,碧鸡广场,Biji Square,kūnmíng,昆明,Kunming,Mainland China,Yunnan
+1456A,29.6514,91.1319,bākuòjiē,八廓街,Barkhor,lāsà,拉萨,Lhasa Googut,Mainland China,Xizang
+1457A,29.6747,91.1221,shìhuánbǎojú,市环保局,municipal environmental protection Bureau,lāsà,拉萨,Lhasa Googut,Mainland China,Xizang
+1458A,29.6475,91.0874,qūjiāncèzhàn,区监测站,District monitoring station,lāsà,拉萨,Lhasa Googut,Mainland China,Xizang
+1459A,29.6541,91.1774,xīcángdàxué,西藏大学,Tibet University,lāsà,拉萨,Lhasa Googut,Mainland China,Xizang
+1460A,29.6588,90.9798,qūfúshèzhàn,区辐射站,District radiation station,lāsà,拉萨,Lhasa Googut,Mainland China,Xizang
+1461A,29.6292,91.0834,lāsàhuǒchēzhàn,拉萨火车站,Lhasa Railway Station,lāsà,拉萨,Lhasa Googut,Mainland China,Xizang
+1462A,34.2749,108.882,gāoyākāiguānchǎng,高压开关厂,High voltage switch factory,xīān,西安,Xi'an,Mainland China,Shaanxi
+1463A,34.2629,108.993,xīngqìngxiǎoqū,兴庆小区,Xingqing Community,xīān,西安,Xi'an,Mainland China,Shaanxi
+1464A,34.2572,109.06,fǎngzhīchéng,纺织城,Fangzhicheng,xīān,西安,Xi'an,Mainland China,Shaanxi
+1465A,34.2324,108.94,xiǎozhài,小寨,Xiaozhai,xīān,西安,Xi'an,Mainland China,Shaanxi
+1466A,34.2713,108.954,shìrénmíntǐyùcháng,市人民体育场,City People&#39;s Stadium,xīān,西安,Xi'an,Mainland China,Shaanxi
+1467A,34.2303,108.883,gāoxīnxīqū,高新西区,Gaoxin West District,xīān,西安,Xi'an,Mainland China,Shaanxi
+1468A,34.3474,108.935,jīngkāiqū,经开区,Economic Development Zone,xīān,西安,Xi'an,Mainland China,Shaanxi
+1469A,34.1546,108.906,chángānqū,长安区,Chang'an District,xīān,西安,Xi'an,Mainland China,Shaanxi
+1470A,34.6575,109.2,yánliángqū,阎良区,Yanliang District,xīān,西安,Xi'an,Mainland China,Shaanxi
+1471A,34.3731,109.2186,líntóngqū,临潼区,Lintong District,xīān,西安,Xi'an,Mainland China,Shaanxi
+1472A,34.378,108.869,cǎotān,草滩,Grass beach,xīān,西安,Xi'an,Mainland China,Shaanxi
+1473A,34.1978,108.985,qūjiāngwénhuàchǎnyèjítuán,曲江文化产业集团,Qujiang Cultural Industry Group,xīān,西安,Xi'an,Mainland China,Shaanxi
+1474A,34.3274,109.043,guǎngyùntán,广运潭,Guangyuntan,xīān,西安,Xi'an,Mainland China,Shaanxi
+1475A,36.0756,103.712,zhígōngyìyuàn,职工医院,Staff hospital,lánzhōu,兰州,Lanzhou,Mainland China,Gansu
+1476A,36.1031,103.631,lánliànbīnguǎn,兰炼宾馆,Lanlian Hotel,lánzhōu,兰州,Lanzhou,Mainland China,Gansu
+1477A,35.94,104.148,yúzhōnglándàxiàoqū,榆中兰大校区,Langzhong Lanzhou Campus,lánzhōu,兰州,Lanzhou,Mainland China,Gansu
+1478A,36.0725,103.841,shēngwùzhìpǐnsuǒ,生物制品所,Biological Products Institute,lánzhōu,兰州,Lanzhou,Mainland China,Gansu
+1479A,36.0464,103.831,tiělùshèjìyuàn,铁路设计院,Railway design institute,lánzhōu,兰州,Lanzhou,Mainland China,Gansu
+1480A,36.6428,101.748,shìhuánjìngjiāncèzhàn,市环境监测站,City Environmental Monitoring Station,xīníng,西宁,Xining,Mainland China,Qinghai
+1481A,36.6922,101.749,shěngyìyàocāngkù,省医药仓库,Provincial medical warehouse,xīníng,西宁,Xining,Mainland China,Qinghai
+1482A,36.5819,101.834,sìlùyìyuàn,四陆医院,Four Land Hospital,xīníng,西宁,Xining,Mainland China,Qinghai
+1483A,36.6867,101.524,dìwǔshǔichǎng,第五水厂,Fifth water plant,xīníng,西宁,Xining,Mainland China,Qinghai
+1484A,38.6016,105.9512,hèlánshānmǎliánkǒu,贺兰山马莲口,Helan Mountain Ma Liankou,yínchuān,银川,Yinchuan,Mainland China,Ningxia Hui
+1485A,38.4744,106.2682,yínhúxiàng,银湖巷,Yinhu Lane,yínchuān,银川,Yinchuan,Mainland China,Ningxia Hui
+1486A,38.4536,106.217,níngāndàjiē,宁安大街,Ning&#39;an Avenue,yínchuān,银川,Yinchuan,Mainland China,Ningxia Hui
+1487A,38.4858,106.0715,nínghuàshēnghuóqū,宁化生活区,Ninghua Living Area,yínchuān,银川,Yinchuan,Mainland China,Ningxia Hui
+1488A,38.4975,106.2328,hèlánshāndōnglù,贺兰山东路,Helan Shandong Road,yínchuān,银川,Yinchuan,Mainland China,Ningxia Hui
+1489A,38.5036,106.1358,xuéyuànlù,学院路,College Road,yínchuān,银川,Yinchuan,Mainland China,Ningxia Hui
+1490A,43.8303,87.5801,jiāncèzhàn,监测站,GHG monitoring,wūlǔmùqí,乌鲁木齐,Urumqi,Mainland China,Xinjiang Uygur
+1491A,43.768,87.6046,shōufèisuǒ,收费所,Toll booth,wūlǔmùqí,乌鲁木齐,Urumqi,Mainland China,Xinjiang Uygur
+1492A,43.9469,87.4754,xīnjiāngnóngkēyuànnóngcháng,新疆农科院农场,Xinjiang Academy of Agricultural Sciences Farm,wūlǔmùqí,乌鲁木齐,Urumqi,Mainland China,Xinjiang Uygur
+1493A,43.8711,87.5525,tiělùjú,铁路局,Railway Bureau,wūlǔmùqí,乌鲁木齐,Urumqi,Mainland China,Xinjiang Uygur
+1494A,43.831,87.6432,sānshíyīzhōngxué,三十一中学,31 Middle School,wūlǔmùqí,乌鲁木齐,Urumqi,Mainland China,Xinjiang Uygur
+1495A,43.8729,87.4171,qīshísìzhōngxué,七十四中学,Seventy-four middle school,wūlǔmùqí,乌鲁木齐,Urumqi,Mainland China,Xinjiang Uygur
+1496A,43.962,87.6444,mǐdōngqūhuánbǎojú,米东区环保局,Mido District Environmental Protection Agency,wūlǔmùqí,乌鲁木齐,Urumqi,Mainland China,Xinjiang Uygur
+1508A,27.8614,112.9433,bǎntáng,板塘,Bantang,xiāngtán,湘潭,Xiangtan,Mainland China,Hunan
+1511A,27.8403,112.9118,shìjiāncèzhàn,市监测站,City monitoring station,xiāngtán,湘潭,Xiangtan,Mainland China,Hunan
+1512A,27.8728,112.8937,jiānglù,江麓,Jiang Yan,xiāngtán,湘潭,Xiangtan,Mainland China,Hunan
+1513A,27.8159,112.9227,yuètáng,岳塘,Yuetang,xiāngtán,湘潭,Xiangtan,Mainland China,Hunan
+1514A,27.9119,112.9074,kēdà,科大,HKUST,xiāngtán,湘潭,Xiangtan,Mainland China,Hunan
+1515A,27.8244,113.135,tiāntáishānzhuāng,天台山庄,Tiantai Mountain Villa,zhūzhōu,株洲,Zhuzhou,Mainland China,Hunan
+1518A,27.8867,113.095,zhūyěyìyuàn,株冶医院,Zhuye Hospital,zhūzhōu,株洲,Zhuzhou,Mainland China,Hunan
+1519A,27.8667,113.167,shìsìzhōng,市四中,City No. 4,zhūzhōu,株洲,Zhuzhou,Mainland China,Hunan
+1520A,27.8381,113.143,huǒchēzhàn,火车站,RAIL STATION,zhūzhōu,株洲,Zhuzhou,Mainland China,Hunan
+1524A,27.8528,113.13,shìjiāncèzhàn,市监测站,City monitoring station,zhūzhōu,株洲,Zhuzhou,Mainland China,Hunan
+1552A,26.3003,106.805,tóngmùlíng,桐木岭,Tongmuling,gùiyáng,贵阳,Guiyang,Mainland China,Guizhou
+1559A,27.8336,113.251,dàjīngfēngjǐngqū,大京风景区,Dajing Scenic Area,zhūzhōu,株洲,Zhuzhou,Mainland China,Hunan
+1562A,27.9153,113.0048,zhāoshān,昭山,Zhaoshan,xiāngtán,湘潭,Xiangtan,Mainland China,Hunan
+1749A,41.0931,123.011,tàiyángchéng,太阳城,Sun City,ānshān,鞍山,Anshan,Mainland China,Liaoning
+1750A,41.1442,123.0485,tàipíng,太平,Taiping,ānshān,鞍山,Anshan,Mainland China,Liaoning
+1751A,41.0971,122.9642,tiěxīsāndàojiē,铁西三道街,Tiexi Sandao Street,ānshān,鞍山,Anshan,Mainland China,Liaoning
+1752A,41.0833,122.9481,tiěxīgōngyèyuánqū,铁西工业园区,Tiexi Industrial Park,ānshān,鞍山,Anshan,Mainland China,Liaoning
+1753A,41.0831,123.0156,míngdáxīnqū,明达新区,Mingda New District,ānshān,鞍山,Anshan,Mainland China,Liaoning
+1754A,41.0228,123.1289,qiānshān,千山,Qianshan,ānshān,鞍山,Anshan,Mainland China,Liaoning
+1755A,41.8469,123.81,wànghuāqū,望花区,Wanghua District,fǔshùn,抚顺,Fushun,Mainland China,Liaoning
+1756A,41.8828,123.9169,shùnchéngqū,顺城区,Shuncheng,fǔshùn,抚顺,Fushun,Mainland China,Liaoning
+1757A,41.8625,124.0383,dōngzhōuqū,东洲区,Dongzhou District,fǔshùn,抚顺,Fushun,Mainland China,Liaoning
+1758A,41.8594,123.9,xīnfǔqū,新抚区,Xinfu District,fǔshùn,抚顺,Fushun,Mainland China,Liaoning
+1759A,41.8864,124.0878,dàhuǒfángshǔikù,大伙房水库,Dahuofang Reservoir,fǔshùn,抚顺,Fushun,Mainland China,Liaoning
+1760A,41.8417,123.7117,shěnfǔxīnchéng,沈抚新城,Shen Fu New City,fǔshùn,抚顺,Fushun,Mainland China,Liaoning
+1761A,41.3283,123.8436,dàyù,大峪,Daxie,běnxī,本溪,Benxi,Mainland China,Liaoning
+1762A,41.3369,123.7528,xīhú,溪湖,Creek lake,běnxī,本溪,Benxi,Mainland China,Liaoning
+1763A,41.3047,123.7308,cǎitún,彩屯,Choi,běnxī,本溪,Benxi,Mainland China,Liaoning
+1764A,41.2864,123.7669,dōngmíng,东明,Dongming,běnxī,本溪,Benxi,Mainland China,Liaoning
+1765A,41.2692,123.7989,xīnlìtún,新立屯,Xinli,běnxī,本溪,Benxi,Mainland China,Liaoning
+1766A,41.3472,123.8142,wēiníng,威宁,Weining,běnxī,本溪,Benxi,Mainland China,Liaoning
+1767A,41.0781,121.0986,nánshān,南山,Nanshan,jǐnzhōu,锦州,Jinzhou,Mainland China,Liaoning
+1768A,40.8333,121.045,kāifāqū,开发区,Thereof: Development,jǐnzhōu,锦州,Jinzhou,Mainland China,Liaoning
+1769A,41.1219,121.2008,bǎigǔjiēdào,百股街道,Hundreds of streets,jǐnzhōu,锦州,Jinzhou,Mainland China,Liaoning
+1770A,41.1222,121.1178,tiānānjiēdào,天安街道,Cheonan Street,jǐnzhōu,锦州,Jinzhou,Mainland China,Liaoning
+1771A,41.1386,121.1303,běihúgōngyuán,北湖公园,North Lake Park,jǐnzhōu,锦州,Jinzhou,Mainland China,Liaoning
+1772A,43.8875,126.555,hādáwān,哈达湾,Hatta Bay,jílín,吉林,Jilin,Mainland China,Jilin
+1773A,43.8358,126.5844,dōngjúzǐ,东局子,East Bureau,jílín,吉林,Jilin,Mainland China,Jilin
+1774A,43.8228,126.4978,diànlìxuéyuàn,电力学院,Electric power college,jílín,吉林,Jilin,Mainland China,Jilin
+1775A,43.8947,126.5786,jiāngběi,江北,Jiangbei,jílín,吉林,Jilin,Mainland China,Jilin
+1776A,43.8256,126.55,jiāngnángōngyuán,江南公园,Jiangnan Park,jílín,吉林,Jilin,Mainland China,Jilin
+1777A,43.8427,125.36535,nóngkēyuàn,农科院,Academy of Agricultural Sciences,jílín,吉林,Jilin,Mainland China,Jilin
+1778A,43.7256,126.6772,fēngmǎn,丰满,Voluptuous,jílín,吉林,Jilin,Mainland China,Jilin
+1779A,47.3636,123.9305,ānjūxiǎoqū,安居小区,Anju Community,qíqíhāěr,齐齐哈尔,Qiqihar,Mainland China,Heilongjiang
+1780A,47.3386,123.9305,zhōngxīnguǎngcháng,中心广场,Central Square,qíqíhāěr,齐齐哈尔,Qiqihar,Mainland China,Heilongjiang
+1781A,47.3227,123.9483,nóngmùchēliàngchǎng,农牧车辆厂,Farming and animal vehicle factory,qíqíhāěr,齐齐哈尔,Qiqihar,Mainland China,Heilongjiang
+1782A,47.203,123.6261,fùqūhuánbǎojú,富区环保局,Fuzhou Environmental Protection Bureau,qíqíhāěr,齐齐哈尔,Qiqihar,Mainland China,Heilongjiang
+1783A,47.2988,123.945,shìhuánjìngjiāncèzhàn,市环境监测站,City Environmental Monitoring Station,qíqíhāěr,齐齐哈尔,Qiqihar,Mainland China,Heilongjiang
+1784A,44.56100000000001,129.61,huánbǎodàlóu　,环保大楼　,Environmental protection building,mǔdānjiāng,牡丹江,Mudan River,Mainland China,Heilongjiang
+1785A,44.5782,129.6115,wénhuàguǎngcháng　,文化广场　,cultural Square,mǔdānjiāng,牡丹江,Mudan River,Mainland China,Heilongjiang
+1786A,44.5952,129.5902,dìyīyìyuàn,第一医院,First hospital,mǔdānjiāng,牡丹江,Mudan River,Mainland China,Heilongjiang
+1787A,44.6104,129.6459,jīchēgōngchǎng,机车工厂,Locomotive factory,mǔdānjiāng,牡丹江,Mudan River,Mainland China,Heilongjiang
+1788A,44.5462,129.6386,dìyīzhōngxué,第一中学,first Middle school,mǔdānjiāng,牡丹江,Mudan River,Mainland China,Heilongjiang
+1789A,46.0347,124.8354,dàtóngqū,大同区,Datong District,dàqìng,大庆,Daqing,Mainland China,Heilongjiang
+1790A,46.528,125.112,lóngfèngqū,龙凤区,Longfeng District,dàqìng,大庆,Daqing,Mainland China,Heilongjiang
+1791A,46.3991,124.8847,hónggǎngqū,红岗区,Honggang District,dàqìng,大庆,Daqing,Mainland China,Heilongjiang
+1792A,46.5776,125.1386,sàěrtúqū,萨尔图区,Saltu District,dàqìng,大庆,Daqing,Mainland China,Heilongjiang
+1793A,46.6219,124.8648,rànghúlùqū,让胡路区,Let Hulu District,dàqìng,大庆,Daqing,Mainland China,Heilongjiang
+1794A,31.3508,118.3528,jiāncèzhàn,监测站,GHG monitoring,wúhú,芜湖,Wuhu,Mainland China,Anhui
+1795A,31.4189,118.37,kēchuàngzhōngxīn,科创中心,Branch Center,wúhú,芜湖,Wuhu,Mainland China,Anhui
+1796A,31.3178,118.3708,sìshǔichǎng,四水厂,Four water plant,wúhú,芜湖,Wuhu,Mainland China,Anhui
+1797A,31.3839,118.4022,wǔqīèrlíngchǎng,五七二零厂,Wuqi 20 Factory,wúhú,芜湖,Wuhu,Mainland China,Anhui
+1798A,31.6861,118.5058,húdōnglùsìxiǎo,湖东路四小,Hudong Road four small,mǎānshān,马鞍山,Ma On Shan,Mainland China,Anhui
+1799A,31.6411,118.4828,tiānpíngfúzhuāng,天平服装,Balance clothing,mǎānshān,马鞍山,Ma On Shan,Mainland China,Anhui
+1800A,31.7506,118.5106,cíhúèrxiǎo,慈湖二小,Cihu two small,mǎānshān,马鞍山,Ma On Shan,Mainland China,Anhui
+1801A,31.6928,118.48,mǎgāngdònglìchǎng,马钢动力厂,Ma Steel Power Plant,mǎānshān,马鞍山,Ma On Shan,Mainland China,Anhui
+1802A,31.7133,118.6439,shìjiàoyùjīdì,市教育基地,City Education Base,mǎānshān,马鞍山,Ma On Shan,Mainland China,Anhui
+1803A,29.6816,115.9872,shílǐ,十里,Ten miles,jǐujiāng,九江,Jiujiang,Mainland China,Jiangxi
+1804A,29.7048,115.9581,máoshāntóu,茅山头,Maoshantou,jǐujiāng,九江,Jiujiang,Mainland China,Jiangxi
+1805A,29.7292,115.988,xīyuán,西园,West Park,jǐujiāng,九江,Jiujiang,Mainland China,Jiangxi
+1806A,29.6535,116.0174,wǔqīèrqīchǎng,五七二七厂,Five seven twenty seven factory,jǐujiāng,九江,Jiujiang,Mainland China,Jiangxi
+1807A,29.6926,116.0628,shǔikēsuǒ,水科所,Water Institute,jǐujiāng,九江,Jiujiang,Mainland China,Jiangxi
+1808A,29.6039,115.9114,zònghégōngyèyuán,综合工业园,Integrated industrial park,jǐujiāng,九江,Jiujiang,Mainland China,Jiangxi
+1809A,29.7534,116.0726,shíhuàzǒngchǎng,石化总厂,Petrochemical plant,jǐujiāng,九江,Jiujiang,Mainland China,Jiangxi
+1810A,29.5867,115.9936,lúshānqìxiàngtái,庐山气象台,Lushan Meteorological Station,jǐujiāng,九江,Jiujiang,Mainland China,Jiangxi
+1811A,34.6692,112.3628,zhōngxìnèrxiǎo,中信二小,CITIC II,luòyáng,洛阳,IDS_PZSD508,Mainland China,Henan
+1812A,34.6511,112.3939,shìwěidǎngxiào,市委党校,Party School of Municipal Committee,luòyáng,洛阳,IDS_PZSD508,Mainland China,Henan
+1813A,34.67,112.4333,shìjiāncèzhàn,市监测站,City monitoring station,luòyáng,洛阳,IDS_PZSD508,Mainland China,Henan
+1814A,34.6869,112.4664,yùxībīnguǎn,豫西宾馆,Yuxi Hotel,luòyáng,洛阳,IDS_PZSD508,Mainland China,Henan
+1815A,34.6869,112.4831,hénánlínxiào,河南林校,Henan Forestry School,luòyáng,洛阳,IDS_PZSD508,Mainland China,Henan
+1816A,34.6231,112.3844,kāifāqūguǎnwěihùi,开发区管委会,Development Zone Management Committee,luòyáng,洛阳,IDS_PZSD508,Mainland China,Henan
+1817A,34.6258,112.4275,shìwěixīnbàngōngqū,市委新办公区,Municipal new office area,luòyáng,洛阳,IDS_PZSD508,Mainland China,Henan
+1818A,36.061,114.483,miányánsuǒ,棉研所,Cotton Institute,ānyáng,安阳,Anyang,Mainland China,Henan
+1819A,36.086,114.32,hóngmiàojiē,红庙街,Hongmiao Street,ānyáng,安阳,Anyang,Mainland China,Henan
+1820A,36.087,114.358,yínxìngxiǎoqū,银杏小区,Ginkgo Community,ānyáng,安阳,Anyang,Mainland China,Henan
+1821A,36.0883,114.3931,huánbǎojú,环保局,Environmental Protection Agency,ānyáng,安阳,Anyang,Mainland China,Henan
+1822A,36.11,114.286,tiěfósì,铁佛寺,Iron Buddha Temple,ānyáng,安阳,Anyang,Mainland China,Henan
+1823A,34.8022,114.3406,hédàyīfùyuàn,河大一附院,Heda First Affiliated Hospital,kāifēng,开封,Kaifeng,Mainland China,Henan
+1824A,34.7781,114.3389,zhǒnglíuyìyuàn,肿瘤医院,Oncology hospitals,kāifēng,开封,Kaifeng,Mainland China,Henan
+1825A,34.7975,114.3733,fùyòubǎojiànyuàn,妇幼保健院,Maternal and Child Health Hospital,kāifēng,开封,Kaifeng,Mainland China,Henan
+1826A,34.7967,114.2886,shìjìxīngyòuéryuán,世纪星幼儿园,Century Star Kindergarten,kāifēng,开封,Kaifeng,Mainland China,Henan
+1827A,35.235,113.261,shìjiāncèzhàn　,市监测站　,City monitoring station,jiāozuò,焦作,Jiaozuo,Mainland China,Henan
+1828A,35.213,113.227,shìhuánbǎojú　,市环保局　,Municipal Environmental Protection Bureau,jiāozuò,焦作,Jiaozuo,Mainland China,Henan
+1829A,35.1764,113.2464,gāoxīnqūzhèngfǔ,高新区政府,High-tech Zone Government,jiāozuò,焦作,Jiaozuo,Mainland China,Henan
+1830A,35.259,113.1992,yǐngshìchéng,影视城,Film and television city,jiāozuò,焦作,Jiaozuo,Mainland China,Henan
+1831A,33.7214,113.3064,gāoyākāiguānchǎng,高压开关厂,High voltage switch factory,píngdǐngshān,平顶山,MESA,Mainland China,Henan
+1832A,33.721,113.322,xīnhuálv̌guǎn,新华旅馆,Xinhua Hostel,píngdǐngshān,平顶山,MESA,Mainland China,Henan
+1833A,33.739000000000004,113.292,gūihuáshèjìyuàn,规划设计院,Planning and design institute,píngdǐngshān,平顶山,MESA,Mainland China,Henan
+1834A,33.736999999999995,113.182,píngdǐngshāngōngxuéyuàn,平顶山工学院,Pingdingshan Institute of Technology,píngdǐngshān,平顶山,MESA,Mainland China,Henan
+1835A,34.7772,111.1928,shìzhèngfǔ,市政府,Local government,sānménxiá,三门峡,Sanmenxia,Mainland China,Henan
+1836A,34.794000000000004,111.158,kāifāqū,开发区,Thereof: Development,sānménxiá,三门峡,Sanmenxia,Mainland China,Henan
+1837A,34.7917,111.1858,èr  yìn,二  印,Second print,sānménxiá,三门峡,Sanmenxia,Mainland China,Henan
+1838A,34.7997,111.1489,fēngjǐngqū,风景区,Scenic area,sānménxiá,三门峡,Sanmenxia,Mainland China,Henan
+1839A,30.7157,111.3009,sìlíngsān,四零三,Four zero three,yíchāng,宜昌,Yichang,Mainland China,Hubei
+1840A,30.698,111.2992,báilónggǎng,白龙岗,Bailonggang,yíchāng,宜昌,Yichang,Mainland China,Hubei
+1841A,30.6463,111.3549,wǔjiāgǎng,伍家岗,Wu Jiagang,yíchāng,宜昌,Yichang,Mainland China,Hubei
+1842A,30.696,111.268,diǎnjūnqū,点军区,Point military region,yíchāng,宜昌,Yichang,Mainland China,Hubei
+1843A,30.7819,111.3296,yílíngqū,夷陵区,Yiling District,yíchāng,宜昌,Yichang,Mainland China,Hubei
+1844A,30.3175,112.2551,shìtúshūguǎn,市图书馆,City library,jīngzhōu,荆州,Jingzhou,Mainland China,Hubei
+1845A,30.3515,112.2068,shìwěidǎngxiào,市委党校,Party School of Municipal Committee,jīngzhōu,荆州,Jingzhou,Mainland China,Hubei
+1846A,30.3055,112.2887,kērónghuánbǎo,科融环保,Ke Rong Environmental Protection,jīngzhōu,荆州,Jingzhou,Mainland China,Hubei
+1847A,29.3578,113.1094,nánhúfēngjǐngqū,南湖风景区,Nanhu Scenic Area,yuèyáng,岳阳,Yueyang,Mainland China,Hunan
+1848A,29.4251,113.1493,chénglíngjī,城陵矶,Chenglingji,yuèyáng,岳阳,Yueyang,Mainland China,Hunan
+1849A,29.3678,113.1772,kāifāqū,开发区,Thereof: Development,yuèyáng,岳阳,Yueyang,Mainland China,Hunan
+1850A,29.4758,113.2621,yúnxīqū,云溪区,Yunxi District,yuèyáng,岳阳,Yueyang,Mainland China,Hunan
+1851A,29.4402,112.9943,jūnshānqū,君山区,Junshan District,yuèyáng,岳阳,Yueyang,Mainland China,Hunan
+1852A,29.355,113.2117,jīnfèngshǔikù,金凤水库,Jinfeng Reservoir,yuèyáng,岳阳,Yueyang,Mainland China,Hunan
+1853A,29.0244,111.7044,shìjiāncèzhàn,市监测站,City monitoring station,chángdé,常德,Changde,Mainland China,Hunan
+1854A,28.9703,111.6975,shìèrzhōng,市二中,City II,chángdé,常德,Changde,Mainland China,Hunan
+1855A,29.0239,111.6753,dǐngchéngqūhuánbǎojú,鼎城区环保局,Dingcheng District Environmental Protection Bureau,chángdé,常德,Changde,Mainland China,Hunan
+1856A,29.0381,111.6794,shìjìzhújiāndūjú,市技术监督局,Municipal Technical Supervision Bureau,chángdé,常德,Changde,Mainland China,Hunan
+1857A,29.1456,111.7158,báihèshān,白鹤山,Baihe Mountain,chángdé,常德,Changde,Mainland China,Hunan
+1858A,29.1389,110.48,yǒngdìngxīnqū,永定新区,Yongding New District,zhāngjiājiè,张家界,Zhangjiajie,Mainland China,Hunan
+1859A,29.1242,110.4697,diànyèjú,电业局,Electric power bureau,zhāngjiājiè,张家界,Zhangjiajie,Mainland China,Hunan
+1860A,29.3547,110.5594,wèiyānglù,未央路,Weiyang Road,zhāngjiājiè,张家界,Zhangjiajie,Mainland China,Hunan
+1861A,29.315,110.4417,yuánjiājiè,袁家界,Yuan Jiajie,zhāngjiājiè,张家界,Zhangjiajie,Mainland China,Hunan
+1862A,25.3167,110.4144,diànzǐkēdàyáoshānxiàoqū,电子科大尧山校区,Electronic Science and Technology University,gùilín,桂林,Guilin,Mainland China,Guangxi
+1863A,25.2697,110.2819,jiāncèzhàn,监测站,GHG monitoring,gùilín,桂林,Guilin,Mainland China,Guangxi
+1864A,25.2708,110.3089,lóngyǐnlùxiǎoxué,龙隐路小学,Long Yin Road Primary School,gùilín,桂林,Guilin,Mainland China,Guangxi
+1865A,25.2178,110.2869,bāzhōng,八中,Eight,gùilín,桂林,Guilin,Mainland China,Guangxi
+1866A,21.5958,109.2256,níuwěilíngshǔikù,牛尾岭水库,Niuweiling Reservoir,běihǎi,北海,North Sea,Mainland China,Guangxi
+1867A,21.4086,109.1436,hǎitāngōngyuán,海滩公园,Beach park,běihǎi,北海,North Sea,Mainland China,Guangxi
+1868A,21.4661,109.0981,xīnshìhuánbǎojú,新市环保局,New City Environmental Protection Agency,běihǎi,北海,North Sea,Mainland China,Guangxi
+1869A,21.5233,109.1778,běihǎigōngyèyuán,北海工业园,Beihai Industrial Park,běihǎi,北海,North Sea,Mainland China,Guangxi
+1870A,24.3898,109.4883,lǐudōngxiǎoxué,柳东小学,Liudong Primary School,lǐuzhōu,柳州,Liuzhou,Mainland China,Guangxi
+1871A,24.3304,109.4108,huánbǎojiāncèzhàn,环保监测站,Environmental monitoring station,lǐuzhōu,柳州,Liuzhou,Mainland China,Guangxi
+1872A,24.3406,109.3886,héxīshǔichǎng,河西水厂,Hexi Water Plant,lǐuzhōu,柳州,Liuzhou,Mainland China,Guangxi
+1873A,24.299,109.4221,shìsìzhōng,市四中,City No. 4,lǐuzhōu,柳州,Liuzhou,Mainland China,Guangxi
+1874A,24.3663,109.3957,shìjǐuzhōng,市九中,City Jiuzhong,lǐuzhōu,柳州,Liuzhou,Mainland China,Guangxi
+1875A,24.3158,109.4839,gǔtíngshān,古亭山,Gutingshan,lǐuzhōu,柳州,Liuzhou,Mainland China,Guangxi
+1876A,18.2489,109.5078,hédōngzǐzhàn,河东子站,Hedongzi Station,sānyà,三亚,Sanya,Mainland China,Hainan
+1877A,18.2681,109.4964,héxīzǐzhàn,河西子站,Hexi Sub Station,sānyà,三亚,Sanya,Mainland China,Hainan
+1878A,31.4747,104.7778,fùlèshān,富乐山,Fuller Mountain,miányáng,绵阳,Mianyang,Mainland China,Sichuan
+1879A,31.4539,104.7536,shìréndà,市人大,City people&#39;s congress,miányáng,绵阳,Mianyang,Mainland China,Sichuan
+1880A,31.4656,104.6717,gāoxīnqūzìláishǔigōngsī,高新区自来水公司,High-tech Zone Water Company,miányáng,绵阳,Mianyang,Mainland China,Sichuan
+1881A,31.5072,104.7283,sānshǔichǎng,三水厂,Sanshui Factory,miányáng,绵阳,Mianyang,Mainland China,Sichuan
+1882A,28.8194,104.5969,shímǎzhōngxué,石马中学,Shima Middle School,yíbīn,宜宾,Yibin,Mainland China,Sichuan
+1883A,28.76611,104.6225,shìwěi,市委,Municipal party committee,yíbīn,宜宾,Yibin,Mainland China,Sichuan
+1884A,28.7867,104.6061,yíbīnsìzhōng,宜宾四中,Yibin No.4 Middle School,yíbīn,宜宾,Yibin,Mainland China,Sichuan
+1885A,28.763890000000004,104.6417,shìzhèngfǔ,市政府,Local government,yíbīn,宜宾,Yibin,Mainland China,Sichuan
+1886A,28.71583,104.5761,huángjīnzǔi,黄金嘴,Gold mouth,yíbīn,宜宾,Yibin,Mainland China,Sichuan
+1887A,28.7989,104.6789,shāpíngzhōngxué,沙坪中学,Shaping Middle School,yíbīn,宜宾,Yibin,Mainland China,Sichuan
+1888A,26.57098,101.68912,nòngnòngpíng,弄弄坪,Make up,pānzhīhuā,攀枝花,Panzhihua,Mainland China,Sichuan
+1889A,26.5928,101.5769,héménkǒu,河门口,River gate,pānzhīhuā,攀枝花,Panzhihua,Mainland China,Sichuan
+1890A,26.585,101.7169,bǐngcǎogǎng,炳草岗,Bing Caogang,pānzhīhuā,攀枝花,Panzhihua,Mainland China,Sichuan
+1891A,26.5017,101.7453,rénhé,仁和,Renhe,pānzhīhuā,攀枝花,Panzhihua,Mainland China,Sichuan
+1893A,28.9583,105.4306,jǐushīshān,九狮山,Nine Lion Mountain,lúzhōu,泸州,Luzhou,Mainland China,Sichuan
+1894A,28.9026,105.4436,xiǎoshìshàngmǎtóu,小市上码头,Small city on the pier,lúzhōu,泸州,Luzhou,Mainland China,Sichuan
+1895A,28.8558,105.4322,lántiánxiànqiáo,兰田宪桥,Lantian Xianqiao,lúzhōu,泸州,Luzhou,Mainland China,Sichuan
+1896A,28.8833,105.4322,shìhuánjiānzhàn,市环监站,City Environmental Monitoring Station,lúzhōu,泸州,Luzhou,Mainland China,Sichuan
+1897A,29.3628,104.7547,dàtángshān,大塘山,Datang Mountain,zìgòng,自贡,Zigong,Mainland China,Sichuan
+1898A,29.3586,104.7214,yánmǎlù,盐马路,Salt road,zìgòng,自贡,Zigong,Mainland China,Sichuan
+1899A,29.3564,104.7747,tánmùlínjiē,檀木林街,Sandalwood Street,zìgòng,自贡,Zigong,Mainland China,Sichuan
+1900A,29.3411,104.7692,chūnhuálù,春华路,Chunhua Road,zìgòng,自贡,Zigong,Mainland China,Sichuan
+1901A,31.1208,104.4219,dōngshāngōngyuán,东山公园,Dongshan Park,déyáng,德阳,Deyang,Mainland China,Sichuan
+1902A,31.1333,104.3883,xīxiǎoqū,西小区,Western Community,déyáng,德阳,Deyang,Mainland China,Sichuan
+1903A,31.1167,104.4053,shìjiǎncháyuàn,市检察院,City procuratorate,déyáng,德阳,Deyang,Mainland China,Sichuan
+1904A,31.1108,104.3539,nàihuǒcáiliàochǎng,耐火材料厂,Refractory plant,déyáng,德阳,Deyang,Mainland China,Sichuan
+1905A,30.8064,106.056,xīshānfēngjǐngqū,西山风景区,Xishan Scenic Area,nánchōng,南充,Nanchong,Mainland China,Sichuan
+1906A,30.8023,106.0789,nánchōngshìwěi,南充市委,Nanchong Municipal Committee,nánchōng,南充,Nanchong,Mainland China,Sichuan
+1907A,30.8217,106.1031,nánchōngliànyóuchǎng,南充炼油厂,Nanchong Refinery,nánchōng,南充,Nanchong,Mainland China,Sichuan
+1908A,30.7856,106.1064,gāopíngqūjiāncèzhàn,高坪区监测站,Gaoping District Monitoring Station,nánchōng,南充,Nanchong,Mainland China,Sichuan
+1909A,30.7636,106.0642,jiālíngqūhuánbǎojú,嘉陵区环保局,Jialing District Environmental Protection Bureau,nánchōng,南充,Nanchong,Mainland China,Sichuan
+1910A,30.8388,106.1087,shìhuánjìngjiāncèzhàn,市环境监测站,City Environmental Monitoring Station,nánchōng,南充,Nanchong,Mainland China,Sichuan
+1911A,27.6869,106.9222,dīngzìkǒu,丁字口,T-shaped mouth,zūnyì,遵义,Zunyi,Mainland China,Guizhou
+1912A,27.7019,106.9242,fènghuángshān,凤凰山,Phoenix Mountains,zūnyì,遵义,Zunyi,Mainland China,Guizhou
+1913A,27.6486,106.8906,zhōngzhuāng,忠庄,Zhongzhuang,zūnyì,遵义,Zunyi,Mainland China,Guizhou
+1914A,27.6506,106.9231,zhōushǔiqiáo,舟水桥,Zhoushuiqiao,zūnyì,遵义,Zunyi,Mainland China,Guizhou
+1915A,27.72,106.9178,gāntiánbà,干田坝,Dry land dam,zūnyì,遵义,Zunyi,Mainland China,Guizhou
+1916A,25.5035,103.7897,huánjìngjiāncèzhàn,环境监测站,Environmental monitoring observatories;,qūjìng,曲靖,Qujing,Mainland China,Yunnan
+1917A,25.5364,103.8,yānchǎngbàngōngqū,烟厂办公区,Tobacco factory office area,qūjìng,曲靖,Qujing,Mainland China,Yunnan
+1918A,34.3956,108.7197,qìxiàngzhàn,气象站,weather station,xiányáng,咸阳,Xianyang,Mainland China,Shaanxi
+1919A,34.3181,108.6761,zhōnghuáxiǎoqū,中华小区,Zhonghua Community,xiányáng,咸阳,Xianyang,Mainland China,Shaanxi
+1920A,34.3617,108.7233,shīfànxuéyuàn,师范学院,Teacher Training Colleges,xiányáng,咸阳,Xianyang,Mainland China,Shaanxi
+1921A,34.3164,108.7369,zhōngyìxuéyuàn,中医学院,Chinese medicine,xiányáng,咸阳,Xianyang,Mainland China,Shaanxi
+1922A,35.0994,109.0656,dǎngxiào,党校,Party school,tóngchuān,铜川,Tongchuan,Mainland China,Shaanxi
+1923A,35.0697,109.0697,wángyìqūzhèngfǔ,王益区政府,Wang Yi District Government,tóngchuān,铜川,Tongchuan,Mainland China,Shaanxi
+1924A,34.9058,108.9344,xīnqūguǎnwěihùi,新区管委会,New District Management Committee,tóngchuān,铜川,Tongchuan,Mainland China,Shaanxi
+1925A,34.8731,108.9589,xīnqūlánzhīgōngsī,新区兰芝公司,New District Lange Company,tóngchuān,铜川,Tongchuan,Mainland China,Shaanxi
+1926A,36.6275,109.4131,zǎoyuán,枣园,Zaoyuan,yánān,延安,Yan&#39;an,Mainland China,Shaanxi
+1927A,36.6028,109.4761,yándàyìfùyuàn,延大医附院,Yanda Medical Affiliated Hospital,yánān,延安,Yan&#39;an,Mainland China,Shaanxi
+1928A,36.5767,109.4824,shìjiāncèzhàn,市监测站,City monitoring station,yánān,延安,Yan&#39;an,Mainland China,Shaanxi
+1929A,36.6106,109.5056,bǎimǐdàdào,百米大道,Baimi Avenue,yánān,延安,Yan&#39;an,Mainland China,Shaanxi
+1930A,34.3708,107.1586,miàogōucūn,庙沟村,Miaogou Village,bǎojī,宝鸡,Baoji,Mainland China,Shaanxi
+1931A,34.3017,107.0708,zhúyuángōu,竹园沟,Zhuyuangou,bǎojī,宝鸡,Baoji,Mainland China,Shaanxi
+1932A,34.3672,107.1906,sānlùyìyuàn,三陆医院,Sanlu Hospital,bǎojī,宝鸡,Baoji,Mainland China,Shaanxi
+1933A,34.3547,107.1431,jiāncèzhàn,监测站,GHG monitoring,bǎojī,宝鸡,Baoji,Mainland China,Shaanxi
+1934A,34.3739,107.1186,jìgōngxuéxiào,技工学校,Technical School,bǎojī,宝鸡,Baoji,Mainland China,Shaanxi
+1935A,34.3528,107.3906,chéncānghuánbǎojú,陈仓环保局,Chencang Environmental Protection Bureau,bǎojī,宝鸡,Baoji,Mainland China,Shaanxi
+1936A,34.3497,107.2058,wénlǐxuéyuàn,文理学院,Liberal arts college,bǎojī,宝鸡,Baoji,Mainland China,Shaanxi
+1937A,34.3622,107.2386,sāndíxiǎoxué,三迪小学,Sandi Primary School,bǎojī,宝鸡,Baoji,Mainland China,Shaanxi
+1938A,34.5101,109.5293,nóngkēsuǒ,农科所,Agricultural Institute,wèinán,渭南,Weinan,Mainland China,Shaanxi
+1939A,34.5004,109.5049,rìbàoshè,日报社,Daily newspaper,wèinán,渭南,Weinan,Mainland China,Shaanxi
+1940A,34.493,109.4636,tǐyùguǎn,体育馆,Gymnasium,wèinán,渭南,Weinan,Mainland China,Shaanxi
+1941A,34.5021,109.4266,gāoxīnyīxiǎo,高新一小,High-tech,wèinán,渭南,Weinan,Mainland China,Shaanxi
+1942A,38.5247,102.1878,shìkēwěi,市科委,Municipal Science and Technology Commission,jīnchāng,金昌,Jinchang,Mainland China,Gansu
+1943A,38.5339,102.1725,xīnchuānyuàn,新川苑,Xinchuanyuan,jīnchāng,金昌,Jinchang,Mainland China,Gansu
+1944A,38.5061,102.1708,gōngsīèrzhāo,公司二招,Company two strokes,jīnchāng,金昌,Jinchang,Mainland China,Gansu
+1945A,39.7711,98.2908,qìxiàngjú,气象局,Weather bureau,jiāyùguān,嘉峪关,Jiayuguan,Mainland China,Gansu
+1946A,39.8584,98.2379,jǐugāngnàicáigōngsī,酒钢耐材公司,Jiugang refractory company,jiāyùguān,嘉峪关,Jiayuguan,Mainland China,Gansu
+1947A,38.817,106.3394,shāhúlv̌yóuqū,沙湖旅游区,Shahu Tourist Area,shízǔishān,石嘴山,Shizuishan,Mainland China,Ningxia Hui
+1948A,39.0153,106.3717,dàwǔkǒuhuánghédōngjiē,大武口黄河东街,Dawukou Huanghe East Street,shízǔishān,石嘴山,Shizuishan,Mainland China,Ningxia Hui
+1949A,39.2282,106.7704,hùinóngnándàjiē,惠农南大街,Huinong South Street,shízǔishān,石嘴山,Shizuishan,Mainland China,Ningxia Hui
+1950A,39.1292,106.7096,hóngguǒzǐzhènhùixīnjiē,红果子镇惠新街,"Huixin Street, Hongguo Town",shízǔishān,石嘴山,Shizuishan,Mainland China,Ningxia Hui
+1951A,45.6033,84.8861,chángzhēngxīncūn,长征新村,Long March New Village,kèlāmǎyī,克拉玛依,Karamay,Mainland China,Xinjiang Uygur
+1952A,45.5828,84.8897,nánlínxiǎoqū,南林小区,Nanlin Community,kèlāmǎyī,克拉玛依,Karamay,Mainland China,Xinjiang Uygur
+1953A,45.6886,85.1186,báijiǎntānqū,白碱滩区,Baijiantan District,kèlāmǎyī,克拉玛依,Karamay,Mainland China,Xinjiang Uygur
+1954A,44.3336,84.8983,dúshānzǐqū,独山子区,Dushanzi District,kèlāmǎyī,克拉玛依,Karamay,Mainland China,Xinjiang Uygur
+1955A,46.0872,85.6931,wūěrhéqūshāngmàolóu,乌尔禾区商贸楼,Wuerhe District Business Building,kèlāmǎyī,克拉玛依,Karamay,Mainland China,Xinjiang Uygur
+1956A,41.7511,86.1461,kǒngquègōngyuán,孔雀公园,Peacock Park,kùěrlè,库尔勒,Korla,Mainland China,Xinjiang Uygur
+1957A,41.7192,86.2022,miánfǎngchǎng,棉纺厂,Cotton mill,kùěrlè,库尔勒,Korla,Mainland China,Xinjiang Uygur
+1958A,41.7128,86.2381,jīngjìkāifāqū,经济开发区,economic development Zone,kùěrlè,库尔勒,Korla,Mainland China,Xinjiang Uygur
+1959A,36.881,118.746,jiāncèzhàn,监测站,GHG monitoring,shòuguāng,寿光,Shouguang,Mainland China,Shandong
+1960A,36.864,118.78,shìjìxuéxiào,世纪学校,Century school,shòuguāng,寿光,Shouguang,Mainland China,Shandong
+1961A,36.71,117.541,huánjìngjiāncèzhàn,环境监测站,Environmental monitoring observatories;,zhāngqīu,章丘,Zhang Qiu,Mainland China,Shandong
+1962A,36.71,117.541,míngshǔikāifāqū,明水开发区,Mingshui Development Zone,zhāngqīu,章丘,Zhang Qiu,Mainland China,Shandong
+1963A,36.44,120.61,huánbǎojúzǐzhàn,环保局子站,Environmental Protection Agency Substation,jímò,即墨,Jimo,Mainland China,Shandong
+1964A,36.39,120.47,kāifāqūzǐzhàn,开发区子站,Development zone substation,jímò,即墨,Jimo,Mainland China,Shandong
+1965A,35.878,120.005,JNzǐzhàn,JN子站,JN substation,xiáonán,胶南,Jiaonan,Mainland China,Shandong
+1966A,35.872,120.039,2hàozǐzhàn,2号子站,Substation 2,xiáonán,胶南,Jiaonan,Mainland China,Shandong
+1967A,36.283,120.008,xiáozhōuhuánbǎojú,胶州环保局,Jiaozhou Environmental Protection Bureau,xiáozhōu,胶州,Jiaozhou,Mainland China,Shandong
+1968A,36.253,120.014,xiáozhōuyīzhōng,胶州一中,Jiaozhou No.1 Middle School,xiáozhōu,胶州,Jiaozhou,Mainland China,Shandong
+1969A,36.865,120.537,huánbǎojúzǐzhàn,环保局子站,Environmental Protection Agency Substation,láixī,莱西,Lacey,Mainland China,Shandong
+1970A,36.885,120.515,rénmínguǎngchángzǐzhàn,人民广场子站,People&#39;s Square Substation,láixī,莱西,Lacey,Mainland China,Shandong
+1971A,36.792,119.952,1hào,1号,number 1,píngdù,平度,Flatness,Mainland China,Shandong
+1972A,36.799,119.976,2hào,2号,2 No.,píngdù,平度,Flatness,Mainland China,Shandong
+1973A,37.825,120.747,péngláihuánbǎojú,蓬莱环保局,Penglai Environmental Protection Bureau,pénglái,蓬莱,Penglai,Mainland China,Shandong
+1974A,37.809,120.773,péngláibówùguǎn,蓬莱博物馆,Penglai Museum,pénglái,蓬莱,Penglai,Mainland China,Shandong
+1975A,37.374,120.399,zhāoyuǎnhuánbǎojú,招远环保局,Zhaoyuan Environmental Protection Bureau,zhāoyuǎn,招远,Zhaoyuan,Mainland China,Shandong
+1976A,37.364,120.394,zhāoyuǎnjiàoyùjú,招远教育局,Zhaoyuan Education Bureau,zhāoyuǎn,招远,Zhaoyuan,Mainland China,Shandong
+1977A,37.177,119.941,láizhōuhuánbǎojú,莱州环保局,Laizhou Environmental Protection Bureau,láizhōu,莱州,Laizhou,Mainland China,Shandong
+1978A,37.18,119.959,láizhōuwàijīngwěi,莱州外经委,Laizhou Foreign Economic Commission,láizhōu,莱州,Laizhou,Mainland China,Shandong
+1979A,37.154,122.471,róngchéngshìhuánbǎojúbàngōnglóu,荣成市环保局办公楼,Rongcheng Environmental Protection Bureau Office Building,róngchéng,荣成,Rongcheng,Mainland China,Shandong
+1980A,37.161,122.41,shāndōngchéngshānlúntāigōngsī,山东成山轮胎公司,Shandong Chengshan Tire Company,róngchéng,荣成,Rongcheng,Mainland China,Shandong
+1981A,37.197,122.038,wéndēngshìhuánbǎojú,文登市环保局,Wendeng City Environmental Protection Bureau,wéndēng,文登,Wendeng,Mainland China,Shandong
+1982A,37.187,122.019,wéndēngshìsīchóugōngsī,文登市丝绸公司,Wendeng Silk Company,wéndēng,文登,Wendeng,Mainland China,Shandong
+1983A,36.913,121.531,rǔshānshìhuánbǎojú,乳山市环保局,Rushan Environmental Protection Bureau,rǔshān,乳山,Rushan,Mainland China,Shandong
+1984A,36.907,121.544,rǔshānshìqìxiàngjú,乳山市气象局,Rushan Meteorological Bureau,rǔshān,乳山,Rushan,Mainland China,Shandong
+1985A,31.155,120.636,wújiāngshìhuánbǎojú,吴江市环保局,Wujiang City Environmental Protection Bureau,wújiāng,吴江,Wu Jiang,Mainland China,Jiangsu
+1986A,31.17,120.635,jiàoshījìnxīuxuéxiào,教师进修学校,Teacher training school,wújiāng,吴江,Wu Jiang,Mainland China,Jiangsu
+1987A,31.172,120.658,wújiāngkāifāqū,吴江开发区,Wujiang Development Zone,wújiāng,吴江,Wu Jiang,Mainland China,Jiangsu
+1988A,31.388,120.953,kūnshānshíyànxiǎoxué,昆山实验小学,Kunshan Experimental Primary School,kūnshān,昆山,Kunshan,Mainland China,Jiangsu
+1989A,31.381,120.999,zhènchuānzhōngxué,震川中学,Zhenchuan Middle School,kūnshān,昆山,Kunshan,Mainland China,Jiangsu
+1990A,31.67,120.758,hǎiyúzǐzhàn,海虞子站,Haizizi Station,chángshú,常熟,Changshu,Mainland China,Jiangsu
+1991A,31.671,120.721,xīngfúzǐzhàn,兴福子站,Xingfuzi Station,chángshú,常熟,Changshu,Mainland China,Jiangsu
+1992A,31.656,120.734,língtángzǐzhàn,菱塘子站,Lingtangzi Station,chángshú,常熟,Changshu,Mainland China,Jiangsu
+1993A,31.874,120.526,zhāngjiāgǎngshìjiāncèzhàn,张家港市监测站,Zhangjiagang City Monitoring Station,zhāngjiāgǎng,张家港,Zhangjiagang,Mainland China,Jiangsu
+1994A,31.882,120.55,chéngběixiǎoxué,城北小学,Chengbei Primary School,zhāngjiāgǎng,张家港,Zhangjiagang,Mainland China,Jiangsu
+1995A,31.453000000000007,121.115,tàicāngshìjiāncèzhàn,太仓市监测站,Taicang City Monitoring Station,tàicāng,太仓,Taicang,Mainland China,Jiangsu
+1996A,31.422,121.14,kējiàoxīnchéngshíxiǎo,科教新城实小,Science and education new town is small,tàicāng,太仓,Taicang,Mainland China,Jiangsu
+1997A,31.955,119.146,xiāofángzhǐhūizhōngxīn,消防指挥中心,Fire command center,jùróng,句容,Jurong,Mainland China,Jiangsu
+1998A,31.955,119.18,fángjiābà,房家坝,Fangjiaba,jùróng,句容,Jurong,Mainland China,Jiangsu
+1999A,31.92,120.268,hóngqiáoyóuzhèng,虹桥邮政,Hongqiao Post,jiāngyīn,江阴,Jiangyin,Mainland China,Jiangsu
+2000A,31.909,120.237,wǔxīnggōngyuán,五星公园,Five Star Park,jiāngyīn,江阴,Jiangyin,Mainland China,Jiangsu
+2001A,31.92,120.302,dìèrshíyànxiǎoxué,第二实验小学,Second experimental primary school,jiāngyīn,江阴,Jiangyin,Mainland China,Jiangsu
+2002A,31.354,119.818,yíxīngshìhuánbǎojú,宜兴市环保局,Yixing Environmental Protection Bureau,yíxīng,宜兴,Yixing,Mainland China,Jiangsu
+2003A,31.371,119.794,yíyuán,宜园,Yiyuan,yíxīng,宜兴,Yixing,Mainland China,Jiangsu
+2004A,31.751,119.579,jīntánshìhuánjìngjiāncèzhàn,金坛市环境监测站,Jintan Environmental Monitoring Station,jīntán,金坛,Jintan,Mainland China,Jiangsu
+2005A,31.737,119.579,jīntánshìzìláishǔigōngsī,金坛市自来水公司,Jintan Water Supply Company,jīntán,金坛,Jintan,Mainland China,Jiangsu
+2006A,31.4,119.46,lìyángshìdōngménzǐzhàn,溧阳市东门子站,Xiangyang Dongmenzi Station,lìyáng,溧阳,Fuyang,Mainland China,Jiangsu
+2007A,31.317,119.438,yànshānzǐzhàn,燕山子站,Yanshanzi Station,lìyáng,溧阳,Fuyang,Mainland China,Jiangsu
+2008A,31.896,121.173,hǎiménshìjiāncèzhàn,海门市监测站,Haimen City Monitoring Station,hǎimén,海门,sea Gate,Mainland China,Jiangsu
+2009A,31.89708,121.1518,bèilěiyòuéryuán,蓓蕾幼儿园,Yu Lei Kindergarten,hǎimén,海门,sea Gate,Mainland China,Jiangsu
+2010A,30.2366,119.7183,shìzhèngfǔ,市政府,Local government,línān,临安,Linan,Mainland China,Zhejiang
+2011A,30.2311,119.6942,sìzhōng,四中,Fourth,línān,临安,Linan,Mainland China,Zhejiang
+2012A,30.054,119.954,jiāncèzhàn,监测站,GHG monitoring,fùyáng,富阳,Fuyang,Mainland China,Zhejiang
+2013A,30.049,119.946,fùchūnèrxiǎo,富春二小,Fuchun two small,fùyáng,富阳,Fuyang,Mainland China,Zhejiang
+2014A,29.305,120.091,jiāngdōng,江东,Jiangdong,yìwū,义乌,[Yiwu],Mainland China,Zhejiang
+2015A,29.334,120.04,běiyuàn,北苑,Beiyuan,yìwū,义乌,[Yiwu],Mainland China,Zhejiang
+2016A,29.719,120.251,túshūguǎn,图书馆,Library,zhūjì,诸暨,Zhuji,Mainland China,Zhejiang
+2017A,29.732,120.209,fùlínyìnwù,富林印务,Fulin Printing,zhūjì,诸暨,Zhuji,Mainland China,Zhejiang
+2018A,39.625,121.989,bàolóngshānzhuāng,抱龙山庄,Hulong Mountain Villa,wǎfángdiàn,瓦房店,Wafangdian,Mainland China,Liaoning
+2019A,39.617,122.011,dōngshāngōngyuán,东山公园,Dongshan Park,wǎfángdiàn,瓦房店,Wafangdian,Mainland China,Liaoning
+2031A,27.9958,113.1817,yúntiánzhōngxué,云田中学,Yuntian Middle School,zhūzhōu,株洲,Zhuzhou,Mainland China,Hunan
+1157A,32.0878,118.626,pǔkǒu,浦口,Pukou,nánjīng,南京,Nanjing,Mainland China,Jiangsu
+1264A,28.9404,118.871,huánbǎodàlóu,环保大楼,Environmental protection building,qúzhōu,衢州,Zhangzhou,Mainland China,Zhejiang
+1632A,36.838,118.0448,dōngfēnghuàgōngchǎng,东风化工厂,Dongfeng Chemical Factory,zībó,淄博,Zibo,Mainland China,Shandong
+1724A,40.0917,113.3444,dàtóngdàxué,大同大学,Datong University,dàtóng,大同,Datong,Mainland China,Shanxi
+1618A,35.0573,118.3418,yíhéxiǎoqū,沂河小区,Luohe Community,línyí,临沂,Linyi,Mainland China,Shandong
+1309A,36.0699,120.3471,shìběiqūzǐzhàn,市北区子站,Shibei District Substation,qīngdǎo,青岛,Qingdao,Mainland China,Shandong
+2054A,32.1078,114.1044,píngqiáofēnjú,平桥分局,Pingqiao Branch,xìnyáng,信阳,Xinyang,Mainland China,Henan
+2064A,32.1403,114.0122,nánwānshǔichǎng,南湾水厂,Nanwan Water Plant,xìnyáng,信阳,Xinyang,Mainland China,Henan
+2065A,32.1342,114.0681,shìniàngjǐugōngsī,市酿酒公司,City Brewing Company,xìnyáng,信阳,Xinyang,Mainland China,Henan
+2066A,32.1383,114.0614,shěnjìjú,审计局,The Board of Audit,xìnyáng,信阳,Xinyang,Mainland China,Henan
+2067A,33.6128,114.6613,shìhuánjìngjiāncèzhàn,市环境监测站,City Environmental Monitoring Station,zhōukǒu,周口,Zhoukou,Mainland China,Henan
+2068A,33.6347,114.6758,zhōukǒushīfàn,周口师范,Zhoukou Normal,zhōukǒu,周口,Zhoukou,Mainland China,Henan
+2069A,33.5979,114.6546,shìyùnguǎnchù,市运管处,City Transportation Management Office,zhōukǒu,周口,Zhoukou,Mainland China,Henan
+2070A,33.6406,114.6369,chuānhùiqūhuánbǎojú,川汇区环保局,Chuanhui District Environmental Protection Bureau,zhōukǒu,周口,Zhoukou,Mainland China,Henan
+2073A,24.5086,117.7206,lántián,蓝田,Lantian,zhāngzhōu,漳州,Zhangzhou,Mainland China,Fujian
+2074A,24.5157,117.6569,zhāngzhōusānzhōng,漳州三中,Zhangzhou Sanzhong,zhāngzhōu,漳州,Zhangzhou,Mainland China,Fujian
+2075A,24.4674,117.6336,jǐuhú,九湖,Jiuhu,zhāngzhōu,漳州,Zhangzhou,Mainland China,Fujian
+2160A,35.5051,112.85,zìláishǔigōngsī,自来水公司,Water company,jìnchéng,晋城,Jincheng,Mainland China,Shanxi
+2161A,35.4934,112.835,báiyúnshāngmào,白云商贸,Baiyun Business,jìnchéng,晋城,Jincheng,Mainland China,Shanxi
+2162A,35.4883,112.8564,shìhuánbǎojú,市环保局,municipal environmental protection Bureau,jìnchéng,晋城,Jincheng,Mainland China,Shanxi
+2163A,35.4894,112.8664,jìzhúxuéyuàn,技术学院,Costa Rican Technical Institute,jìnchéng,晋城,Jincheng,Mainland China,Shanxi
+2164A,35.4813,112.8252,zézhōuyīzhōng,泽州一中,Zezhou No. 1 Middle School,jìnchéng,晋城,Jincheng,Mainland China,Shanxi
+2165A,35.546,112.8453,báimǎsì,白马寺,White Horse Temple,jìnchéng,晋城,Jincheng,Mainland China,Shanxi
+2166A,39.3514,112.44,píngshuò,平朔,Hiratsuka,shuòzhōu,朔州,Zhangzhou,Mainland China,Shanxi
+2167A,39.3606,112.4549,shuòwéi,朔唯,Wei Wei,shuòzhōu,朔州,Zhangzhou,Mainland China,Shanxi
+2168A,39.3179,112.4254,qūzhèngfǔ,区政府,District government,shuòzhōu,朔州,Zhangzhou,Mainland China,Shanxi
+2169A,39.3265,112.4078,shìhuánbǎojú,市环保局,municipal environmental protection Bureau,shuòzhōu,朔州,Zhangzhou,Mainland China,Shanxi
+2170A,39.3673,112.4279,shìèrzhōng,市二中,City II,shuòzhōu,朔州,Zhangzhou,Mainland China,Shanxi
+2171A,37.7019,112.7549,jǐnlúnxiǎoqū,锦纶小区,Jinlun Community,jìnzhōng,晋中,Jinzhong,Mainland China,Shanxi
+2172A,37.68131,112.7075,yúcìyèyājiànchǎng,榆次液压件厂,Yuci Hydraulic Parts Factory,jìnzhōng,晋中,Jinzhong,Mainland China,Shanxi
+2173A,37.7111,112.7306,nándūxiǎoqū,南都小区,Nandu Community,jìnzhōng,晋中,Jinzhong,Mainland China,Shanxi
+2174A,37.7087,112.7105,yúcìqūzhèngfǔ,榆次区政府,Yuci District Government,jìnzhōng,晋中,Jinzhong,Mainland China,Shanxi
+2175A,35.0147,110.9956,yùnchéngzhōngxué,运城中学,Yuncheng Middle School,yùnchéng,运城,Yuncheng,Mainland China,Shanxi
+2176A,35.0611,111.0233,yǔdūkāifāqū,禹都开发区,Yudu Development Zone,yùnchéng,运城,Yuncheng,Mainland China,Shanxi
+2177A,35.02668,110.99609,yùnchéngxuéyuàn,运城学院,Yuncheng College,yùnchéng,运城,Yuncheng,Mainland China,Shanxi
+2178A,35.0308,110.9678,dìqūjìxiào,地区技校,Regional technical school,yùnchéng,运城,Yuncheng,Mainland China,Shanxi
+2179A,35.1147,111.0414,kōnggǎngxīnqū,空港新区,Airport New District,yùnchéng,运城,Yuncheng,Mainland China,Shanxi
+2180A,38.4186,112.7356,jīyǐn,机引,Machine,xīnzhōu,忻州,Zhangzhou,Mainland China,Shanxi
+2181A,38.4519,112.7383,kāifāqū,开发区,Thereof: Development,xīnzhōu,忻州,Zhangzhou,Mainland China,Shanxi
+2182A,38.4928,112.7003,hùizhǎnzhōngxīn,会展中心,Exhibition Centre,xīnzhōu,忻州,Zhangzhou,Mainland China,Shanxi
+2183A,37.5211,111.1406,huánbǎojú,环保局,Environmental Protection Agency,lv̌liáng,吕梁,Lu Liang,Mainland China,Shanxi
+2184A,37.53393,111.11205,dòuzhìpǐnchǎng,豆制品厂,Bean products factory,lv̌liáng,吕梁,Lu Liang,Mainland China,Shanxi
+2185A,37.5136,111.1297,zìláishǔigōngsī,自来水公司,Water company,lv̌liáng,吕梁,Lu Liang,Mainland China,Shanxi
+2186A,39.6719,106.8219,jùyīngxuéxiào,聚英学校,Juying School,wūhǎi,乌海,Wuhai,Mainland China,Nei Mongol
+2187A,39.6969,106.8089,shìlínyèjú,市林业局,Municipal Forestry Bureau,wūhǎi,乌海,Wuhai,Mainland China,Nei Mongol
+2188A,39.6572,106.7931,zhōnghǎibówānxuéxiào,中海勃湾学校,Zhonghai Bowan School,wūhǎi,乌海,Wuhai,Mainland China,Nei Mongol
+2189A,43.6267,122.2603,tōngliáobīnguǎn,通辽宾馆,Tongliao Hotel,tōngliáo,通辽,Tongliao,Mainland China,Nei Mongol
+2190A,43.6156,122.3039,xiáojiànlv̌yè,胶建铝业,Jiaojian Aluminum Industry,tōngliáo,通辽,Tongliao,Mainland China,Nei Mongol
+2191A,43.6801,122.2532,yìzhúzhíyèxuéxiào,艺术职业学校,Art vocational school,tōngliáo,通辽,Tongliao,Mainland China,Nei Mongol
+2192A,49.2261,119.7594,qūhuánbǎojú,区环保局,District Environmental Protection Agency,hūlúnbèiěr,呼伦贝尔,Hulunbuir,Mainland China,Nei Mongol
+2193A,49.2014,119.7283,shìyìxiào,市艺校,City Art School,hūlúnbèiěr,呼伦贝尔,Hulunbuir,Mainland China,Nei Mongol
+2194A,40.916,107.5936,qīulínyǎngzhíjīdì,秋林养殖基地,Qiulin breeding base,bāyànnàoěr,巴彦淖尔,Bayannaoer,Mainland China,Nei Mongol
+2195A,40.7608,107.4211,fùzhōng,附中,Middle school,bāyànnàoěr,巴彦淖尔,Bayannaoer,Mainland China,Nei Mongol
+2196A,40.7378,107.3715,shìhuánbǎodàlóu,市环保大楼,City Environmental Protection Building,bāyànnàoěr,巴彦淖尔,Bayannaoer,Mainland China,Nei Mongol
+2197A,40.9923,113.1306,jíníngxīnqū,集宁新区,Jining New District,wūlánchábù,乌兰察布,Ulanchabu,Mainland China,Nei Mongol
+2198A,41.038,113.0974,jíníngjìuqūxī,集宁旧区西,Jining Old District West,wūlánchábù,乌兰察布,Ulanchabu,Mainland China,Nei Mongol
+2199A,46.0872,122.062,méngjiāncèzhàn,盟监测站,Union monitoring station,xīngānméng,兴安盟,Hinggan League,Mainland China,Nei Mongol
+2200A,46.0703,122.0506,shènghuáxīnzhìyàochǎng,胜华新制药厂,Shenghua New Pharmaceutical Factory,xīngānméng,兴安盟,Hinggan League,Mainland China,Nei Mongol
+2202A,43.9317,116.1042,shìhuánbǎojiāncèzhàn,市环保监测站,City Environmental Monitoring Station,xílínguōlèméng,锡林郭勒盟,Xilingol League,Mainland China,Nei Mongol
+2203A,43.9311,116.0781,shìzhèngfǔ,市政府,Local government,xílínguōlèméng,锡林郭勒盟,Xilingol League,Mainland China,Nei Mongol
+2204A,38.8343,105.6775,tǐyùcháng,体育场,a stadium,ālāshànméng,阿拉善盟,Alxa League,Mainland China,Nei Mongol
+2205A,38.843,105.6975,ménghuánbǎolóu,盟环保楼,Alliance Environmental Building,ālāshànméng,阿拉善盟,Alxa League,Mainland China,Nei Mongol
+2206A,38.8516,105.724,huánbǎojúxīnlóu,环保局新楼,New Building of the Environmental Protection Agency,ālāshànméng,阿拉善盟,Alxa League,Mainland China,Nei Mongol
+2207A,41.9967,121.6178,gōngyèyuánqū,工业园区,Industrial Park,fùxīn,阜新,Fuxin,Mainland China,Liaoning
+2208A,42.0186,121.6561,chángqīngjiē,长青街,Changqing Street,fùxīn,阜新,Fuxin,Mainland China,Liaoning
+2209A,42.0503,121.6972,nóngyèyuánqū,农业园区,Agricultural park,fùxīn,阜新,Fuxin,Mainland China,Liaoning
+2210A,42.0228,121.6722,dōngyuàn,东苑,Dongyuan,fùxīn,阜新,Fuxin,Mainland China,Liaoning
+2211A,42.0486,121.6592,yùlóngxīnchéng,玉龙新城,Yulong New City,fùxīn,阜新,Fuxin,Mainland China,Liaoning
+2212A,41.1953,123.2,hóngwěiqū,宏伟区,Hongwei District,liáoyáng,辽阳,Liaoyang,Mainland China,Liaoning
+2213A,41.2553,123.15,xīnhuáyuán,新华园,Xinhuayuan,liáoyáng,辽阳,Liaoyang,Mainland China,Liaoning
+2214A,41.2736,123.1761,bīnhélù,滨河路,Binhe Road,liáoyáng,辽阳,Liaoyang,Mainland China,Liaoning
+2215A,41.2894,123.1417,tiěxīgōngyèyuán,铁西工业园,Tiexi Industrial Park,liáoyáng,辽阳,Liaoyang,Mainland China,Liaoning
+2216A,42.3022,123.8139,hùigōngjiēxī,汇工街西,Huigong Street West,tiělíng,铁岭,Tieling,Mainland China,Liaoning
+2217A,42.2953,123.8831,shǔishànglèyuán,水上乐园,water park,tiělíng,铁岭,Tieling,Mainland China,Liaoning
+2218A,42.2864,123.8489,yínzhōulùdōngduàn,银州路东段,East section of Yinzhou Road,tiělíng,铁岭,Tieling,Mainland China,Liaoning
+2219A,42.2217,123.7153,jīnshājiānglùběi,金沙江路北,Jinshajiang Road North,tiělíng,铁岭,Tieling,Mainland China,Liaoning
+2220A,41.5931,120.4439,xīliáng,西梁,West beam,zhāoyáng,朝阳,Chaoyang,Mainland China,Liaoning
+2221A,41.5672,120.4486,hépànxiǎoqū,河畔小区,Riverside community,zhāoyáng,朝阳,Chaoyang,Mainland China,Liaoning
+2222A,41.5647,120.4247,bālǐbǎo,八里堡,Bali Fort,zhāoyáng,朝阳,Chaoyang,Mainland China,Liaoning
+2223A,41.615,120.3939,nóngyèyuánqū,农业园区,Agricultural park,zhāoyáng,朝阳,Chaoyang,Mainland China,Liaoning
+2224A,43.1747,124.3419,jiāncèzhàn,监测站,GHG monitoring,sìpíng,四平,Siping,Mainland China,Jilin
+1591A,39.8129,110.0023,zònghélóu,综合楼,Comprehensive building,èěrduōsī,鄂尔多斯,Ordos City,Mainland China,Nei Mongol
+2226A,43.1847,124.3897,jìngyuán,境园,Land park,sìpíng,四平,Siping,Mainland China,Jilin
+2227A,42.8947,125.1358,huánbǎojú,环保局,Environmental Protection Agency,liáoyuán,辽源,Liaoyuan,Mainland China,Jilin
+2228A,42.8953,125.1567,wūshǔichùlǐchǎng,污水处理厂,Sewage treatment plant,liáoyuán,辽源,Liaoyuan,Mainland China,Jilin
+2229A,41.7156,125.9361,guāngmíng,光明,Guangming,tōnghuà,通化,Tonghua,Mainland China,Jilin
+2230A,41.7381,125.9486,tiělù,铁路,Rail transport,tōnghuà,通化,Tonghua,Mainland China,Jilin
+2231A,41.9206,126.4047,xǐfēng,喜丰,Xifeng,báishān,白山,白山,Mainland China,Jilin
+2232A,41.9419,126.4078,huánbǎojú,环保局,Environmental Protection Agency,báishān,白山,白山,Mainland China,Jilin
+2233A,45.0878,124.8292,jiāngnán,江南,Jiangnan,sōngyuán,松原,Matsubara,Mainland China,Jilin
+2234A,45.1642,124.8528,jiāngběi,江北,Jiangbei,sōngyuán,松原,Matsubara,Mainland China,Jilin
+2235A,45.6289,122.8444,táoběiqūhuánbǎojú,洮北区环保局,Yubei District Environmental Protection Bureau,báichéng,白城,Baicheng,Mainland China,Jilin
+2236A,45.6175,122.8211,shìhuánbǎojú,市环保局,municipal environmental protection Bureau,báichéng,白城,Baicheng,Mainland China,Jilin
+2237A,42.8939,129.4892,fùyòuyìyuàn,妇幼医院,Mother and Child Hospital,yánbiānzhōu,延边州,Yanbian Korean Autonomous Prefecture,Mainland China,Jilin
+2238A,42.9061,129.5042,yánbiānyìyuàn,延边医院,Yanbian Hospital,yánbiānzhōu,延边州,Yanbian Korean Autonomous Prefecture,Mainland China,Jilin
+2239A,42.8775,129.3675,zhāoyángchuānzhènyìyuàn,朝阳川镇医院,Chaoyangchuan Town Hospital,yánbiānzhōu,延边州,Yanbian Korean Autonomous Prefecture,Mainland China,Jilin
+2240A,45.2924,130.96200000000002,huánbǎojú　,环保局　,Environmental Protection Agency,jīxī,鸡西,Jixi,Mainland China,Heilongjiang
+2241A,45.305,130.9817,zìláishǔigōngsī　,自来水公司　,Water company,jīxī,鸡西,Jixi,Mainland China,Heilongjiang
+2242A,45.2948,131.0103,báijǐuchǎng　,白酒厂　,White wine factory,jīxī,鸡西,Jixi,Mainland China,Heilongjiang
+2243A,45.2978,130.9298,qìxiàngjú　,气象局　,Weather bureau,jīxī,鸡西,Jixi,Mainland China,Heilongjiang
+2244A,47.3349,130.2659,hāpífēngōngsī,哈啤分公司,Harbin Brewery Branch,hègǎng,鹤岗,Hegang,Mainland China,Heilongjiang
+2245A,47.2753,130.261,sīdájīdiàn,斯达机电,Star Electrical,hègǎng,鹤岗,Hegang,Mainland China,Heilongjiang
+2246A,47.3489,130.3172,dōngshānzhǐbǎnchǎng,东山纸板厂,Dongshan Cardboard Factory,hègǎng,鹤岗,Hegang,Mainland China,Heilongjiang
+2247A,47.3382,130.1097,wǔhàoshǔikù,五号水库,Fifth Reservoir,hègǎng,鹤岗,Hegang,Mainland China,Heilongjiang
+2248A,46.6572,131.1638,shuānghécūn,双合村,Shuanghe Village,shuāngyāshān,双鸭山,Shuangyashan,Mainland China,Heilongjiang
+2249A,46.619,131.1651,nánxiǎoshì,南小市,Nanxiao City,shuāngyāshān,双鸭山,Shuangyashan,Mainland China,Heilongjiang
+2250A,46.6462,131.1516,huánbǎojú,环保局,Environmental Protection Agency,shuāngyāshān,双鸭山,Shuangyashan,Mainland China,Heilongjiang
+2251A,46.5888,131.1572,miáopǔ,苗圃,Nursey,shuāngyāshān,双鸭山,Shuangyashan,Mainland China,Heilongjiang
+2252A,47.7222,128.8736,zhōngxīnyìyuàn,中心医院,Central hospital,yīchūn,伊春,Yichun,Mainland China,Heilongjiang
+2253A,47.7317,128.9094,línguǎnjú,林管局,Forest management bureau,yīchūn,伊春,Yichun,Mainland China,Heilongjiang
+2254A,48.4658,129.4942,tāngwànghéguójiāgōngyuán,汤旺河国家公园,Tangwang River National Park,yīchūn,伊春,Yichun,Mainland China,Heilongjiang
+2255A,46.8025,130.2719,jiāfǎng,佳纺,Jiafang,jiāmùsī,佳木斯,Jiamusi,Mainland China,Heilongjiang
+2256A,46.8267,130.3961,fādiànchǎng,发电厂,Power station,jiāmùsī,佳木斯,Jiamusi,Mainland China,Heilongjiang
+2257A,46.7975,130.3258,huánbǎojú,环保局,Environmental Protection Agency,jiāmùsī,佳木斯,Jiamusi,Mainland China,Heilongjiang
+2258A,46.8032,130.3648,shíyīzhōng,十一中,Eleven,jiāmùsī,佳木斯,Jiamusi,Mainland China,Heilongjiang
+2259A,46.7588,130.3794,sìfēng,四丰,Sifeng,jiāmùsī,佳木斯,Jiamusi,Mainland China,Heilongjiang
+2260A,45.7677,131.0032,huánbǎojú,环保局,Environmental Protection Agency,qītáihé,七台河,Qitaihe,Mainland China,Heilongjiang
+2261A,45.8194,130.8625,xīnjiàn　,新建　,New,qītáihé,七台河,Qitaihe,Mainland China,Heilongjiang
+2262A,45.8309,130.9467,hútóugōu,葫头沟,Shantougou,qītáihé,七台河,Qitaihe,Mainland China,Heilongjiang
+2263A,50.2486,127.4961,jiāotōngjú　,交通局　,Traffic bureau,hēihé,黑河,Hay River,Mainland China,Heilongjiang
+2264A,50.2391,127.5044,dǎngxiào,党校,Party school,hēihé,黑河,Hay River,Mainland China,Heilongjiang
+2265A,50.2538,127.4143,dìzhènjú　,地震局　,Earthquake bureau,hēihé,黑河,Hay River,Mainland China,Heilongjiang
+2266A,46.6384,126.9934,rénhédōngjiē,人和东街,People and East Street,sūihuà,绥化,Suihua,Mainland China,Heilongjiang
+2267A,46.6527,126.9636,dǎngzhèngbàngōngzhōngxīn,党政办公中心,Party and government office center,sūihuà,绥化,Suihua,Mainland China,Heilongjiang
+2268A,50.4269,124.1186,huánbǎojú,环保局,Environmental Protection Agency,dàxīngānlíngdìqū,大兴安岭地区,Daxinganling Prefecture,Mainland China,Nei Mongol
+2269A,50.4217,124.1303,gōngānjú,公安局,Public security bureau,dàxīngānlíngdìqū,大兴安岭地区,Daxinganling Prefecture,Mainland China,Nei Mongol
+2270A,32.939,117.3961,gōngrénliáoyǎngyuàn,工人疗养院,Worker sanatorium,bàngbù,蚌埠,蚌埠,Mainland China,Anhui
+2271A,32.9444,117.3575,bǎihuòdàlóu,百货大楼,Department store,bàngbù,蚌埠,蚌埠,Mainland China,Anhui
+2272A,32.935,117.3086,èrshǔichǎng,二水厂,Second water plant,bàngbù,蚌埠,蚌埠,Mainland China,Anhui
+2273A,32.8913,117.4186,bàngbùxuéyuàn,蚌埠学院,College,bàngbù,蚌埠,蚌埠,Mainland China,Anhui
+2274A,32.9673,117.3536,huáishàngqūzhèngfǔ,淮上区政府,Huai Shang District Government,bàngbù,蚌埠,蚌埠,Mainland China,Anhui
+2275A,32.8985,117.3065,gāoxīnqū,高新区,High-tech Zone,bàngbù,蚌埠,蚌埠,Mainland China,Anhui
+2276A,32.6611,117.0417,dàtōngqūzhèngfǔ,大通区政府,Datong District Government,huáinán,淮南,Huainan,Mainland China,Anhui
+2277A,32.7639,116.8028,pānjíqūzhèngfǔ,潘集区政府,Panji District Government,huáinán,淮南,Huainan,Mainland China,Anhui
+2278A,32.645,117.0083,shīfànxuéyuàn,师范学院,Teacher Training Colleges,huáinán,淮南,Huainan,Mainland China,Anhui
+2279A,32.6028,116.8556,xièjiājíqūzhèngfǔ,谢家集区政府,Xiejia District Government,huáinán,淮南,Huainan,Mainland China,Anhui
+2280A,32.6319,116.8306,bāgōngshānqūzhèngfǔ,八公山区政府,Bagong Mountain Government,huáinán,淮南,Huainan,Mainland China,Anhui
+2281A,32.625,116.7039,jiāogǎnghúfēngjǐngqūguǎnlǐchù,焦岗湖风景区管理处,Jiaogang Lake Scenic Area Management Office,huáinán,淮南,Huainan,Mainland China,Anhui
+2282A,33.975,116.8008,jiāncèzhàn,监测站,GHG monitoring,huáiběi,淮北,Huaibei,Mainland China,Anhui
+2283A,33.8997,116.8067,lièshānqūzhèngfǔ,烈山区政府,Lieshan District Government,huáiběi,淮北,Huaibei,Mainland China,Anhui
+2284A,33.9461,116.7844,zhíyèjìzhúxuéyuàn,职业技术学院,vocational school,huáiběi,淮北,Huaibei,Mainland China,Anhui
+2285A,30.9414,117.8178,shìdìsìzhōngxué,市第四中学,City Fourth Middle School,tónglíng,铜陵,Tongling,Mainland China,Anhui
+2286A,30.9222,117.8078,shìgōnglùjú,市公路局,City Highway Bureau,tónglíng,铜陵,Tongling,Mainland China,Anhui
+2287A,30.9414,117.7806,shìxīnmínwūshǔichǎng,市新民污水厂,Xinmin Wastewater Treatment Plant,tónglíng,铜陵,Tongling,Mainland China,Anhui
+2288A,30.8811,117.7442,shìdìjǐuzhōngxué,市第九中学,City No. 9 Middle School,tónglíng,铜陵,Tongling,Mainland China,Anhui
+2289A,30.9219,117.8561,chēzhànxīnqū,车站新区,Station new area,tónglíng,铜陵,Tongling,Mainland China,Anhui
+2290A,30.9697,117.8472,shìzhíjiàojīdì,市职教基地,City vocational education base,tónglíng,铜陵,Tongling,Mainland China,Anhui
+2291A,30.5103,117.0549,huánkēyuàn,环科院,Academy of Environmental Sciences,ānqìng,安庆,Anqing,Mainland China,Anhui
+2292A,30.51197222,117.0331111,mǎshānbīnguǎn,马山宾馆,Mashan Hotel,ānqìng,安庆,Anqing,Mainland China,Anhui
+2293A,30.5489,117.0486,liánfùhuāyuán,联富花园,Lianfu Garden,ānqìng,安庆,Anqing,Mainland China,Anhui
+2294A,30.6145,116.9894,ānqìngdàxué,安庆大学,Anqing University,ānqìng,安庆,Anqing,Mainland China,Anhui
+2295A,29.7128,118.3057,yánānlù89hào,延安路89号,89 Yan&#39;an Road,huángshān,黄山,Huangshan,Mainland China,Anhui
+2296A,29.7207,118.3236,huángshāndōnglù89hào,黄山东路89号,No. 89 Huangshan East Road,huángshān,黄山,Huangshan,Mainland China,Anhui
+2297A,30.2756,118.1371,huángshānqūzhèngfǔ5hàolóu,黄山区政府5号楼,Huangshan District Government Building 5,huángshān,黄山,Huangshan,Mainland China,Anhui
+2298A,32.3153,118.3094,lǎoniándàxué,老年大学,University of the third age,chúzhōu,滁州,Zhangzhou,Mainland China,Anhui
+2299A,32.2786,118.3244,réndàbīnguǎn,人大宾馆,Renda Hotel,chúzhōu,滁州,Zhangzhou,Mainland China,Anhui
+2300A,32.3061,118.3158,jiāncèzhàn,监测站,GHG monitoring,chúzhōu,滁州,Zhangzhou,Mainland China,Anhui
+2301A,32.8928,115.8275,shìjiāncèzhàn,市监测站,City monitoring station,fùyáng,阜阳,Fuyang,Mainland China,Anhui
+2302A,32.80972,115.80517,shìwěidǎngxiào,市委党校,Party School of Municipal Committee,fùyáng,阜阳,Fuyang,Mainland China,Anhui
+2303A,32.8603,115.8556,kāifāqū,开发区,Thereof: Development,fùyáng,阜阳,Fuyang,Mainland China,Anhui
+2305A,33.6284,116.9677,yīzhōng,一中,One,sùzhōu,宿州,Suzhou,Mainland China,Anhui
+2306A,33.63063889,116.989,huǒchēzhàn,火车站,RAIL STATION,sùzhōu,宿州,Suzhou,Mainland China,Anhui
+2307A,31.7371,116.508,jiāncèdàlóu,监测大楼,Monitoring building,lìuān,六安,Lu&#39;an,Mainland China,Anhui
+2308A,31.7618,116.478,wǎnxīxuéyuàn,皖西学院,West Anhui College,lìuān,六安,Lu&#39;an,Mainland China,Anhui
+2309A,31.7797,116.5068,zhāoyángchǎng,朝阳厂,Chaoyang Factory,lìuān,六安,Lu&#39;an,Mainland China,Anhui
+2310A,31.7712,116.5661,kāifāqū,开发区,Thereof: Development,lìuān,六安,Lu&#39;an,Mainland China,Anhui
+2311A,33.8399,115.8067,wūshǔichùlǐchǎng,污水处理厂,Sewage treatment plant,bózhōu,亳州,Bozhou,Mainland China,Anhui
+2312A,33.8561,115.7831,sānguólǎnshènggōng,三国揽胜宫,Three Kingdoms Range Rover Palace,bózhōu,亳州,Bozhou,Mainland China,Anhui
+2313A,30.6414,117.4808,huánbǎodàlóu,环保大楼,Environmental protection building,chízhōu,池州,Chizhou,Mainland China,Anhui
+2314A,30.6617,117.4697,chízhōuxuéyuàn,池州学院,Chizhou College,chízhōu,池州,Chizhou,Mainland China,Anhui
+2315A,30.6539,117.4974,píngtiānhú,平天湖,Pingtian Lake,chízhōu,池州,Chizhou,Mainland China,Anhui
+2316A,30.9447,118.7581,áofēngzǐzhàn,鳌峰子站,鳌峰子站,xuānchéng,宣城,Xuancheng,Mainland China,Anhui
+2317A,30.9742,118.7386,jìngtíngshānzǐzhàn,敬亭山子站,Jingtingshanzi Station,xuānchéng,宣城,Xuancheng,Mainland China,Anhui
+2318A,30.9431,118.7175,kāifāqūzǐzhàn,开发区子站,Development zone substation,xuānchéng,宣城,Xuancheng,Mainland China,Anhui
+2319A,25.442,119.0156,lìchéngqūcānghòulù,荔城区仓后路,"Canghou Road, Wucheng District",fǔtián,莆田,Putian,Mainland China,Fujian
+2323A,25.4792,118.981,dōngzhènshǔikù,东圳水库,Dongzhen Reservoir,fǔtián,莆田,Putian,Mainland China,Fujian
+2324A,26.2625,117.6211,sāngāng,三钢,Sangang,sānmíng,三明,Sanming,Mainland China,Fujian
+2325A,26.2708,117.6353,sānmíngèrzhōng,三明二中,Sanming II,sānmíng,三明,Sanming,Mainland China,Fujian
+2326A,26.2378,117.6028,sānyuánqūzhèngfǔ,三元区政府,Sanyuan District Government,sānmíng,三明,Sanming,Mainland China,Fujian
+2327A,26.3108,117.7275,yángxī,洋溪,Yangxi,sānmíng,三明,Sanming,Mainland China,Fujian
+2331A,26.6761,118.0966,mángdàngshān,茫荡山,茫荡山,nánpíng,南平,Nanping,Mainland China,Fujian
+2332A,26.6383,118.1694,nánpíngshìjiāncèzhàn,南平市监测站,Nanping City Monitoring Station,nánpíng,南平,Nanping,Mainland China,Fujian
+2333A,26.6514,118.1819,nánpínglv̌yèyǒuxiàngōngsī,南平铝业有限公司,"Nanping Aluminum Industry Co., Ltd.",nánpíng,南平,Nanping,Mainland China,Fujian
+2334A,26.6272,118.1756,nánpíngqīzhōng,南平七中,Nanping Seventh Middle School,nánpíng,南平,Nanping,Mainland China,Fujian
+2335A,25.1174,117.0181,lóngyánshīzhuān,龙岩师专,Longyan Teachers College,lóngyán,龙岩,Longyan,Mainland China,Fujian
+2336A,25.1035,117.0216,lóngyánshìjiāncèzhàn,龙岩市监测站,Longyan City Monitoring Station,lóngyán,龙岩,Longyan,Mainland China,Fujian
+2337A,25.0661,117.0256,mǐnxīzhíyèjìzhúxuéyuàn,闽西职业技术学院,Minxi Vocational and Technical College,lóngyán,龙岩,Longyan,Mainland China,Fujian
+2338A,25.0311,117.0151,lóngyánxuéyuàn,龙岩学院,Longyan College,lóngyán,龙岩,Longyan,Mainland China,Fujian
+2339A,26.6946,119.5001,jīnhánshǔikù,金涵水库,Jinhan Reservoir,níngdé,宁德,Ningde,Mainland China,Fujian
+2340A,26.6607,119.5202,jiāochéngqūnóngjījú,蕉城区农机局,Jiaocheng Agricultural Machinery Bureau,níngdé,宁德,Ningde,Mainland China,Fujian
+2341A,26.6611,119.5392,níngdéshìjiāncèzhàn,宁德市监测站,Ningde City Monitoring Station,níngdé,宁德,Ningde,Mainland China,Fujian
+2342A,29.3864,117.3097,wánggǎngzhōngxué,王岗中学,Wang Gang Middle School,jǐngdézhèn,景德镇,Jingdezhen,Mainland China,Jiangxi
+2343A,29.2958,117.2111,lǎogānbùhuódòngzhōngxīn,老干部活动中心,Old Cadre Activity Center,jǐngdézhèn,景德镇,Jingdezhen,Mainland China,Jiangxi
+2344A,29.2786,117.1983,shòuyìzhàn,兽医站,veterinary services,jǐngdézhèn,景德镇,Jingdezhen,Mainland China,Jiangxi
+2345A,29.2647,117.1558,táidátáocí,台达陶瓷,Delta Ceramics,jǐngdézhèn,景德镇,Jingdezhen,Mainland China,Jiangxi
+2346A,29.2956,117.2461,táoyánsuǒ,陶研所,Tao Institute,jǐngdézhèn,景德镇,Jingdezhen,Mainland China,Jiangxi
+2347A,27.4948,114.0944,wǔgōngshānqìxiàngzhàn,武功山气象站,Wugongshan Weather Station,píngxiāng,萍乡,Pingxiang,Mainland China,Jiangxi
+2348A,27.6428,113.8381,zhōngyìyuàn,中医院,Chinese medicine hospital,píngxiāng,萍乡,Pingxiang,Mainland China,Jiangxi
+2349A,27.6231,113.8447,shìzhèngfǔchēkù,市政府车库,City government garage,píngxiāng,萍乡,Pingxiang,Mainland China,Jiangxi
+2350A,27.6442,113.8686,shìhuánbǎojú,市环保局,municipal environmental protection Bureau,píngxiāng,萍乡,Pingxiang,Mainland China,Jiangxi
+2351A,27.6178,113.865,ānyuánqūzhèngfǔ,安源区政府,Anyuan District Government,píngxiāng,萍乡,Pingxiang,Mainland China,Jiangxi
+2352A,27.7758,115.0586,běigǎng,北岗,Beigang,xīnyú,新余,Xinyu,Mainland China,Jiangxi
+2353A,27.8344,114.9831,fēiyǔ,飞宇,Feiyu,xīnyú,新余,Xinyu,Mainland China,Jiangxi
+2354A,27.8328,114.9289,dìèrshǔichǎng,第二水厂,Second water plant,xīnyú,新余,Xinyu,Mainland China,Jiangxi
+2355A,27.8036,114.9314,shìqìxiàngjú,市气象局,Municipal meteorological bureau,xīnyú,新余,Xinyu,Mainland China,Jiangxi
+2356A,27.8042,114.9119,xīngāngyǎngqìchǎng,新钢氧气厂,New Steel Oxygen Factory,xīnyú,新余,Xinyu,Mainland China,Jiangxi
+2357A,28.095,116.9622,lónghǔshān,龙虎山,Mount Longhu,yīngtán,鹰潭,Yingtan,Mainland China,Jiangxi
+2358A,28.2642,117.0564,xīnjiāncèzhàn,新监测站,New monitoring station,yīngtán,鹰潭,Yingtan,Mainland China,Jiangxi
+2359A,28.2403,117.0281,cáiyuànbīnguǎn,财苑宾馆,Caiyuan Hotel,yīngtán,鹰潭,Yingtan,Mainland China,Jiangxi
+2360A,28.2264,117.0222,tǐyùguǎn,体育馆,Gymnasium,yīngtán,鹰潭,Yingtan,Mainland China,Jiangxi
+2361A,28.2169,116.9983,sānchuānshǔibiǎo,三川水表,Sanchuan Water Meter,yīngtán,鹰潭,Yingtan,Mainland China,Jiangxi
+2362A,25.9118,114.9064,tōngtiānyán,通天岩,Tongtianyan,gànzhōu,赣州,Ganzhou,Mainland China,Jiangxi
+2363A,25.8664,114.9367,dìwěi,地委,Local committee,gànzhōu,赣州,Ganzhou,Mainland China,Jiangxi
+2364A,25.8481,114.9461,qìxiàngtái,气象台,meteorological stations,gànzhōu,赣州,Ganzhou,Mainland China,Jiangxi
+2365A,25.8333,114.9322,shìtúshūguǎn,市图书馆,City library,gànzhōu,赣州,Ganzhou,Mainland China,Jiangxi
+2366A,25.8471,114.8905,huájiānxiéchéng,华坚鞋城,Huajian Shoes City,gànzhōu,赣州,Ganzhou,Mainland China,Jiangxi
+2367A,27.0658,114.9817,hóngshēngqìcáichǎng,红声器材厂,Hongsheng Equipment Factory,jíān,吉安,Ji&#39;an,Mainland China,Jiangxi
+2368A,27.11,114.9739,shìsēnlíngōngyèjú,市森林工业局,City Forest Industry Bureau,jíān,吉安,Ji&#39;an,Mainland China,Jiangxi
+2369A,27.1311,114.99,shìhuánjìngjiāncèzhàn,市环境监测站,City Environmental Monitoring Station,jíān,吉安,Ji&#39;an,Mainland China,Jiangxi
+2370A,27.0983,115.0075,qīngyuánqūfǎyuàn,青原区法院,Qingyuan District Court,jíān,吉安,Ji&#39;an,Mainland China,Jiangxi
+2371A,27.8036,114.3442,bīnlángshǔiyè,槟榔水业,Betel nut industry,yíchūn,宜春,Yichun,Mainland China,Jiangxi
+2372A,27.8014,114.3806,shìzhōngguóyínxíng,市中国银行,Bank of China,yíchūn,宜春,Yichun,Mainland China,Jiangxi
+2373A,27.7842,114.3953,shìshíyóugōngsī,市石油公司,City oil company,yíchūn,宜春,Yichun,Mainland China,Jiangxi
+2374A,27.7914,114.3703,shìqìxiàngjú,市气象局,Municipal meteorological bureau,yíchūn,宜春,Yichun,Mainland China,Jiangxi
+2375A,27.8072,114.4011,shìguǎngdiànjú,市广电局,City Radio and Television Bureau,yíchūn,宜春,Yichun,Mainland China,Jiangxi
+2376A,28.0797,116.2239,tóngyuándǎngxī,桐源党溪,Tongyuan Party Creek,fǔzhōu,抚州,Fuzhou,Mainland China,Jiangxi
+2377A,27.9883,116.3553,shìzhàn,市站,City station,fǔzhōu,抚州,Fuzhou,Mainland China,Jiangxi
+2378A,27.9639,116.3598,xiěfángzhàn,血防站,Blood defense station,fǔzhōu,抚州,Fuzhou,Mainland China,Jiangxi
+2379A,28.0005,116.3574,cǎichájùtuán,采茶剧团,Tea troupe,fǔzhōu,抚州,Fuzhou,Mainland China,Jiangxi
+2380A,27.9647,116.385,yìxuéfēnyuàn,医学分院,Medical branch,fǔzhōu,抚州,Fuzhou,Mainland China,Jiangxi
+2381A,28.4569,118.0058,bǎicǎoyuán,百草园,Herb Garden,shàngráo,上饶,Shangrao,Mainland China,Jiangxi
+2382A,28.4459,117.973,shìjiāncèzhàn,市监测站,City monitoring station,shàngráo,上饶,Shangrao,Mainland China,Jiangxi
+2383A,28.4622,117.9511,fènghuángguāngxué,凤凰光学,Phoenix Optics,shàngráo,上饶,Shangrao,Mainland China,Jiangxi
+2384A,28.4303,117.9033,kāifāqūguǎnwěihùi,开发区管委会,Development Zone Management Committee,shàngráo,上饶,Shangrao,Mainland China,Jiangxi
+2385A,35.9019,114.17,shìjiāncèzhàn,市监测站,City monitoring station,hèbì,鹤壁,Hebi,Mainland China,Henan
+2386A,35.7511,114.2956,shìjiāojǐngzhīdùi,市交警支队,City Traffic Police Detachment,hèbì,鹤壁,Hebi,Mainland China,Henan
+2387A,35.7306,114.2878,yíngbīnguǎn,迎宾馆,Welcome hotel,hèbì,鹤壁,Hebi,Mainland China,Henan
+2388A,35.279,113.926,kējìxuéyuàn,科技学院,University of Science and Technology,xīnxiāng,新乡,Xinxiang,Mainland China,Henan
+2389A,35.31,113.836,huánbǎoxīyuàn,环保西院,Environmental Protection West Hospital,xīnxiāng,新乡,Xinxiang,Mainland China,Henan
+2390A,35.272,113.884,kāifāqū,开发区,Thereof: Development,xīnxiāng,新乡,Xinxiang,Mainland China,Henan
+2391A,35.30300000000001,113.883,huánbǎodōngyuàn,环保东院,Environmental Protection East Hospital,xīnxiāng,新乡,Xinxiang,Mainland China,Henan
+2392A,35.76300000000001,115.031,huánbǎojú,环保局,Environmental Protection Agency,púyáng,濮阳,Fuyang,Mainland China,Henan
+2393A,35.767,114.9906,hóngtiānwēi,紭天威,Yan Tianwei,púyáng,濮阳,Fuyang,Mainland China,Henan
+2394A,35.7672,115.0628,yóutiányùnshūgōngsī,油田运输公司,Oilfield transportation company,púyáng,濮阳,Fuyang,Mainland China,Henan
+2395A,35.767,115.0772,yóutiánwùtàngōngsī,油田物探公司,Oilfield geophysical company,púyáng,濮阳,Fuyang,Mainland China,Henan
+2396A,34.0117,113.8331,jiāncèzhàn,监测站,GHG monitoring,xǔchāng,许昌,Xu Chang,Mainland China,Henan
+2397A,34.0314,113.8208,huánbǎojú,环保局,Environmental Protection Agency,xǔchāng,许昌,Xu Chang,Mainland China,Henan
+2398A,33.9953,113.7906,kāifāqū,开发区,Thereof: Development,xǔchāng,许昌,Xu Chang,Mainland China,Henan
+2399A,33.567,114.056,sānwǔyīwǔgōngchǎng,三五一五工厂,Three five one five factory,tàhé,漯河,Luohe,Mainland China,Henan
+2400A,33.568000000000005,114.005,tàhédàxué,漯河大学,Luohe University,tàhé,漯河,Luohe,Mainland China,Henan
+2401A,33.581,114.014,shǔilìjú,水利局,Water Authority,tàhé,漯河,Luohe,Mainland China,Henan
+2402A,33.5653,114.0322,guǎngdiànjú,广电局,Radio and television bureau,tàhé,漯河,Luohe,Mainland China,Henan
+2403A,32.9917,112.5192,huánbǎojú　,环保局　,Environmental Protection Agency,nányáng,南阳,Nanyang,Mainland China,Henan
+2404A,33.0122,112.5224,wǎfángzhuāng,瓦房庄,Wafangzhuang,nányáng,南阳,Nanyang,Mainland China,Henan
+2405A,32.9735,112.5003,hànhuàguǎn,汉画馆,Han Gallery,nányáng,南阳,Nanyang,Mainland China,Henan
+2406A,33.027,112.5573,qìxiàngzhàn,气象站,weather station,nányáng,南阳,Nanyang,Mainland China,Henan
+2407A,32.9683,112.55,lǐgōngxuéyuàn,理工学院,Freelance staff FLSH F/SCES,nányáng,南阳,Nanyang,Mainland China,Henan
+2408A,34.4286,115.6697,huánjìngjiāncèzhàn　,环境监测站　,Environmental monitoring station,shāngqīu,商丘,Shangqiu,Mainland China,Henan
+2409A,34.429,115.6558,liángshíjú　,粮食局　,Grain bureau,shāngqīu,商丘,Shangqiu,Mainland China,Henan
+2410A,34.407,115.6386,sūiyángqūhuánbǎojú　,睢阳区环保局　,Puyang District Environmental Protection Bureau,shāngqīu,商丘,Shangqiu,Mainland China,Henan
+2411A,34.402,115.6578,dìsānrénmínyìyuàn　,第三人民医院　,Third People&#39;s Hospital,shāngqīu,商丘,Shangqiu,Mainland China,Henan
+2420A,32.965,114.018,shìyīzhǐchǎng　,市一纸厂　,City paper factory,zhùmǎdiàn,驻马店,Zhumadian,Mainland China,Henan
+2421A,33.0069,114.0131,shìcǎiyìnchǎng　,市彩印厂　,City Color Printing Factory,zhùmǎdiàn,驻马店,Zhumadian,Mainland China,Henan
+2422A,32.996,113.996,tiānfāngèrfēnchǎng　,天方二分厂　,Tianfang Second Branch,zhùmǎdiàn,驻马店,Zhumadian,Mainland China,Henan
+2423A,30.2352,115.0625,shěnjiāyíng,沈家营,Shen Jiaying,huángshí,黄石,Huangshi,Mainland China,Hubei
+2424A,30.2028,115.0767,chénjiāwān,陈家湾,Chen Jiawan,huángshí,黄石,Huangshi,Mainland China,Hubei
+2425A,30.1765,114.9551,xīnxiàlù,新下陆,New land,huángshí,黄石,Huangshi,Mainland China,Hubei
+2426A,30.2043,114.8949,tiěshān,铁山,Tieshan,huángshí,黄石,Huangshi,Mainland China,Hubei
+2427A,30.2099,115.0264,jīngjìkāifāqū,经济开发区,economic development Zone,huángshí,黄石,Huangshi,Mainland China,Hubei
+2428A,32.395,111.0419,wǔdāngshān,武当山,Wudang Mountains,shíyàn,十堰,Shiyan,Mainland China,Hubei
+2429A,32.6494,110.78,bīnhéxīncūn,滨河新村,Binhe New Village,shíyàn,十堰,Shiyan,Mainland China,Hubei
+2430A,32.6389,110.7258,líujiāgōu,刘家沟,Liujiagou,shíyàn,十堰,Shiyan,Mainland China,Hubei
+2431A,32.5714,110.8839,tiěèrchù,铁二处,Iron two,shíyàn,十堰,Shiyan,Mainland China,Hubei
+2432A,32.0197,112.155,xiāngchéngyùndònglù,襄城运动路,Yucheng Sports Road,xiāngyáng,襄阳,Xiangyang,Mainland China,Hubei
+2433A,32.0564,112.1392,fánchéngxīnhuálù,樊城新华路,Fancheng Xinhua Road,xiāngyáng,襄阳,Xiangyang,Mainland China,Hubei
+2434A,32.1142,112.1825,gāoxīnguǎnwěihùi,高新管委会,High-tech management committee,xiāngyáng,襄阳,Xiangyang,Mainland China,Hubei
+2435A,32.0903,112.2106,xiāngzhōuhángkōnglù,襄州航空路,Zhangzhou Aviation Road,xiāngyáng,襄阳,Xiangyang,Mainland China,Hubei
+2436A,30.3944,114.8878,shìzhèngfǔ,市政府,Local government,èzhōu,鄂州,Ezhou,Mainland China,Hubei
+2225A,43.1594,124.3711,yīshāngcháng,一商场,a mall,sìpíng,四平,Siping,Mainland China,Jilin
+2438A,30.4133,114.8131,fánkǒukāifāqū,凡口开发区,Fankou Development Zone,èzhōu,鄂州,Ezhou,Mainland China,Hubei
+2439A,31.0483,112.2014,zhúyuánxiǎoxué,竹园小学,Zhuyuan Primary School,jīngmén,荆门,Jingmen,Mainland China,Hubei
+2440A,30.9892,112.1969,duódāo,掇刀,Sickle,jīngmén,荆门,Jingmen,Mainland China,Hubei
+2441A,31.0386,112.2211,shíhuàyīxiǎo,石化一小,Petrochemical small,jīngmén,荆门,Jingmen,Mainland China,Hubei
+2442A,31.0375,112.1931,shìzhèngfǔ,市政府,Local government,jīngmén,荆门,Jingmen,Mainland China,Hubei
+2443A,30.9285,113.9153,wénhuàlù,文化路,Cultural road,xiàogǎn,孝感,Xiaogan,Mainland China,Hubei
+2444A,30.9075,113.942,dōngchéngqū,东城区,Dongcheng District,xiàogǎn,孝感,Xiaogan,Mainland China,Hubei
+2445A,30.4522,114.8857,dàzhōudǎo,大洲岛,Dazhou Island,huánggāng,黄冈,Huanggang,Mainland China,Hubei
+2446A,30.4742,114.9028,zhígōngzhōngxīn,职工中心,Staff center,huánggāng,黄冈,Huanggang,Mainland China,Hubei
+2447A,29.8181,114.3036,sēnlíngōngyuán,森林公园,Forest Park,xiánníng,咸宁,Xianning,Mainland China,Hubei
+2448A,29.8211,114.3231,shìfāgǎiwěi,市发改委,Municipal Development and Reform Commission,xiánníng,咸宁,Xianning,Mainland China,Hubei
+2449A,29.8539,114.2894,xiánānqūzhèngfǔ,咸安区政府,Xian&#39;an District Government,xiánníng,咸宁,Xianning,Mainland China,Hubei
+2450A,29.8686,114.3372,chángjiāngchǎnyèyuán,长江产业园,Yangtze River Industrial Park,xiánníng,咸宁,Xianning,Mainland China,Hubei
+2451A,31.7275,113.3583,shìwěidǎngxiào,市委党校,Party School of Municipal Committee,súizhōu,随州,Suizhou,Mainland China,Hubei
+2452A,31.6908,113.3833,shìlínyèjú,市林业局,Municipal Forestry Bureau,súizhōu,随州,Suizhou,Mainland China,Hubei
+2453A,31.7308,113.3983,shìlìjiāoqiáoshǔichǎng,市立交桥水厂,City Crossover Water Plant,súizhōu,随州,Suizhou,Mainland China,Hubei
+2454A,30.2989,109.5039,húběimínyuàn,湖北民院,Hubei Provincial People&#39;s Court,ēnshīzhōu,恩施州,Enshi Tujia and Miao Autonomous Prefecture,Mainland China,Hubei
+2455A,30.2819,109.4689,zhōudiànlìzǒnggōngsī,州电力总公司,State Power Corporation,ēnshīzhōu,恩施州,Enshi Tujia and Miao Autonomous Prefecture,Mainland China,Hubei
+2456A,26.9089,112.5328,yuán169yìyuàn,原169医院,Original 169 hospital,héngyáng,衡阳,Hengyang,Mainland China,Hunan
+2457A,26.9258,112.6194,héngyánghuàgōngzǒngchǎng,衡阳化工总厂,Hengyang Chemical General Factory,héngyáng,衡阳,Hengyang,Mainland China,Hunan
+2458A,26.8956,112.6211,zhūhūiqūhuánbǎojú,珠晖区环保局,Zhuhui District Environmental Protection Bureau,héngyáng,衡阳,Hengyang,Mainland China,Hunan
+2459A,26.8733,112.6197,shìwěidǎngxiào,市委党校,Party School of Municipal Committee,héngyáng,衡阳,Hengyang,Mainland China,Hunan
+2460A,26.8919,112.6006,shìjiāncèzhàn,市监测站,City monitoring station,héngyáng,衡阳,Hengyang,Mainland China,Hunan
+2461A,26.9056,112.5664,zhēnkōngjīdiàngōngsī,真空机电公司,Vacuum electromechanical company,héngyáng,衡阳,Hengyang,Mainland China,Hunan
+2462A,27.3033,111.5239,shìshǔitǔsuǒ,市水土所,City Water and Soil Institute,shàoyáng,邵阳,Shaoyang,Mainland China,Hunan
+2463A,27.2317,111.4733,shìyīzhōng,市一中,City one,shàoyáng,邵阳,Shaoyang,Mainland China,Hunan
+2464A,27.2582,111.4908,shìhuàgōngchǎng,市化工厂,City chemical plant,shàoyáng,邵阳,Shaoyang,Mainland China,Hunan
+2465A,27.2537,111.4503,shìguàntóuchǎng,市罐头厂,Canning factory,shàoyáng,邵阳,Shaoyang,Mainland China,Hunan
+2466A,27.2272,111.4328,shìhuánbǎojú,市环保局,municipal environmental protection Bureau,shàoyáng,邵阳,Shaoyang,Mainland China,Hunan
+2467A,28.6428,112.4067,gānxīgǎng,甘溪港,Ganxi Port,yìyáng,益阳,Yiyang,Mainland China,Hunan
+2468A,28.5808,112.3458,shìhuánbǎojú,市环保局,municipal environmental protection Bureau,yìyáng,益阳,Yiyang,Mainland China,Hunan
+2469A,28.56,112.3439,shìtèshūjiàoyùxuéxiào,市特殊教育学校,City special education school,yìyáng,益阳,Yiyang,Mainland China,Hunan
+2470A,28.6047,112.3347,zīyángqūzhèngwùzhōngxīn,资阳区政务中心,Ziyang District Government Affairs Center,yìyáng,益阳,Yiyang,Mainland China,Hunan
+2471A,28.5819,112.3744,hèshānhuánbǎofēnjú,赫山环保分局,Heshan Environmental Protection Bureau,yìyáng,益阳,Yiyang,Mainland China,Hunan
+2472A,25.9061,113.0073,mǎtóulíng,马头岭,Matouling,chēnzhōu,郴州,Zhangzhou,Mainland China,Hunan
+2473A,25.8226,113.0116,shìzhízhōng,市职中,City office,chēnzhōu,郴州,Zhangzhou,Mainland China,Hunan
+2474A,25.8179,113.0119,xīnglóngbùxíngjiē,兴隆步行街,Xinglong Pedestrian Street,chēnzhōu,郴州,Zhangzhou,Mainland China,Hunan
+2475A,25.8071,113.0383,shìshěnjìjú,市审计局,Municipal Audit Office,chēnzhōu,郴州,Zhangzhou,Mainland China,Hunan
+2476A,25.7759,113.0348,shìhuánbǎojú,市环保局,municipal environmental protection Bureau,chēnzhōu,郴州,Zhangzhou,Mainland China,Hunan
+2477A,26.2081,111.6217,línglíngnánjīndù,零陵南津渡,Lingling Nanjindu,yǒngzhōu,永州,Yongzhou,Mainland China,Hunan
+2478A,26.4214,111.6156,shìhuánjìngjiāncèzhàn,市环境监测站,City Environmental Monitoring Station,yǒngzhōu,永州,Yongzhou,Mainland China,Hunan
+2479A,26.2331,111.6236,línglíngqūhuánbǎojú,零陵区环保局,Lingling District Environmental Protection Bureau,yǒngzhōu,永州,Yongzhou,Mainland China,Hunan
+2480A,26.4364,111.5992,yǒngzhōushìhuánbǎojú,永州市环保局,Yongzhou Environmental Protection Bureau,yǒngzhōu,永州,Yongzhou,Mainland China,Hunan
+2481A,26.4519,111.5989,lěngshǔitānqūhuánbǎojú,冷水滩区环保局,Cold Water Beach District Environmental Protection Bureau,yǒngzhōu,永州,Yongzhou,Mainland China,Hunan
+2482A,27.5733,109.9333,línkēsuǒ,林科所,Forest Institute,huáihuà,怀化,Huaihua,Mainland China,Hunan
+2483A,27.5444,109.9453,héxīdìshùijú,河西地税局,Hexi Local Taxation Bureau,huáihuà,怀化,Huaihua,Mainland China,Hunan
+2484A,27.5342,109.9792,shìsìyìyuàn,市四医院,City Fourth Hospital,huáihuà,怀化,Huaihua,Mainland China,Hunan
+2485A,27.5578,109.9972,jiāncèlóu,监测楼,Monitoring building,huáihuà,怀化,Huaihua,Mainland China,Hunan
+2486A,27.583,110.0394,shìwěidǎngxiào,市委党校,Party School of Municipal Committee,huáihuà,怀化,Huaihua,Mainland China,Hunan
+2487A,27.725,111.9975,diànshìfāshètái,电视发射台,TV launch pad,lóudǐ,娄底,Bottom,Mainland China,Hunan
+2488A,27.725,111.9975,shìjiāncèzhàn,市监测站,City monitoring station,lóudǐ,娄底,Bottom,Mainland China,Hunan
+2489A,27.7314,112.0194,shìwěidǎngxiào,市委党校,Party School of Municipal Committee,lóudǐ,娄底,Bottom,Mainland China,Hunan
+2490A,27.7569,111.9561,liángāng,涟钢,Handan Steel,lóudǐ,娄底,Bottom,Mainland China,Hunan
+2491A,27.7044,111.9892,shìzhèngfǔ,市政府,Local government,lóudǐ,娄底,Bottom,Mainland China,Hunan
+2494A,28.2675,109.6958,jíshǒushìjìshēngjú,吉首市计生局,Jishou City Family Planning Bureau,xiāngxīzhōu,湘西州,Xiangxi,Mainland China,Hunan
+2495A,23.4792,111.2897,shìhuánbǎo,市环保,City environmental protection,wúzhōu,梧州,Zhangzhou,Mainland China,Guangxi
+2497A,23.415,111.2353,lóngwéi,龙圩,Long Yu,wúzhōu,梧州,Zhangzhou,Mainland China,Guangxi
+2498A,23.4794,111.26,lóngxīn,龙新,Long Xin,wúzhōu,梧州,Zhangzhou,Mainland China,Guangxi
+2499A,21.6158,108.3411,shāwàn,沙万,Shawan,fángchénggǎng,防城港,Fangchenggang,Mainland China,Guangxi
+2500A,21.7631,108.3511,fángchéngzhènzhèngfǔ,防城镇政府,Town government,fángchénggǎng,防城港,Fangchenggang,Mainland China,Guangxi
+2501A,21.6414,108.3506,dàhǎihuāyuán,大海花园,Sea garden,fángchénggǎng,防城港,Fangchenggang,Mainland China,Guangxi
+2502A,21.9667,108.6236,shìhuánbǎozhàn,市环保站,City Environmental Protection Station,qīnzhōu,钦州,Qinzhou,Mainland China,Guangxi
+2503A,21.9508,108.6553,shìnóngkēyuàn,市农科院,City Academy of Agricultural Sciences,qīnzhōu,钦州,Qinzhou,Mainland China,Guangxi
+2504A,21.7431,108.5989,gǎngqūyīxiǎo,港区一小,a small port area,qīnzhōu,钦州,Qinzhou,Mainland China,Guangxi
+2505A,23.1478,109.5681,dézhìgāozhōng,德智高中,Dezhi High School,gùigǎng,贵港,Guigang,Mainland China,Guangxi
+2506A,23.0672,109.6042,jiāngnánzǐzhàn　,江南子站　,Jiangnanzi Station,gùigǎng,贵港,Guigang,Mainland China,Guangxi
+2507A,23.0944,109.6014,gùichéngzǐzhàn,贵城子站,Guicheng Substation,gùigǎng,贵港,Guigang,Mainland China,Guangxi
+2508A,23.1036,109.5683,héchéngzǐzhàn,荷城子站,Holland City Station,gùigǎng,贵港,Guigang,Mainland China,Guangxi
+2509A,22.7019,110.1106,hánshānshǔikù,寒山水库,Hanshan Reservoir,yùlín,玉林,Yulin,Mainland China,Guangxi
+2510A,22.6411,110.1675,shìjiāncèzhàn,市监测站,City monitoring station,yùlín,玉林,Yulin,Mainland China,Guangxi
+2511A,22.6164,110.1433,nánjiāngyīzhōng,南江一中,Nanjiang No. 1 Middle School,yùlín,玉林,Yulin,Mainland China,Guangxi
+2512A,23.9011,106.6103,shìjiāncèzhàn,市监测站,City monitoring station,bǎisè,百色,Baise,Mainland China,Guangxi
+2513A,23.8844,106.6527,shìzhōngxīnxiězhàn,市中心血站,Downtown Blood Station,bǎisè,百色,Baise,Mainland China,Guangxi
+2515A,24.4072,111.5622,zhèngxiédàlóu,政协大楼,CPPCC Building,hèzhōu,贺州,Hezhou,Mainland China,Guangxi
+2516A,24.7121,108.2134,dōngrénlèyuán,东仁乐园,Dongren Paradise,héchí,河池,Hechi,Mainland China,Guangxi
+2517A,24.6928,108.054,shìhuánbǎozhàn,市环保站,City Environmental Protection Station,héchí,河池,Hechi,Mainland China,Guangxi
+2518A,24.6967,108.1009,shìjíkòngzhōngxīn,市疾控中心,City CDC,héchí,河池,Hechi,Mainland China,Guangxi
+2519A,23.7208,109.2131,láibīnèrzhōng,来宾二中,Guest 2,láibīn,来宾,guest,Mainland China,Guangxi
+2520A,23.7369,109.2317,láiyězhāodàisuǒ,来冶招待所,Laiye Guest House,láibīn,来宾,guest,Mainland China,Guangxi
+2521A,22.4137,107.3476,shìhuánbǎojújiāngzhōufēnjú,市环保局江州分局,City Environmental Protection Bureau Jiangzhou Branch,chóngzuǒ,崇左,Chongzuo,Mainland China,Guangxi
+2522A,22.3708,107.3701,chéngnánxīnqū,城南新区,Chengnan New District,chóngzuǒ,崇左,Chongzuo,Mainland China,Guangxi
+2523A,32.4535,105.8945,hēishípō,黑石坡,Black stone slope,guǎngyuán,广元,Guangyuan,Mainland China,Sichuan
+2524A,32.4429,105.8242,lǎochéng,老城,Old Town,guǎngyuán,广元,Guangyuan,Mainland China,Sichuan
+2525A,32.4246,105.8153,nánbà,南坝,Nanba,guǎngyuán,广元,Guangyuan,Mainland China,Sichuan
+2526A,32.4285,105.8624,jiāncèzhàn,监测站,GHG monitoring,guǎngyuán,广元,Guangyuan,Mainland China,Sichuan
+2527A,30.5797,105.7519,shíxīhào,石溪浩,Shi Xihao,sùiníng,遂宁,Suining,Mainland China,Sichuan
+2528A,30.6133,105.68,shìjiāncèzhàn,市监测站,City monitoring station,sùiníng,遂宁,Suining,Mainland China,Sichuan
+2529A,30.6347,105.8161,xíngzhèngzhōngxīn,行政中心,Administrative Center,sùiníng,遂宁,Suining,Mainland China,Sichuan
+2530A,30.475,105.5956,měiníngshípǐngōngsī,美宁食品公司,Meining Food Company,sùiníng,遂宁,Suining,Mainland China,Sichuan
+2531A,29.5953,105.0331,shìjiāncèzhàn,市监测站,City monitoring station,nèijiāng,内江,Neijiang,Mainland China,Sichuan
+2532A,29.5947,105.0717,dōngxīngqūzhèngfǔ,东兴区政府,Dongxing District Government,nèijiāng,内江,Neijiang,Mainland China,Sichuan
+2533A,29.5817,105.0653,nèijiāngèrzhōng,内江二中,Neijiang No. 2 Middle School,nèijiāng,内江,Neijiang,Mainland China,Sichuan
+2534A,29.5822,105.0406,nèijiāngrìbàoshè,内江日报社,Neijiang Daily,nèijiāng,内江,Neijiang,Mainland China,Sichuan
+2535A,29.5467,103.7705,lèshāndàfójǐngqū,乐山大佛景区,Leshan Giant Buddha Scenic Area,lèshān,乐山,Leshan,Mainland China,Sichuan
+2536A,29.5844,103.7627,níuěrqiáo,牛耳桥,Bull ear bridge,lèshān,乐山,Leshan,Mainland China,Sichuan
+2537A,29.6007,103.7506,shìdìsānshǔichǎng,市第三水厂,City Third Water Plant,lèshān,乐山,Leshan,Mainland China,Sichuan
+2538A,29.5634,103.757,shìjiāncèzhàn,市监测站,City monitoring station,lèshān,乐山,Leshan,Mainland China,Sichuan
+2539A,30.0506,103.8986,máyíguān,蟆颐观,View,méishān,眉山,Meishan,Mainland China,Sichuan
+2540A,30.0874,103.8416,qìxiàngjú,气象局,Weather bureau,méishān,眉山,Meishan,Mainland China,Sichuan
+2541A,30.0691,103.8495,xùguāngxiǎoqū,旭光小区,Xuguang Community,méishān,眉山,Meishan,Mainland China,Sichuan
+2542A,30.062,103.8341,shìjiāncèzhàn,市监测站,City monitoring station,méishān,眉山,Meishan,Mainland China,Sichuan
+2543A,30.518,106.631,xiǎopíngjìujū,小平旧居,Xiao Ping&#39;s old residence,guǎngān,广安,Guang&#39;an,Mainland China,Sichuan
+2544A,30.4576,106.6303,shìwěi,市委,Municipal party committee,guǎngān,广安,Guang&#39;an,Mainland China,Sichuan
+2545A,30.4663,106.6271,yǒuyízhōngxué,友谊中学,Friendship Middle School,guǎngān,广安,Guang&#39;an,Mainland China,Sichuan
+2546A,30.4844,106.6406,réngōnghú,人工湖,artificial lakes,guǎngān,广安,Guang&#39;an,Mainland China,Sichuan
+2547A,30.4551,106.6388,guǎngdiànhuāyuán,广电花园,Radio and TV Garden,guǎngān,广安,Guang&#39;an,Mainland China,Sichuan
+2548A,31.2797,107.5272,dázhōuzhíyèjìzhúxuéyuàn,达州职业技术学院,Dazhou Vocational and Technical College,dázhōu,达州,"Dazhou, Sichuan",Mainland China,Sichuan
+2549A,31.215,107.525,shìhuánjìngjiāncèzhàn,市环境监测站,City Environmental Monitoring Station,dázhōu,达州,"Dazhou, Sichuan",Mainland China,Sichuan
+2550A,31.2108,107.4967,fènghuángxiǎoqū,凤凰小区,Phoenix Community,dázhōu,达州,"Dazhou, Sichuan",Mainland China,Sichuan
+2551A,31.1956,107.5069,dáxiànjīguānbīnguǎn,达县机关宾馆,Daxian Government Hotel,dázhōu,达州,"Dazhou, Sichuan",Mainland China,Sichuan
+2552A,31.2058,107.4611,shìzhèngzhōngxīn,市政中心,Civic center,dázhōu,达州,"Dazhou, Sichuan",Mainland China,Sichuan
+2553A,30.0125,103.009,dàxīng526tái,大兴526台,Daxing 526,yǎān,雅安,Ya'an,Mainland China,Sichuan
+2554A,29.9899,103.0013,jiànānchǎng,建安厂,Jian&#39;an Factory,yǎān,雅安,Ya'an,Mainland China,Sichuan
+2555A,29.9834,103.0109,shìzhèngfǔ,市政府,Local government,yǎān,雅安,Ya'an,Mainland China,Sichuan
+2556A,29.9816,103.0001,chuānnóngdà,川农大,Sichuan Agricultural University,yǎān,雅安,Ya'an,Mainland China,Sichuan
+2557A,31.8475,106.7583,nánkāngōngyuán,南龛公园,Nanxun Park,bāzhōng,巴中,Bazhong,Mainland China,Sichuan
+2558A,31.8711,106.7389,shìhuánbǎojú,市环保局,municipal environmental protection Bureau,bāzhōng,巴中,Bazhong,Mainland China,Sichuan
+2559A,31.8531,106.7594,bāzhōngzhōngxué,巴中中学,Bazhong Middle School,bāzhōng,巴中,Bazhong,Mainland China,Sichuan
+2560A,31.8456,106.7608,shìlìuzhōng,市六中,City Sixth,bāzhōng,巴中,Bazhong,Mainland China,Sichuan
+2561A,30.1366,104.6617,liánhuāshān,莲花山,Lotus mountain,zīyáng,资阳,Ziyang,Mainland China,Sichuan
+2562A,30.1506,104.6356,zīyángzhōngxué,资阳中学,Ziyang Middle School,zīyáng,资阳,Ziyang,Mainland China,Sichuan
+2563A,30.1377,104.6289,sìsānyīchǎng,四三一厂,Four three one factory,zīyáng,资阳,Ziyang,Mainland China,Sichuan
+2564A,30.1142,104.6469,shīfànxiào,师范校,Normal school,zīyáng,资阳,Ziyang,Mainland China,Sichuan
+2565A,30.1259,104.6294,qūfǎyuàn,区法院,District court,zīyáng,资阳,Ziyang,Mainland China,Sichuan
+2566A,31.9286,102.1755,zhōunóngkēsuǒ,州农科所,State Agricultural Institute,ābàzhōu,阿坝州,Aba Prefecture,Mainland China,Sichuan
+2567A,31.9025,102.2218,zhōujiāncèzhàn,州监测站,State monitoring station,ābàzhōu,阿坝州,Aba Prefecture,Mainland China,Sichuan
+2568A,31.8934,102.2402,mǎshīxiào,马师校,Marsh school,ābàzhōu,阿坝州,Aba Prefecture,Mainland China,Sichuan
+2569A,30.0506,101.9628,jiāngjūnqiáo,将军桥,General bridge,gānzīzhōu,甘孜州,Garzê Tibetan Autonomous Prefecture,Mainland China,Sichuan
+2570A,30.0475,101.9603,shǔiqiáozǐ,水桥子,Water bridge,gānzīzhōu,甘孜州,Garzê Tibetan Autonomous Prefecture,Mainland China,Sichuan
+2571A,27.8094,102.3419,qīnglóngsì,青龙寺,Qinglong Temple,liángshānzhōu,凉山州,Liangshan Prefecture,Mainland China,Sichuan
+2572A,27.8408,102.2714,qiónghǎibīnguǎn,邛海宾馆,Bohai Hotel,liángshānzhōu,凉山州,Liangshan Prefecture,Mainland China,Sichuan
+2573A,27.8978,102.2625,xīchāngshìzhèngfǔ,西昌市政府,Xichang Municipal Government,liángshānzhōu,凉山州,Liangshan Prefecture,Mainland China,Sichuan
+2574A,27.8847,102.2689,liángshānzhōuzhèngfǔ,凉山州政府,Liangshan Prefecture Government,liángshānzhōu,凉山州,Liangshan Prefecture,Mainland China,Sichuan
+2575A,27.8953,102.2311,chángān,长安,Changan,liángshānzhōu,凉山州,Liangshan Prefecture,Mainland China,Sichuan
+2576A,26.5892,104.8,yáoshàng,窑上,Kiln,lìupánshǔi,六盘水,Liupanshui,Mainland China,Guizhou
+2577A,26.5917,104.83,huángtǔpō,黄土坡,Loess slope,lìupánshǔi,六盘水,Liupanshui,Mainland China,Guizhou
+2578A,26.5939,104.89,shǔigāng,水钢,Water steel,lìupánshǔi,六盘水,Liupanshui,Mainland China,Guizhou
+2579A,26.5894,104.8475,mínzhōng,民中,Minzhong,lìupánshǔi,六盘水,Liupanshui,Mainland China,Guizhou
+2580A,26.5506,104.9544,shuāngshǔi,双水,Double water,lìupánshǔi,六盘水,Liupanshui,Mainland China,Guizhou
+2581A,26.2611,105.9556,hóngjīchǎngzǐxiào,虹机厂子校,Hongji Factory School,ānshùn,安顺,Anshun,Mainland China,Guizhou
+2582A,26.255,105.9278,shìyīzhōng,市一中,City one,ānshùn,安顺,Anshun,Mainland China,Guizhou
+2583A,26.2358,105.9394,tiělùzǐxiào,铁路子校,Railway school,ānshùn,安顺,Anshun,Mainland China,Guizhou
+2584A,26.2392,105.8853,lóngyánzǐxiào,龙岩子校,Longyanzi School,ānshùn,安顺,Anshun,Mainland China,Guizhou
+2585A,27.7297,109.1916,tóngrénwèixiào,铜仁卫校,Tongren Health School,tóngréndìqū,铜仁地区,Tongren City,Mainland China,Guizhou
+2586A,27.7231,109.1794,tóngrénqīzhōng,铜仁七中,Tongren Qizhong,tóngréndìqū,铜仁地区,Tongren City,Mainland China,Guizhou
+2587A,27.3125,105.2864,bāzhōng,八中,Eight,bìjié,毕节,Bijie,Mainland China,Guizhou
+2588A,27.2944,105.31,shīzhuān,师专,Teacher,bìjié,毕节,Bijie,Mainland China,Guizhou
+2589A,25.0925,104.9022,chángbàjiē,场坝街,Field dam street,qiánxīnánzhōu,黔西南州,Southwestern Guizhou,Mainland China,Guizhou
+2590A,25.0992,104.8811,píngdōngdàdào,坪东大道,Pingtung Avenue,qiánxīnánzhōu,黔西南州,Southwestern Guizhou,Mainland China,Guizhou
+2591A,26.5747,107.9783,shìhuánjìngjiāncèzhàn,市环境监测站,City Environmental Monitoring Station,qiándōngnánzhōu,黔东南州,Southeastern Guizhou,Mainland China,Guizhou
+2592A,26.57601,107.94203,mǎpōjǐngxiǎoxué,马坡井小学,Mapojing Primary School,qiándōngnánzhōu,黔东南州,Southeastern Guizhou,Mainland China,Guizhou
+2593A,26.2403,107.5228,xiǎowéizhài,小围寨,Xiaoweizhai,qiánnánzhōu,黔南州,Gannan,Mainland China,Guizhou
+2594A,25.1081,99.1678,shìhuánjìngjiāncèzhàn,市环境监测站,City Environmental Monitoring Station,bǎoshān,保山,Baoshan,Mainland China,Yunnan
+2595A,25.1328,99.1711,shìhuánbǎojú,市环保局,municipal environmental protection Bureau,bǎoshān,保山,Baoshan,Mainland China,Yunnan
+2596A,27.3392,103.7032,jiāncèzhàn,监测站,GHG monitoring,zhāotōng,昭通,Zhaotong,Mainland China,Yunnan
+2597A,27.3361,103.7225,huánbǎojú,环保局,Environmental Protection Agency,zhāotōng,昭通,Zhaotong,Mainland China,Yunnan
+2598A,26.8576,100.2143,xīnánjiāo,西南郊,Southwestern suburbs,lìjiāng,丽江,"Lijiang, Yunnan",Mainland China,Yunnan
+2599A,26.8802,100.2497,lìjiānggǔchéng,丽江古城,Old Town of Lijiang,lìjiāng,丽江,"Lijiang, Yunnan",Mainland China,Yunnan
+2600A,26.8906,100.2203,shìzhōngxīn,市中心,Downtown,lìjiāng,丽江,"Lijiang, Yunnan",Mainland China,Yunnan
+2601A,22.7633,100.98,shìhuánbǎojú,市环保局,municipal environmental protection Bureau,pǔěr,普洱,Puer,Mainland China,Yunnan
+2602A,22.8322,100.9817,pǔěrdìèrzhōngxué,普洱第二中学,Pu&#39;er Second Middle School,pǔěr,普洱,Puer,Mainland China,Yunnan
+2603A,23.8822,100.0869,shìhuánbǎojú,市环保局,municipal environmental protection Bureau,líncāng,临沧,Linyi,Mainland China,Yunnan
+2604A,23.8982,100.0782,shìqìxiàngjú,市气象局,Municipal meteorological bureau,líncāng,临沧,Linyi,Mainland China,Yunnan
+2605A,25.0441,101.5482,zhōuhuánjìngjiāncèzhàn,州环境监测站,State Environmental Monitoring Station,chǔxióngzhōu,楚雄州,Chuxiong Prefecture,Mainland China,Yunnan
+2606A,25.0492,101.538,shìjīngjìkāifāqū,市经济开发区,City Economic Development Zone,chǔxióngzhōu,楚雄州,Chuxiong Prefecture,Mainland China,Yunnan
+2607A,23.4626,103.3113,yǔguòpū,雨过铺,Rain over the shop,hónghézhōu,红河州,Honghe Prefecture,Mainland China,Yunnan
+2608A,23.3993,103.3772,wūshǔichùlǐchǎng,污水处理厂,Sewage treatment plant,hónghézhōu,红河州,Honghe Prefecture,Mainland China,Yunnan
+2609A,23.4168,103.386,jiāncèzhàn,监测站,GHG monitoring,hónghézhōu,红河州,Honghe Prefecture,Mainland China,Yunnan
+2610A,23.3594,104.2533,zhōushǔiwùjú,州水务局,State Water Authority,wénshānzhōu,文山州,Wenshan Prefecture,Mainland China,Yunnan
+2611A,23.3892,104.2319,shìbiànmínfúwùzhōngxīn,市便民服务中心,City Convenience Service Center,wénshānzhōu,文山州,Wenshan Prefecture,Mainland China,Yunnan
+2612A,22.0019,100.7939,jǐnghóngshìjiāngnán,景洪市江南,"Jiangnan, Jinghong City",xīshuāngbǎnnàzhōu,西双版纳州,Xishuangbanna,Mainland China,Yunnan
+2613A,22.0225,100.8017,jǐnghóngshìjiāngběi,景洪市江北,"Jiangbei, Jinghong City",xīshuāngbǎnnàzhōu,西双版纳州,Xishuangbanna,Mainland China,Yunnan
+2614A,25.7054,100.1542,dàlǐshìhuánjìngjiāncèzhàn,大理市环境监测站,Dali Environmental Monitoring Station,dàlǐzhōu,大理州,Dali Prefecture,Mainland China,Yunnan
+2615A,25.5811,100.2171,dàlǐgǔchéng,大理古城,Dali Ancient City,dàlǐzhōu,大理州,Dali Prefecture,Mainland China,Yunnan
+2616A,24.428,98.5842,déhóngzhōujiāncèzhàn,德宏州监测站,Dehong Prefecture Monitoring Station,déhóngzhōu,德宏州,Dehong Prefecture,Mainland China,Yunnan
+2617A,24.441,98.578,mángshìjiànshèjú,芒市建设局,Mang City Construction Bureau,déhóngzhōu,德宏州,Dehong Prefecture,Mainland China,Yunnan
+2618A,25.8567,98.8601,zhōujiāncèzhàn,州监测站,State monitoring station,nùjiāngzhōu,怒江州,Nujiang Prefecture,Mainland China,Yunnan
+2619A,25.8417,98.8546,lúshǔiyīzhōng,泸水一中,Surabaya,nùjiāngzhōu,怒江州,Nujiang Prefecture,Mainland China,Yunnan
+2620A,27.8136,99.7064,gǔchéng,古城,Gucheng District,díqìngzhōu,迪庆州,Diqing,Mainland China,Yunnan
+2621A,27.8317,99.7056,díqìngzhōuzhàn,迪庆州站,Diqingzhou Station,díqìngzhōu,迪庆州,Diqing,Mainland China,Yunnan
+2623A,31.1254,97.1809,chāngdūdìqūchāngdūbà,昌都地区昌都坝,Changdu Dam in Changdu District,chāngdūdìqū,昌都地区,Qamdo Prefecture,Mainland China,Xizang
+2624A,29.2313,91.7608,shānnánjiāncèzhàn,山南监测站,Shannan Monitoring Station,shānnándìqū,山南地区,Lhoka Prefecture,Mainland China,Xizang
+2625A,29.261,91.7706,shānnánrénmínyìyuàn,山南人民医院,Shannan People&#39;s Hospital,shānnándìqū,山南地区,Lhoka Prefecture,Mainland China,Xizang
+2626A,29.2718,88.8876,rìkāzéjiāncèzhàn,日喀则监测站,Shigatse monitoring station,rìkāzédìqū,日喀则地区,Shigatse Prefecture,Mainland China,Xizang
+2627A,29.2365,88.8931,rìkāzéhóngdágōngsī,日喀则鸿达公司,Shigatse Hongda Company,rìkāzédìqū,日喀则地区,Shigatse Prefecture,Mainland China,Xizang
+2628A,31.4846,92.0657,nàqūjiāncèzhàn,那曲监测站,Nagqu monitoring station,nàqūdìqū,那曲地区,Nagqu Prefecture,Mainland China,Xizang
+2629A,31.4733,92.0505,nàqūjiāxīngyìyuàn,那曲嘉兴医院,Nagqu Jiaxing Hospital,nàqūdìqū,那曲地区,Nagqu Prefecture,Mainland China,Xizang
+2630A,32.5,80.1161,ālǐjiāncèzhàn,阿里监测站,Ali monitoring station,ālǐdìqū,阿里地区,Ngari Prefecture,Mainland China,Xizang
+2631A,32.5039,80.0895,ālǐdìwěi,阿里地委,Alidi,ālǐdìqū,阿里地区,Ngari Prefecture,Mainland China,Xizang
+2632A,29.6376,94.3681,línzhījiāncèzhàn,林芝监测站,Linzhi Monitoring Station,línzhīdìqū,林芝地区,Nyingchi Prefecture,Mainland China,Xizang
+2633A,29.6632,94.3616,línzhīrénmínyìyuàn,林芝人民医院,Linzhi People&#39;s Hospital,línzhīdìqū,林芝地区,Nyingchi Prefecture,Mainland China,Xizang
+2634A,33.1842,106.9893,hànchuānjīchuángchǎngzǐxiào,汉川机床厂子校,Hanchuan Machine Tool Factory,hànzhōng,汉中,Hanzhong,Mainland China,Shaanxi
+2635A,33.0706,107.0154,shìjiāncèzhàn,市监测站,City monitoring station,hànzhōng,汉中,Hanzhong,Mainland China,Shaanxi
+2636A,33.1138,107.0089,xīnyuánkāifāqū,鑫源开发区,Xinyuan Development Zone,hànzhōng,汉中,Hanzhong,Mainland China,Shaanxi
+2637A,33.0323,107.007,nánzhèngdàhékǎnshǔichǎng,南郑大河坎水厂,Nanzheng Dahekan Water Plant,hànzhōng,汉中,Hanzhong,Mainland China,Shaanxi
+2639A,38.2911,109.7456,shìjìguǎngcháng　,世纪广场　,century Square,yúlín,榆林,Yulin,Mainland China,Shaanxi
+2640A,38.2839,109.7289,shíyànzhōngxué,实验中学,Experimental middle school,yúlín,榆林,Yulin,Mainland China,Shaanxi
+2641A,38.2478,109.7336,huánbǎojiāncèdàlóu　,环保监测大楼　,Environmental Monitoring Building,yúlín,榆林,Yulin,Mainland China,Shaanxi
+2642A,32.6778,109.0311,xiāngxīdòng,香溪洞,Xiangxi Cave,ānkāng,安康,Ankang,Mainland China,Shaanxi
+2643A,32.6939,109.0281,ānkāngshìjiāncèzhàn,安康市监测站,Ankang City Monitoring Station,ānkāng,安康,Ankang,Mainland China,Shaanxi
+2644A,32.6975,109.0072,hànbīnqūjiǎncháyuàn,汉滨区检察院,Hanbin District Procuratorate,ānkāng,安康,Ankang,Mainland China,Shaanxi
+2645A,33.8715,109.9154,jiāncèzhàn,监测站,GHG monitoring,shāngluò,商洛,Shangluo,Mainland China,Shaanxi
+2646A,33.8509,109.966,dōnglóngshānqìxiàngjú,东龙山气象局,Donglongshan Meteorological Bureau,shāngluò,商洛,Shangluo,Mainland China,Shaanxi
+2647A,36.5458,104.1731,yùyuánfàndiàn,豫源饭店,Yuyuan Hotel,báiyín,白银,Silver,Mainland China,Gansu
+2648A,36.5481,104.1731,dònglìgōngsī,动力公司,Power company,báiyín,白银,Silver,Mainland China,Gansu
+2649A,34.3469,106.005,xiānrényá,仙人崖,Xianren Cliff,tiānshǔi,天水,Tianshui,Mainland China,Gansu
+2650A,34.5814,105.7281,jìnbùxiàng,进步巷,Progress lane,tiānshǔi,天水,Tianshui,Mainland China,Gansu
+2651A,34.5653,105.8614,wénhuàguǎn,文化馆,Cultural center,tiānshǔi,天水,Tianshui,Mainland China,Gansu
+2652A,37.9311,102.6219,jiāncèzhàn,监测站,GHG monitoring,wǔwēi,武威,"Wuwei, Gansu",Mainland China,Gansu
+2653A,37.9358,102.6469,léitái,雷台,Leitai,wǔwēi,武威,"Wuwei, Gansu",Mainland China,Gansu
+2654A,38.9467,100.4686,jiāncèzhàn,监测站,GHG monitoring,zhāngyè,张掖,Zhang Wei,Mainland China,Gansu
+2655A,38.9389,100.4497,kēwěi,科委,Science committee,zhāngyè,张掖,Zhang Wei,Mainland China,Gansu
+2656A,35.5461,106.6692,jiāncèzhàn,监测站,GHG monitoring,píngliáng,平凉,Pingliang,Mainland China,Gansu
+2657A,35.5294,106.7039,bówùguǎn,博物馆,Museum,píngliáng,平凉,Pingliang,Mainland China,Gansu
+2658A,39.746,98.509,cāngménjiēzǐzhàn,仓门街子站,Cangmen Street Substation,jǐuquán,酒泉,Jiuquan,Mainland China,Gansu
+2659A,39.7294,98.5023,fùkāngjiāshìjièzǐzhàn,富康家世界子站,Bukang Home World Substation,jǐuquán,酒泉,Jiuquan,Mainland China,Gansu
+2660A,35.7289,107.6831,qūhuánbǎojú,区环保局,District Environmental Protection Agency,qìngyáng,庆阳,Qingyang,Mainland China,Gansu
+2661A,35.5236,107.6406,liángmàozǒnggōngsī,粮贸总公司,Grain Trade Corporation,qìngyáng,庆阳,Qingyang,Mainland China,Gansu
+2662A,35.7067,107.6364,shìhuánbǎojú,市环保局,municipal environmental protection Bureau,qìngyáng,庆阳,Qingyang,Mainland China,Gansu
+2663A,35.5714,104.6228,jiāncèzhàn（yuánliángshíjú）,监测站（原粮食局）,Monitoring station (former grain bureau),dìngxī,定西,Dingxi,Mainland China,Gansu
+2664A,35.5975,104.6169,nánfēngzhāodàisuǒ（yuánqǐzhòngjīchǎng）,南峰招待所（原起重机厂）,Nanfeng Guest House (former crane factory),dìngxī,定西,Dingxi,Mainland China,Gansu
+2665A,33.3261,105.0822,hànwángzhèngùshǔizǐ,汉王镇固水子,Hanwang Town Gushuizi,lǒngnán,陇南,Longnan,Mainland China,Gansu
+2666A,33.38588,104.92195,shìlínyèjú,市林业局,Municipal Forestry Bureau,lǒngnán,陇南,Longnan,Mainland China,Gansu
+2667A,35.6039,103.2139,huánbǎojú,环保局,Environmental Protection Agency,línxiàzhōu,临夏州,Linxia,Mainland China,Gansu
+2668A,35.5997,103.2064,zhōuwěidǎngxiào,州委党校,State Party School,línxiàzhōu,临夏州,Linxia,Mainland China,Gansu
+2669A,35.0003,102.905,jiāncèzhàn,监测站,GHG monitoring,gānnánzhōu,甘南州,Gannan,Mainland China,Gansu
+2670A,36.4997,102.1086,píngānxiàn,平安县,Ping’an County,hǎidōngdìqū,海东地区,Haidong Prefecture,Mainland China,Qinghai
+2671A,36.9639,100.9048,hǎiyànxiànxīhǎizhèn,海晏县西海镇,"Xihai Town, Haishu County",hǎiběizhōu,海北州,Haibei,Mainland China,Qinghai
+2672A,35.5102,102.0199,tóngrénxiànlóngwùzhèn,同仁县隆务镇,"Longwu Town, Tongren County",huángnánzhōu,黄南州,Huangnan,Mainland China,Qinghai
+2673A,36.2866,100.6188,gònghéxiànqiàbǔqiàzhèn,共和县恰卜恰镇,"Chabucha Town, Gonghe County",hǎinánzhōu,海南州,Hainan,Mainland China,Qinghai
+2674A,34.4714,100.2561,mǎqìnxiàndàwǔzhèn,玛沁县大武镇,"Dawu Town, Malang County",guǒluòzhōu,果洛州,Guoluo,Mainland China,Qinghai
+2675A,33.0014,97.0,yùshùxiànjiégǔzhèn,玉树县结古镇,"Jiegu Town, Yushu County",yùshùzhōu,玉树州,Yushu Prefecture,Mainland China,Qinghai
+2676A,37.3753,97.3731,délìnghāshì,德令哈市,Delingha,hǎixīzhōu,海西州,Haixi,Mainland China,Qinghai
+2677A,37.9648,106.1532,jiàoyùyuánqū,教育园区,Education park,wúzhōng,吴忠,Wu Zhong,Mainland China,Ningxia Hui
+2678A,37.9844,106.2025,gāojízhōngxué,高级中学,Higher Secondary Schools,wúzhōng,吴忠,Wu Zhong,Mainland China,Ningxia Hui
+2679A,37.9723,106.196,xīnqūèrbèngzhàn,新区二泵站,New District Second Pumping Station,wúzhōng,吴忠,Wu Zhong,Mainland China,Ningxia Hui
+2680A,37.4514,105.0197,shāpōtóuxiāofángzhàn,沙坡头消防站,Shapotou Fire Station,zhōngwèi,中卫,Zhongwei,Mainland China,Ningxia Hui
+2681A,37.0172,105.18,guānqiáozhàn,官桥站,Guanqiao Station,zhōngwèi,中卫,Zhongwei,Mainland China,Ningxia Hui
+2682A,37.5002,105.1971,huánbǎojúzhàn,环保局站,EPA Station,zhōngwèi,中卫,Zhongwei,Mainland China,Ningxia Hui
+2683A,36.1417,106.2319,mǎyuán,马园,Horse garden,gùyuán,固原,Guyuan,Mainland China,Ningxia Hui
+2684A,36.0022,106.2792,jiāncèzhàn,监测站,GHG monitoring,gùyuán,固原,Guyuan,Mainland China,Ningxia Hui
+2685A,36.0211,106.2375,xīnqū,新区,New Section,gùyuán,固原,Guyuan,Mainland China,Ningxia Hui
+2686A,42.9409,89.191,shìhuánbǎojú,市环保局,municipal environmental protection Bureau,tǔlǔfāndìqū,吐鲁番地区,Turpan Prefecture,Mainland China,Xinjiang Uygur
+2687A,42.9559,89.1673,dìqūhuánbǎojú,地区环保局,Regional Environmental Protection Agency,tǔlǔfāndìqū,吐鲁番地区,Turpan Prefecture,Mainland China,Xinjiang Uygur
+2688A,42.8172,93.5128,dìqūjiāncèzhàn,地区监测站,Regional monitoring station,hāmìdìqū,哈密地区,Hami Prefecture,Mainland China,Xinjiang Uygur
+2689A,42.8328,93.4961,hāmìshīfànxuéxiào,哈密师范学校,Hami Normal School,hāmìdìqū,哈密地区,Hami Prefecture,Mainland China,Xinjiang Uygur
+2690A,44.1564,87.9897,tiānshāntiānchí,天山天池,Tianshan Tianchi,chāngjízhōu,昌吉州,Changji,Mainland China,Xinjiang Uygur
+2691A,44.0114,87.2997,zhōujiāncèzhàn,州监测站,State monitoring station,chāngjízhōu,昌吉州,Changji,Mainland China,Xinjiang Uygur
+2692A,44.0297,87.2717,xīnqūzhèngwùzhōngxīn,新区政务中心,New District Administration Center,chāngjízhōu,昌吉州,Changji,Mainland China,Xinjiang Uygur
+2693A,44.9079,82.0485,bólèshìxījiāoqū,博乐市西郊区,West suburb of Bole City,bózhōu,博州,Bozhou,Mainland China,Xinjiang Uygur
+2694A,44.8969,82.0806,shìhuánbǎojú,市环保局,municipal environmental protection Bureau,bózhōu,博州,Bozhou,Mainland China,Xinjiang Uygur
+2695A,41.1636,80.2828,diànshìtái,电视台,Television station,ākèsūdìqū,阿克苏地区,Aksu Prefecture,Mainland China,Xinjiang Uygur
+2696A,41.1933,80.2956,yìzhúzhōngxīn,艺术中心,art Center,ākèsūdìqū,阿克苏地区,Aksu Prefecture,Mainland China,Xinjiang Uygur
+2697A,39.7153,76.1861,shìrénmínzhèngfǔ,市人民政府,Municipal people&#39;s government,kèzhōu,克州,Kezhou,Mainland China,Xinjiang Uygur
+2699A,39.4699,75.9771,wúbàn,吾办,I do,kāshídìqū,喀什地区,Kashgar Prefecture,Mainland China,Xinjiang Uygur
+2700A,39.4365,75.9435,shìhuánjìngjiāncèzhàn,市环境监测站,City Environmental Monitoring Station,kāshídìqū,喀什地区,Kashgar Prefecture,Mainland China,Xinjiang Uygur
+2701A,37.1152,79.9485,dìqūzhàn,地区站,Regional station,hétiándìqū,和田地区,Hetian Prefecture,Mainland China,Xinjiang Uygur
+2702A,37.1013,79.9117,gǔjiāngbāgéxiāngyuànnèi,古江巴格乡院内,Gujiang Baga Township,hétiándìqū,和田地区,Hetian Prefecture,Mainland China,Xinjiang Uygur
+2703A,43.9404,81.2815,shìhuánbǎojú,市环保局,municipal environmental protection Bureau,yīlíhāsàkèzhōu,伊犁哈萨克州,Ili Kazakh,Mainland China,Xinjiang Uygur
+2704A,43.895,81.2867,xīnzhèngfǔpiànqū,新政府片区,New government area,yīlíhāsàkèzhōu,伊犁哈萨克州,Ili Kazakh,Mainland China,Xinjiang Uygur
+2705A,43.941,81.3364,dìèrshǔichǎng,第二水厂,Second water plant,yīlíhāsàkèzhōu,伊犁哈萨克州,Ili Kazakh,Mainland China,Xinjiang Uygur
+2706A,46.7432,82.9994,dōngménwàixiǎoyóuyuán,东门外小游园,Small amusement park outside the East Gate,tǎchéngdìqū,塔城地区,Tacheng Prefecture,Mainland China,Xinjiang Uygur
+2707A,47.9047,88.1214,xiǎodōnggōu,小东沟,Xiaodonggou,ālètàidìqū,阿勒泰地区,Altay Prefecture,Mainland China,Xinjiang Uygur
+2708A,47.8515,88.1267,shìzhàn,市站,City station,ālètàidìqū,阿勒泰地区,Altay Prefecture,Mainland China,Xinjiang Uygur
+2709A,44.2967,86.0497,àiqīngshīgēguǎn,艾青诗歌馆,Ai Qing Poetry Hall,shíhézǐ,石河子,Shihezi,Mainland China,Xinjiang Uygur
+2710A,44.3075,86.0697,yángguāngxuéxiào,阳光学校,Sunshine school,shíhézǐ,石河子,Shihezi,Mainland China,Xinjiang Uygur
+2711A,44.1756,87.5475,nóngshǔidàshà,农水大厦,Agricultural water building,wǔjiāqú,五家渠,Wujiaqu,Mainland China,Xinjiang Uygur
+2304A,33.6481,116.9765,jiāncèlóu,监测楼,Monitoring building,sùzhōu,宿州,Suzhou,Mainland China,Anhui
+2492A,28.2558,109.6414,yuèjìnshǔikù,跃进水库,Yuejin Reservoir,xiāngxīzhōu,湘西州,Xiangxi,Mainland China,Hunan
+2496A,23.475,111.3178,yúngàixiǎoxué,云盖小学,Yungai Primary School,wúzhōu,梧州,Zhangzhou,Mainland China,Guangxi
+2514A,24.4175,111.5269,huánbǎoxiǎoqū,环保小区,Environmental protection community,hèzhōu,贺州,Hezhou,Mainland China,Guangxi
+2698A,39.5371,75.9828,xúnjǐngdàdùi,巡警大队,Patrol battalion,kāshídìqū,喀什地区,Kashgar Prefecture,Mainland China,Xinjiang Uygur
+2320A,25.4552,119.0018,fǔtiánshìjiāncèzhàn,莆田市监测站,Putian City Monitoring Station,fǔtián,莆田,Putian,Mainland China,Fujian
+2322A,25.3214,119.1015,xìuyǔqūzhèngfǔ,秀屿区政府,Xiuyu District Government,fǔtián,莆田,Putian,Mainland China,Fujian
+2201A,46.0756,121.9462,kēyòuqiánqíhuánbǎojú,科右前旗环保局,Keyouqianqi Environmental Protection Bureau,xīngānméng,兴安盟,Hinggan League,Mainland China,Nei Mongol
+2321A,25.4556,119.1117,hánjiāngqūlìuzhōng,涵江区六中,Hanjiang District Liuzhong,fǔtián,莆田,Putian,Mainland China,Fujian
+2493A,28.3169,109.7325,zhōuzhèngfǔ,州政府,State Govt.,xiāngxīzhōu,湘西州,Xiangxi,Mainland China,Hunan
+2622A,31.1278,97.1804,chāngdūjiāncèzhàn,昌都监测站,Changdu Monitoring Station,chāngdūdìqū,昌都地区,Qamdo Prefecture,Mainland China,Xizang
+2638A,38.3344,109.7414,hóngshíxiásēnlíngōngyuán　,红石峡森林公园　,Red Rock Gorge Forest Park,yúlín,榆林,Yulin,Mainland China,Shaanxi
+2835A,26.567,101.7227,sìshízhōngxiǎo,四十中小,Forty small and medium,pānzhīhuā,攀枝花,Panzhihua,Mainland China,Sichuan
+2842A,24.5058,118.0936,húlǐzhōngxué,湖里中学,Huli Middle School,shàmén,厦门,Xiamen,Mainland China,Fujian
+2845A,36.1912,113.1569,déshèngyuàn,德盛苑,Desheng Court,chángzhì,长治,Changzhi,Mainland China,Shanxi
+2846A,23.1323,113.3208,tǐyùxī,体育西,Sports west,guǎngzhōu,广州,Guangzhou,Mainland China,Guangdong
+1447A,26.5495,106.6867,tàicíqiáo,太慈桥,Taici Bridge,gùiyáng,贵阳,Guiyang,Mainland China,Guizhou
+1190A,31.56,120.294,cáozhāng,曹张,Cao Zhang,wúxí,无锡,Wuxi,Mainland China,Jiangsu
+2858A,39.2474,117.7918,héxīyījīnglù,河西一经路,Hexi Yijing Road,tiānjīn,天津,Tianjin,Mainland China,Tianjin
+2859A,38.9846,117.3747,jīngūlù,津沽路,Jinyu Road,tiānjīn,天津,Tianjin,Mainland China,Tianjin
+2860A,39.0845,117.1589,bīnshǔixīdào,宾水西道,Binshui West Road,tiānjīn,天津,Tianjin,Mainland China,Tianjin
+2862A,38.03777778,114.54805559999998,22zhōngnánxiàoqū,22中南校区,22 Central South Campus,shíjiāzhuāng,石家庄,Shijiazhuang,Mainland China,Hebei
+2865A,37.68277778,112.7194444,yúcìsānzhōng,榆次三中,Yuci III,jìnzhōng,晋中,Jinzhong,Mainland China,Shanxi
+2866A,35.04388889,111.0522222,wàitānshǒufǔ,外滩首府,Bund capital,yùnchéng,运城,Yuncheng,Mainland China,Shanxi
+2867A,37.51,111.12833329999998,mǎmàozhuāngxiǎoxué,马茂庄小学,Ma Maozhuang Primary School,lv̌liáng,吕梁,Lu Liang,Mainland China,Shanxi
+2868A,43.95305556,126.4738889,jǐuzhàn,九站,Nine stations,jílín,吉林,Jilin,Mainland China,Jilin
+2869A,32.41361,119.458,wǔtáishānyìyuàn,五台山医院,Wutaishan Hospital,yángzhōu,扬州,Yangzhou,Mainland China,Jiangsu
+2870A,32.18888889,119.43694440000002,shìjíkòngzhōngxīn,市疾控中心,City CDC,zhènjiāng,镇江,Zhenjiang,Mainland China,Jiangsu
+2871A,29.90166667,121.6147222,wànlǐguójìxuéxiào,万里国际学校,Wanli International School,níngbō,宁波,Ningbo,Mainland China,Zhejiang
+2872A,30.7525,120.7844444,nánhúqūcánlián,南湖区残联,Nanhu District Disabled Persons&#39; Federation,jiāxīng,嘉兴,Jiaxing,Mainland China,Zhejiang
+2873A,30.89556,120.0875,rénhuángshānxīnqū,仁皇山新区,Renhuangshan New District,húzhōu,湖州,Huzhou,Mainland China,Zhejiang
+2874A,32.64600333,117.04116670000002,yìyìrǔyègōngyèyuán,益益乳业工业园,Yiyi Dairy Industrial Park,huáinán,淮南,Huainan,Mainland China,Anhui
+2875A,32.88922222,115.7838889,fùyángzhíyèjìzhúxuéyuàn,阜阳职业技术学院,Puyang Vocational and Technical College,fùyáng,阜阳,Fuyang,Mainland China,Anhui
+2876A,36.7339,119.0841,yòutèjiàoshīfàn,幼特教师范,Young teacher,wéifāng,潍坊,Weifang,Mainland China,Shandong
+2877A,36.6525,119.1638,fāngzǐyóuzhèng,坊子邮政,Fangzi Post,wéifāng,潍坊,Weifang,Mainland China,Shandong
+2878A,36.4343,116.0072,liáodàdōngxiào,聊大东校,Liao Dadong School,liáochéng,聊城,Liaocheng,Mainland China,Shandong
+2880A,30.65638889,104.0238889,dàshíxīlù,大石西路,Dashi West Road,chéngdū,成都,Chengdu,Mainland China,Sichuan
+2881A,26.53111111,107.89083329999998,kǎilǐxuéyuàn,凯里学院,Carey College,qiándōngnánzhōu,黔东南州,Southeastern Guizhou,Mainland China,Guizhou
+2882A,24.3702,102.5389,yùxīyīzhōng,玉溪一中,Yuxi Yizhong,yùxī,玉溪,Yuxi,Mainland China,Yunnan
+2883A,24.339,102.5381,wéntǐzhōngxīn,文体中心,Literary center,yùxī,玉溪,Yuxi,Mainland China,Yunnan
+2884A,39.79777778,98.26722222,jǐugāngbīnguǎn,酒钢宾馆,Jiugang Hotel,jiāyùguān,嘉峪关,Jiayuguan,Mainland China,Gansu
+2885A,33.38256667,104.9338889,bīnjiāngzhōngxué,滨江中学,Binjiang Middle School,lǒngnán,陇南,Longnan,Mainland China,Gansu
+2897A,41.7347,123.2444,shěnliáoxīlù,沈辽西路,Shenyang West Road,shěnyáng,沈阳,Shenyang,Mainland China,Liaoning
+2900A,41.9086,123.5953,yùnónglù,裕农路,Yu Nong Road,shěnyáng,沈阳,Shenyang,Mainland China,Liaoning
+2902A,30.4865,106.6351,běichénxiǎoxué,北辰小学,Beichen Primary School,guǎngān,广安,Guang&#39;an,Mainland China,Sichuan
+2907A,30.8596,120.1844,wúxīngqū,吴兴区,Wuxing District,húzhōu,湖州,Huzhou,Mainland China,Zhejiang
+2914A,31.87888889,106.7513889,sūshānpíng,苏山坪,Sushanping,bāzhōng,巴中,Bazhong,Mainland China,Sichuan
+2915A,31.85805556,106.76194440000002,zhíyèzhōngxué,职业中学,Secondary in total,bāzhōng,巴中,Bazhong,Mainland China,Sichuan
+2916A,30.66,117.49,lǎogānbùjú,老干部局,Old cadre bureau,chízhōu,池州,Chizhou,Mainland China,Anhui
+2919A,39.5453,116.7022,héběigōngyèdàxué,河北工业大学,Hebei University of Technology,lángfāng,廊坊,Langfang,Mainland China,Hebei
+2920A,24.506,117.7116,lántiánzhèn,蓝田镇,Lantian Town,zhāngzhōu,漳州,Zhangzhou,Mainland China,Fujian
+2921A,30.0033,120.7789,shùxiàwángzhàn,树下王站,Shuxiawang Station,shàoxīng,绍兴,Shaoxing,Mainland China,Zhejiang
+2922A,39.1067,117.1941,dàlǐdào,大理道,Dali Road,tiānjīn,天津,Tianjin,Mainland China,Tianjin
+2923A,40.1114,113.2803,gōngpáishǔigōngsī,供排水公司,Water supply and drainage company,dàtóng,大同,Datong,Mainland China,Shanxi
+2924A,38.44139000000001,106.2275,shǔixiānglù(zhíguǎnzhàn),水乡路(直管站),Shuixiang Road (straight tube station),yínchuān,银川,Yinchuan,Mainland China,Ningxia Hui
+2925A,38.4841,106.2739,shànghǎidōnglù,上海东路,Shanghai East Road,yínchuān,银川,Yinchuan,Mainland China,Ningxia Hui
+2926A,38.49494,106.1024,wénchāngběijiē,文昌北街,Wenchang North Street,yínchuān,银川,Yinchuan,Mainland China,Ningxia Hui
+2929A,30.4519,114.8858,hóngwèilù,红卫路,Hongwei Road,huánggāng,黄冈,Huanggang,Mainland China,Hubei
+2994A,29.1128,119.6533,wǔjǐngzhīdùi,武警支队,Armed police detachment,jīnhuá,金华,Jinhua,Mainland China,Zhejiang
+2996A,33.965,118.283,shìgōngdiànjú,市供电局,City Power Supply Bureau,sùqiān,宿迁,Suqian,Mainland China,Jiangsu
+2997A,32.3292,119.8767,wángyíng,王营,Wang Ying,tàizhōu,泰州,Taizhou,Mainland China,Jiangsu
+3000A,34.6972,119.3581,déyuányàoyè(zhíguǎnzhàn),德源药业(直管站),Deyuan Pharmaceutical (straight tube station),liányúngǎng,连云港,Lianyungang,Mainland China,Jiangsu
+3002A,31.8108,119.9736,xíngzhèngzhōngxīn,行政中心,Administrative Center,chángzhōu,常州,Changzhou,Mainland China,Jiangsu
+3004A,33.3681,120.1631,bǎolóngguǎngcháng,宝龙广场,Baolong Square,yánchéng,盐城,Yancheng,Mainland China,Jiangsu
+3005A,34.29,117.1814,gǔlóuqūzhèngfǔ,鼓楼区政府,Gulou District Government,xúzhōu,徐州,Xuzhou,Mainland China,Jiangsu
+3006A,34.1781,117.1694,tóngshānqūzhāoshēngbàn,铜山区招生办,Tongshan District Admissions Office,xúzhōu,徐州,Xuzhou,Mainland China,Jiangsu
+3008A,34.7519,119.3608,húgōuguǎnlǐchù,胡沟管理处,Hugou Management Office,liányúngǎng,连云港,Lianyungang,Mainland China,Jiangsu
+3009A,34.5911,119.1478,kuàngshānshèjìyuàn,矿山设计院,Mine design institute,liányúngǎng,连云港,Lianyungang,Mainland China,Jiangsu
+3010A,31.7897,119.8914,zhōnglóu,钟楼,Clock Tower,chángzhōu,常州,Changzhou,Mainland China,Jiangsu
+3012A,31.033890000000003,112.1908,xīshānlínyǔ(qǐyòng161103),西山林语(启用161103),Xishan Linyu (Enable 161103),jīngmén,荆门,Jingmen,Mainland China,Hubei
+3014A,29.53675,106.4959,xiētáizǐ,歇台子,Breaking table,zhòngqìng,重庆,Chongqing,Mainland China,Chongqing
+3015A,29.57278,106.4042,lóngjǐngwān,龙井湾,Longjing Bay,zhòngqìng,重庆,Chongqing,Mainland China,Chongqing
+3016A,29.41569,106.5506,lóngzhōuwān,龙洲湾,Longzhou Bay,zhòngqìng,重庆,Chongqing,Mainland China,Chongqing
+3018A,36.10139,111.505,tángyáodàjǐudiàn,唐尧大酒店,Tang Yi Hotel,línfén,临汾,Linfen,Mainland China,Shanxi
+3020A,39.16969,117.2099,zhōngshānběilù,中山北路,Zhongshan North Road,tiānjīn,天津,Tianjin,Mainland China,Tianjin
+3021A,35.76806,115.0061,púshǔihéguǎnlǐchù,濮水河管理处,Lishui River Management Office,púyáng,濮阳,Fuyang,Mainland China,Henan
+3022A,34.6686,112.4433,kǎixuánlùxiǎoxué,凯旋路小学,Kaixuan Road Primary School,luòyáng,洛阳,IDS_PZSD508,Mainland China,Henan
+3025A,23.63444,113.0472,jìshīxuéyuàn,技师学院,Technician college,qīngyuǎn,清远,Qingyuan,Mainland China,Guangdong
+3026A,23.65889,116.6183,shìzhèngfǔ,市政府,Local government,cháozhōu,潮州,chicken,Mainland China,Guangdong
+3003A,31.7694,120.0469,jīngkāiqū,经开区,Economic Development Zone,chángzhōu,常州,Changzhou,Mainland China,Jiangsu
+3027A,29.33972,104.7228,qīnggānglínlù,青杠林路,Qinglu Lin Road,zìgòng,自贡,Zigong,Mainland China,Sichuan
+3033A,43.4569,87.4651,péixùnjīdì,培训基地,Training Base,wūlǔmùqí,乌鲁木齐,Urumqi,Mainland China,Xinjiang Uygur
+3028A,29.36028,104.7778,tánmùlíntǐyùguǎn,檀木林体育馆,Sandalwood Stadium,zìgòng,自贡,Zigong,Mainland China,Sichuan
+3034A,41.0385,113.1076,guāngmíngjiēxiǎoxué,光明街小学,Guangming Street Primary School,wūlánchábù,乌兰察布,Ulanchabu,Mainland China,Nei Mongol
+3035A,46.0707,122.0931,běibīnhé,北滨河,North Binhe,xīngānméng,兴安盟,Hinggan League,Mainland China,Nei Mongol
+3036A,37.43445,118.696,kāifāqūguǎnwěihùi,开发区管委会,Development Zone Management Committee,dōngyíng,东营,Dongying,Mainland China,Shandong
+3038A,23.3682,103.3758,zhōutúshūguǎn,州图书馆,State library,hónghézhōu,红河州,Honghe Prefecture,Mainland China,Yunnan
+3039A,34.7822,111.19,dìyīxiǎoxué,第一小学,Primary School,sānménxiá,三门峡,Sanmenxia,Mainland China,Henan
+3046A,28.6064,115.9083,jīdiànxuéxiào,机电学校,Electrical and mechanical school,nánchāng,南昌,Nanchang,Mainland China,Jiangxi
+3048A,26.0931,119.58,jǐulóng,九龙,Kowloon,fúzhōu,福州,Fuzhou,Mainland China,Fujian
+3054A,35.28385,113.5922,shìwěidǎngxiào,市委党校,Party School of Municipal Committee,xīnxiāng,新乡,Xinxiang,Mainland China,Henan
+3057A,37.4014,121.5992,móupíngjiǎncháyuàn,牟平检察院,Fuping Procuratorate,yāntái,烟台,Yantai,Mainland China,Shandong
+3058A,42.0352,119.2654,yínhéjiē,银河街,Galaxy Street,chìfēng,赤峰,Chifeng,Mainland China,Nei Mongol
+3059A,36.2092,117.7181,tàixīnggōngsī,泰兴公司,Taixing Company,láiwú,莱芜,Laiwu,Mainland China,Shandong
+3061A,49.1577,119.7512,guóhuádiànlìdōng,国华电力东,Guohua Power East,hūlúnbèiěr,呼伦贝尔,Hulunbuir,Mainland China,Nei Mongol
+3064A,36.2211,117.6983,láiwúzhànyìjìniànguǎn,莱芜战役纪念馆,Laiwu Battle Memorial Hall,láiwú,莱芜,Laiwu,Mainland China,Shandong
+3066A,37.4372,116.2714,jǐuqúquánchúnjìngshǔichǎng,九衢泉纯净水厂,Jiuyi Spring Pure Water Factory,dézhōu,德州,Texas,Mainland China,Shandong
+3065A,29.9972,101.9533,zhōuhuánbǎojú,州环保局,State Environmental Protection Agency,gānzīcángzúzìzhìzhōu,甘孜藏族自治州,Ganzi Tibetan Autonomous Prefecture,Mainland China,Sichuan
+3051A,39.1495,117.3916,xīsìdào,西四道,West Fourth Road,tiānjīn,天津,Tianjin,Mainland China,Tianjin
+3055A,36.6428,101.7775,chéngběiqūzhèngfǔ,城北区政府,Chengbei District Government,xīníng,西宁,Xining,Mainland China,Qinghai
+3045A,33.8471,109.9643,shāngzhōuqūzhōngxué,商州区中学,Shangzhou District Middle School,shāngluò,商洛,Shangluo,Mainland China,Shaanxi
+3128A,31.4797,92.0506,nàqūhùiyìzhōngxīn,那曲会议中心,Nagqu Conference Center,nàqūdìqū,那曲地区,Nagqu Prefecture,Mainland China,Xizang
+3129A,36.5067,102.0306,píngāngāotiěxīnqū,平安高铁新区,Ping An High-speed Railway New District,hǎidōngdìqū,海东地区,Haidong Prefecture,Mainland China,Qinghai
+3133A,29.565,106.5469,shàngqīngsì,上清寺,Shangqing Temple,zhòngqìng,重庆,Chongqing,Mainland China,Chongqing
+3134A,34.0339,113.8172,shìyīzhōng,市一中,City one,xǔchāng,许昌,Xu Chang,Mainland China,Henan
+3122A,26.2611,105.9606,wǔjiāguān(dùizhàodiǎn),伍家关(对照点),Wu Jiaguan (control point),ānshùn,安顺,Anshun,Mainland China,Guizhou
+3123A,26.2431,105.9408,fènghuángshān,凤凰山,Phoenix Mountains,ānshùn,安顺,Anshun,Mainland China,Guizhou
+3124A,26.2564,105.9439,jīnzhōngshān,金钟山,Jinzhongshan,ānshùn,安顺,Anshun,Mainland China,Guizhou
+3125A,26.2481,105.8983,lóujiāpō,娄家坡,Yan Jiapo,ānshùn,安顺,Anshun,Mainland China,Guizhou
+3131A,40.7903,114.8792,yānchǎng,烟厂,Tobacco factory,zhāngjiākǒu,张家口,Zhangjiakou,Mainland China,Hebei
+3132A,37.0308,119.5967,wénmínglǐ(qǐyòng171012),文明里(启用171012),Civilization (enabled 171012),qínhuángdǎo,秦皇岛,Qinhuangdao,Mainland China,Shandong
+3136A,30.5589,104.2725,lóngquányìqūqūzhèngfǔ,龙泉驿区区政府,Longquanyi District Government,chéngdū,成都,Chengdu,Mainland China,Sichuan
+3138A,29.0289,111.7153,wǔlíngqūyǒngān(qǐyòng171130),武陵区永安(启用171130),"Yongan, Wuling District (Enable 171130)",chángdé,常德,Changde,Mainland China,Hunan
+3139A,28.9881,111.6892,dǐngchéngqūyùxiá(qǐyòng171130),鼎城区玉霞(启用171130),Dingcheng Yuxia (enabled 171130),chángdé,常德,Changde,Mainland China,Hunan
+3140A,29.0531,111.6625,wǔlíngqūchánggēng,武陵区长庚,"Chang Gung, Wuling District",chángdé,常德,Changde,Mainland China,Hunan
+3141A,36.0878,114.3922,xìnfǎngjú,信访局,Letter and visit bureau,ānyáng,安阳,Anyang,Mainland China,Henan
+3137A,30.0744,103.8578,shìwěidǎngxiào,市委党校,Party School of Municipal Committee,méishān,眉山,Meishan,Mainland China,Sichuan
+3147A,34.8097,114.3442,lóngtínggōngyuán,龙亭公园,Longting Park,kāifēng,开封,Kaifeng,Mainland China,Henan
+3148A,30.0561,103.8286,qūrénshèjú,区人社局,District People&#39;s Bureau,méishān,眉山,Meishan,Mainland China,Sichuan
+3149A,30.1594,115.0158,bǐjiàshānběilù,笔架山北路,Beacon Hill North Road,huángshí,黄石,Huangshi,Mainland China,Hubei
+3153A,30.4908,114.3877,mínzúdàdào182hào,民族大道182号,182 Minzu Avenue,wǔhàn,武汉,Wuhan,Mainland China,Hubei
+3164A,32.3942,119.4686,guǎnglíngjiànshèjú,广陵建设局,Guangling Construction Bureau,yángzhōu,扬州,Yangzhou,Mainland China,Jiangsu
+3165A,34.2969,108.6594,liǎngsìdù,两寺渡,Two temples,xiányáng,咸阳,Xianyang,Mainland China,Shaanxi
+3169A,35.2067,113.2725,tàijítǐyùzhōngxīn,太极体育中心,Tai Chi Sports Center,jiāozuò,焦作,Jiaozuo,Mainland China,Henan
+3170A,38.5253,102.1864,shìwěidǎngxiào(qǐyòng180727),市委党校(启用180727),Municipal Party School (enabled 180727),jīnchāng,金昌,Jinchang,Mainland China,Gansu
+3173A,30.5342,117.0594,shìréndà,市人大,City people&#39;s congress,ānqìng,安庆,Anqing,Mainland China,Anhui
+3178A,36.7225,119.0586,wéifāngqīzhōng,潍坊七中,Weifang Seventh Middle School,wéifāng,潍坊,Weifang,Mainland China,Shandong
+3179A,25.0119,102.749,guāndùqūbówùguǎn（180930qǐyòng）,官渡区博物馆（180930启用）,Guandu District Museum (enabled in 180930),kūnmíng,昆明,Kunming,Mainland China,Yunnan
+3180A,27.8094,99.7136,zhíliàngjìzhújiāndūjú（20180930qǐyòng）,质量技术监督局（20180930启用）,Quality and Technical Supervision Bureau (enabled by 20180930),díqìngzhōu,迪庆州,Diqing,Mainland China,Yunnan
+3182A,31.8542,106.7658,lìyánghuāyuán,丽阳花园,Liyang Garden,bāzhōng,巴中,Bazhong,Mainland China,Sichuan
+3183A,31.8653,106.7417,shèngquánshǔiwùgōngsī,圣泉水务公司,Shengquan Water Company,bāzhōng,巴中,Bazhong,Mainland China,Sichuan
+3185A,37.8964,112.5628,jùlún,巨轮,Giant wheel,tàiyuán,太原,Taiyuan,Mainland China,Shanxi
+3201A,37.9325,102.6486,dōngguānzhāoshāngcháng,东关招商场,Dongguanzhao Shopping Mall (opened 190211),wǔwēi,武威,Wu Wei,Mainland China,Gansu
+3206A,27.807,114.9149,xīngāngqìnyuáncūn,新钢沁园村,Xingang Qinyuan Village (opening 20190301),xīnyú,新余,Xinyu,Mainland China,Jiangxi
+3208A,38.4153,112.7283,shìzhèngfǔ,市政府,City government (opened 20190313),xīnzhōu,忻州,Xinzhou,Mainland China,Shanxi
+3210A,34.7964,114.3644,biànjīnggōngyuán,汴京公园,Jingjing Park (opened 20190322),kāifēng,开封,Kaifeng,Mainland China,Henan
+3237A,30.6619,117.4916,zhǎnlǎnguǎn,展览馆,Exhibition Hall (Opened 190815),chízhōu,池州,Chizhou,Mainland China,Anhui
+3239A,42.9079,125.0829,yínyīngzhìyào,银鹰制药,Yinying Pharmaceutical (enabled in 20190903),liáoyuán,辽源,Liaoyuan,Mainland China,Jilin
+2437A,30.3714,114.8989,zhàojiābà,赵家坝,Zhao Jiaba,èzhōu,鄂州,Ezhou,Mainland China,Hubei
+3151A,27.8097,114.375,yíchūnxuéyuànběixiàoqū,宜春学院北校区,Yichun University North Campus,yíchūn,宜春,Yichun,Mainland China,Jiangxi
+3171A,34.445,115.6125,liángyuánqūdǎngànjú,梁园区档案局,Liangyuan Archives Bureau,shāngqīu,商丘,Shangqiu,Mainland China,Henan
+3186A,36.1058,103.7583,jiàoyùgǎng,教育港,Education Port (Opened 20181115),lánzhōu,兰州,Lanzhou,Mainland China,Gansu
+3187A,33.666,116.95100000000001,yuǎnhángbówùguǎn,远航博物馆,Voyage Museum (181204 enabled),sùzhōu,宿州,Suzhou,Mainland China,Anhui
+3188A,37.739000000000004,115.6689,shìchéngguǎnjú,市城管局,City Urban Management Bureau (181124 enabled),héngshǔi,衡水,Hengshui,Mainland China,Hebei
+3190A,29.6995,116.0257,wàiguóyǔxuéxiào,外国语学校,Foreign Language School (20181128),jǐujiāng,九江,Jiujiang,Mainland China,Jiangxi
+3191A,33.9447,118.3225,sùyùqūzhèngfǔ,宿豫区政府,Suyu District Government (Opened 181206),sùqiān,宿迁,Suqian,Mainland China,Jiangsu
+3194A,30.3122,112.2747,guǎnwěihùi,管委会,Management Committee (enabled 181220),jīngzhōu,荆州,Jingzhou,Mainland China,Hubei
+3195A,32.3972,119.3633,shìtǐyùjú,市体育局,Municipal Sports Bureau (181219 enabled),yángzhōu,扬州,Yangzhou,Mainland China,Jiangsu
+3200A,36.4978,115.9819,jiānkòngzhōngxīn,监控中心,Monitoring Center (20190222 enabled),liáochéng,聊城,Liaocheng,Mainland China,Shandong
+3204A,33.7297,113.3025,gūihuájú,规划局,Planning Bureau (launched 20190304),píngdǐngshān,平顶山,Pingdingshan,Mainland China,Henan
+3207A,32.3039,118.3117,shìzhèngfǔyuánbàngōnglóu,市政府原办公楼,The original office building of the municipal government (opened 20190308),chúzhōu,滁州,Luzhou,Mainland China,Anhui
+3209A,26.6564,119.5228,níngdéyīzhōng,宁德一中,Ningde No.1 High School (20190319 enabled),níngdé,宁德,Ningde,Mainland China,Fujian
+3216A,24.5183,114.6622,zhāngzhōudǎngxiào,漳州党校,Zhangzhou Party School (20190503),zhāngzhōu,漳州,Zhangzhou,Mainland China,Guangdong
+3238A,31.3946,118.3954,jìmínyìyuàn,济民医院,Jimin Hospital (comparison point 190815),wúhú,芜湖,Wuhu,Mainland China,Anhui
+1564A,27.9164,112.4876,sháoshān,韶山,Lushan,xiāngtán,湘潭,Xiangtan,Mainland China,Hunan
+1585A,40.6532,109.8756,shìhuánjìngjiāncèzhàn,市环境监测站,City Environmental Monitoring Station,bāotóu,包头,packet header,Mainland China,Nei Mongol
+1586A,40.6575,109.8104,bāobǎidàlóu,包百大楼,Baobai Building,bāotóu,包头,packet header,Mainland China,Nei Mongol
+1587A,40.5905,110.0067,dōnghéchénghuánjú,东河城环局,Donghe City Ring Bureau,bāotóu,包头,packet header,Mainland China,Nei Mongol
+1588A,40.6821,109.8538,qīngshānbīnguǎn,青山宾馆,Qingshan Hotel,bāotóu,包头,packet header,Mainland China,Nei Mongol
+1589A,40.6288,109.8654,hùilóngwùlíu,惠龙物流,Huilong Logistics,bāotóu,包头,packet header,Mainland China,Nei Mongol
+1590A,40.5546,110.0377,dōnghéhónglóngwān,东河鸿龙湾,Donghe Honglong Bay,bāotóu,包头,packet header,Mainland China,Nei Mongol
+1592A,39.8261,109.9486,bāyīnmèngkèlínchángbànshìchù,巴音孟克林场办事处,Bayin Mengkelin Farm Office,èěrduōsī,鄂尔多斯,Ordos City,Mainland China,Nei Mongol
+1593A,39.5986,109.7736,kāngzéyuàn,康泽苑,Kang Zeyuan,èěrduōsī,鄂尔多斯,Ordos City,Mainland China,Nei Mongol
+1594A,39.5989,109.8119,huátàiqìchēchéng,华泰汽车城,Huatai Automobile City,èěrduōsī,鄂尔多斯,Ordos City,Mainland China,Nei Mongol
+1595A,39.7884,109.9734,àolínhuāyuán,奥林花园,Olin Garden,èěrduōsī,鄂尔多斯,Ordos City,Mainland China,Nei Mongol
+1596A,40.6592,122.2414,xuéfǔnánlù,学府南路,Xuefu South Road,yíngkǒu,营口,Yingkou,Mainland China,Liaoning
+1597A,40.7094,122.2703,dàqìnglù,大庆路,Daqing Road,yíngkǒu,营口,Yingkou,Mainland China,Liaoning
+1598A,40.6511,122.215,jìnghúxīlù,镜湖西路,Jinghu West Road,yíngkǒu,营口,Yingkou,Mainland China,Liaoning
+1599A,40.6789,122.1658,xīpàotái,西炮台,Western Fort,yíngkǒu,营口,Yingkou,Mainland China,Liaoning
+1600A,40.0625,124.3303,jiāngwāndōnglù,江湾东路,Jiangwan East Road,dāndōng,丹东,Dandong,Mainland China,Liaoning
+1601A,40.1503,124.4256,línjiānghòujiē,临江后街,Linjiang Back Street,dāndōng,丹东,Dandong,Mainland China,Liaoning
+1602A,40.1461,124.3933,yuánbǎoshān,元宝山,Yuanbaoshan,dāndōng,丹东,Dandong,Mainland China,Liaoning
+1603A,40.1194,124.3678,mínzhǔqiáo,民主桥,Democracy bridge,dāndōng,丹东,Dandong,Mainland China,Liaoning
+1604A,41.1556,122.0247,kāifāqū,开发区,Thereof: Development,pánjǐn,盘锦,Panjin,Mainland China,Liaoning
+1605A,41.0903,122.0539,xīnglóngtái,兴隆台,Xinglongtai,pánjǐn,盘锦,Panjin,Mainland China,Liaoning
+1606A,41.1042,121.835,xīnshēngjiēdào,新生街道,Freshman street,pánjǐn,盘锦,Panjin,Mainland China,Liaoning
+1607A,40.7136,120.9092,lónggǎngqū,龙港区,Longgang District,húlúdǎo,葫芦岛,Huludao,Mainland China,Liaoning
+1608A,40.7514,120.8392,huàgōngjiē,化工街,Chemical street,húlúdǎo,葫芦岛,Huludao,Mainland China,Liaoning
+1609A,40.715,120.8478,xīnqū,新区,New Section,húlúdǎo,葫芦岛,Huludao,Mainland China,Liaoning
+1610A,40.7736,120.8631,dōngchéngqū,东城区,Dongcheng District,húlúdǎo,葫芦岛,Huludao,Mainland China,Liaoning
+1611A,24.9117,118.5819,túshānjiē,涂山街,Tushan Street,quánzhōu,泉州,Quanzhou,Mainland China,Fujian
+1612A,24.8978,118.5972,jīntóupǔ,津头埔,Jintoupu,quánzhōu,泉州,Quanzhou,Mainland China,Fujian
+1613A,24.9424,118.6663,wànān,万安,Wan an,quánzhōu,泉州,Quanzhou,Mainland China,Fujian
+1614A,24.9617,118.6108,qīngyuánshān,清源山,Qingyuan Mountain,quánzhōu,泉州,Quanzhou,Mainland China,Fujian
+1615A,36.205,117.685,zhíwùyóuchǎng,植物油厂,Vegetable oil plant,láiwú,莱芜,Laiwu,Mainland China,Shandong
+1616A,36.2289,117.6789,jìzhúxuéyuàn,技术学院,Costa Rican Technical Institute,láiwú,莱芜,Laiwu,Mainland China,Shandong
+1617A,36.2081,117.715,rìshēngguójì,日升国际,Sunrise International,láiwú,莱芜,Laiwu,Mainland China,Shandong
+1619A,35.0622,118.2939,lǔnánzhìyàochǎng,鲁南制药厂,Lunan Pharmaceutical Factory,línyí,临沂,Linyi,Mainland China,Shandong
+1620A,34.9817,118.2764,xīnguāngmáofǎngchǎng,新光毛纺厂,Xinguang Woolen Mill,línyí,临沂,Linyi,Mainland China,Shandong
+1621A,35.0896,118.4023,hédōngbǎoxiǎngōngsī,河东保险公司,Hedong Insurance Company,línyí,临沂,Linyi,Mainland China,Shandong
+1622A,37.4664,116.3061,értónglèyuán,儿童乐园,Children&#39;s playground,dézhōu,德州,Texas,Mainland China,Shandong
+1623A,37.4504,116.2729,hēimǎjítuán,黑马集团,Black Horse Group,dézhōu,德州,Texas,Mainland China,Shandong
+1624A,37.4489,116.3189,jiānlǐzhàn,监理站,Supervision station,dézhōu,德州,Texas,Mainland China,Shandong
+1625A,36.4372,115.9848,qūzhèngfǔ,区政府,District government,liáochéng,聊城,Liaocheng,Mainland China,Shandong
+1626A,36.4568,115.9968,èrqīngjī,二轻机,Two light machine,liáochéng,聊城,Liaocheng,Mainland China,Shandong
+1627A,36.4796,115.9835,dǎngxiào,党校,Party school,liáochéng,聊城,Liaocheng,Mainland China,Shandong
+1628A,37.3803,118.0062,shìhuánbǎojú,市环保局,municipal environmental protection Bureau,bīnzhōu,滨州,Binzhou,Mainland China,Shandong
+1629A,37.3617,118.0018,dìèrshǔichǎng,第二水厂,Second water plant,bīnzhōu,滨州,Binzhou,Mainland China,Shandong
+1630A,37.393,117.9776,běizhōngxīnxiào,北中新校,North Central New School,bīnzhōu,滨州,Binzhou,Mainland China,Shandong
+1633A,36.497,117.8477,shuāngshān,双山,Shuangshan,zībó,淄博,Zibo,Mainland China,Shandong
+1635A,36.8198,118.3092,fǔtiányuán,莆田园,莆 莆,zībó,淄博,Zibo,Mainland China,Shandong
+1637A,34.864000000000004,117.5564,shìzhōngqūzhèngfǔ,市中区政府,City Central Government,zǎozhuāng,枣庄,Zaozhuang,Mainland China,Shandong
+1639A,34.7745,117.5852,yìchéngqūzhèngfǔ,峄城区政府,Yucheng District Government,zǎozhuāng,枣庄,Zaozhuang,Mainland China,Shandong
+1641A,35.0992,117.4518,shāntíngqūhuánbǎojú,山亭区环保局,Shanting District Environmental Protection Bureau,zǎozhuāng,枣庄,Zaozhuang,Mainland China,Shandong
+1643A,37.5433,121.3719,zhóuchéngchǎng,轴承厂,Bearing factory,yāntái,烟台,Yantai,Mainland China,Shandong
+1645A,37.4822,121.4478,láishānhuánbǎojú,莱山环保局,Laishan Environmental Protection Bureau,yāntái,烟台,Yantai,Mainland China,Shandong
+1647A,37.3872,121.5953,móupínghuánbǎojú,牟平环保局,Muping Environmental Protection Bureau,yāntái,烟台,Yantai,Mainland China,Shandong
+1649A,36.7306,119.0919,líujiāyuán,刘家园,Liu Jiayuan,wéifāng,潍坊,Weifang,Mainland China,Shandong
+1651A,36.6572,119.1614,gòngdágōngsī,共达公司,Total company,wéifāng,潍坊,Weifang,Mainland China,Shandong
+1653A,35.42800000000001,116.6305,huǒjùchéng,火炬城,Torch City,jìníng,济宁,Jining,Mainland China,Shandong
+1655A,35.4039,116.5546,diànhuàchǎng,电化厂,Electrochemical plant,jìníng,济宁,Jining,Mainland China,Shandong
+1657A,36.1942,117.0881,rénkǒuxuéxiào,人口学校,Population school,tàiān,泰安,Tai'an,Mainland China,Shandong
+1659A,35.4178,119.4641,jiāncèzhàn,监测站,GHG monitoring,rìzhào,日照,Sunlight,Mainland China,Shandong
+1661A,35.3962,119.54,gǎngwùjú,港务局,Port authorities,rìzhào,日照,Sunlight,Mainland China,Shandong
+1663A,37.5325,122.0508,shāndàfēnxiào,山大分校,Shanda Campus,wēihǎi,威海,Weihai,Mainland China,Shandong
+1665A,37.4658,118.5019,xīchéngyángguānghuánbǎogōngsī,西城阳光环保公司,Xicheng Sunshine Environmental Protection Company,dōngyíng,东营,Dongying,Mainland China,Shandong
+1667A,37.4442,118.5857,gěngjǐngcūn,耿井村,Sakai Village,dōngyíng,东营,Dongying,Mainland China,Shandong
+1669A,24.769519,113.586606,shìbāzhōng,市八中,City Eight,sháoguān,韶关,Shaoguan,Mainland China,Guangdong
+1671A,24.795928,113.59806100000002,yuánlínchù,园林处,Garden office,sháoguān,韶关,Shaoguan,Mainland China,Guangdong
+1673A,24.68636111,113.59708329999998,qūjiāngjiāncèzhàn,曲江监测站,Qujiang Monitoring Station,sháoguān,韶关,Shaoguan,Mainland China,Guangdong
+1675A,23.3633,116.7244,lónghúzǐzhàn,龙湖子站,Longhuzi Station,shàntóu,汕头,Shantou,Mainland China,Guangdong
+1677A,23.4714,116.7519,chénghǎizǐzhàn,澄海子站,Chenghaizi Station,shàntóu,汕头,Shantou,Mainland China,Guangdong
+1679A,23.2536,116.4019,cháonánzǐzhàn,潮南子站,Chaonanzi Station,shàntóu,汕头,Shantou,Mainland China,Guangdong
+1681A,21.2228,110.3928,shìhuánjìngjiāncèzhàn,市环境监测站,City Environmental Monitoring Station,zhànjiāng,湛江,Zhanjiang,Mainland China,Guangdong
+1683A,21.2028,110.4111,xiáshānyóuyǒngcháng,霞山游泳场,Xiashan Swimming Pool,zhànjiāng,湛江,Zhanjiang,Mainland China,Guangdong
+1685A,21.2567,110.4558,pōtóuqūhuánbǎojú,坡头区环保局,Potou District Environmental Protection Bureau,zhànjiāng,湛江,Zhanjiang,Mainland China,Guangdong
+1687A,21.6533,110.9294,màoshíhuàqīxiǎo,茂石化七小,Mao Petrochemical Seven Small,màomíng,茂名,Maoming,Mainland China,Guangdong
+1689A,21.6828,110.8592,gāolíng,高岭,Gaoling,màomíng,茂名,Maoming,Mainland China,Guangdong
+1691A,24.2719,116.0797,méixiànxīnchéng,梅县新城,Meixian New Town,méizhōu,梅州,Meizhou,Mainland China,Guangdong
+1693A,22.775,115.3653,shìhuánbǎojú,市环保局,municipal environmental protection Bureau,shànwěi,汕尾,Iris,Mainland China,Guangdong
+1695A,22.7925,115.3622,xīnchéngzhōngxué,新城中学,Xincheng Middle School,shànwěi,汕尾,Iris,Mainland China,Guangdong
+1697A,23.7586,114.6944,dōngpǔ,东埔,Dongpu,héyuán,河源,Heyuan,Mainland China,Guangdong
+1699A,21.8586,111.9786,yuānyānghú,鸳鸯湖,Wuhu,yángjiāng,阳江,Yangjiang,Mainland China,Guangdong
+1701A,21.865,111.9494,mǎnándòng,马南垌,Manan,yángjiāng,阳江,Yangjiang,Mainland China,Guangdong
+1703A,23.7106,113.0208,fèngchéngjiēbàn,凤城街办,Fengcheng Street Office,qīngyuǎn,清远,Qingyuan,Mainland China,Guangdong
+1705A,23.6714,116.6339,xīyuánlù,西园路,Xiyuan Road,cháozhōu,潮州,chicken,Mainland China,Guangdong
+1707A,23.6531,116.6175,shìzhènggōngsī,市政公司,Municipal company,cháozhōu,潮州,chicken,Mainland China,Guangdong
+1709A,23.5486,116.3242,xīmǎ,西马,West Malaysia,jiēyáng,揭阳,Jieyang,Mainland China,Guangdong
+1711A,23.5292,116.4094,yúhú,渔湖,Fishing lake,jiēyáng,揭阳,Jieyang,Mainland China,Guangdong
+1713A,22.9394,112.0369,shìjiāncèzhàn,市监测站,City monitoring station,yúnfú,云浮,Yunfu,Mainland China,Guangdong
+1715A,24.3694,102.5778,dōngfēngshǔikù,东风水库,Dongfeng Reservoir,yùxī,玉溪,Yuxi,Mainland China,Yunnan
+1717A,24.3411,102.4964,dàyíngjiēzhèn,大营街镇,Daying Street Town,yùxī,玉溪,Yuxi,Mainland China,Yunnan
+1719A,35.2375,115.474722,shìzhèngxié,市政协,CPPCC,hézé,菏泽,Heze,Mainland China,Shandong
+1721A,40.1097,113.3819,guǒshùcháng,果树场,Fruit tree field,dàtóng,大同,Datong,Mainland China,Shanxi
+1723A,40.0758,113.2994,yúngāngbīnguǎn,云冈宾馆,Yungang Hotel,dàtóng,大同,Datong,Mainland China,Shanxi
+1726A,40.0844,113.2711,jiàoyùxuéyuàn,教育学院,Faculty of Science,dàtóng,大同,Datong,Mainland China,Shanxi
+1728A,36.1939,113.0972,jiāncèzhàn,监测站,GHG monitoring,chángzhì,长治,Changzhi,Mainland China,Shanxi
+1730A,36.2126,113.0886,shěnjìjú,审计局,The Board of Audit,chángzhì,长治,Changzhi,Mainland China,Shanxi
+1732A,36.0978,111.5125,shìjiāncèzhàn,市监测站,City monitoring station,línfén,临汾,Linfen,Mainland China,Shanxi
+1734A,36.0714,111.5028,jìgōngxuéxiào,技工学校,Technical School,línfén,临汾,Linfen,Mainland China,Shanxi
+1736A,36.0875,111.5025,shìwěi,市委,Municipal party committee,línfén,临汾,Linfen,Mainland China,Shanxi
+1738A,37.8564,113.5753,shìzhōngxīn,市中心,Downtown,yángquán,阳泉,Yangquan,Mainland China,Shanxi
+1740A,37.8561,113.5922,nánzhuāng,南庄,Nanzhuang,yángquán,阳泉,Yangquan,Mainland China,Shanxi
+1742A,37.8694,113.5689,píngtǎn,平坦,Flat,yángquán,阳泉,Yangquan,Mainland China,Shanxi
+1745A,42.2725,118.9572,hādájiē,哈达街,Hatta Street,chìfēng,赤峰,Chifeng,Mainland China,Nei Mongol
+1748A,41.1196,123.044,shēngōusì,深沟寺,Shengou Temple,ānshān,鞍山,Anshan,Mainland China,Liaoning
+1744A,42.2814,118.9233,sōngshānyīzhōng,松山一中,Songshan No.1 Middle School,chìfēng,赤峰,Chifeng,Mainland China,Nei Mongol
+1747A,42.0317,119.2719,sōngshānlù,松山路,Songshan Road,chìfēng,赤峰,Chifeng,Mainland China,Nei Mongol
+1631A,36.8088,118.0482,rénmíngōngyuán,人民公园,Woodlands Peak,zībó,淄博,Zibo,Mainland China,Shandong
+1634A,36.6377,117.9544,qìxiàngzhàn,气象站,weather station,zībó,淄博,Zibo,Mainland China,Shandong
+1636A,36.8041,117.8512,sānjīnjítuán,三金集团,Sanjin Group,zībó,淄博,Zibo,Mainland China,Shandong
+1638A,34.7837,117.2852,xuēchénghuánbǎojú,薛城环保局,Xuecheng Environmental Protection Bureau,zǎozhuāng,枣庄,Zaozhuang,Mainland China,Shandong
+1640A,34.5667,117.732,táiérzhuāngqūhuánbǎojú,台儿庄区环保局,Taierzhuang District Environmental Protection Bureau,zǎozhuāng,枣庄,Zaozhuang,Mainland China,Shandong
+1642A,37.5639,121.2514,kāifāqū,开发区,Thereof: Development,yāntái,烟台,Yantai,Mainland China,Shandong
+1644A,37.5436,121.3181,xījiāohuàgōngzhàn,西郊化工站,Xijiao Chemical Station,yāntái,烟台,Yantai,Mainland China,Shandong
+1646A,37.4967,121.2611,fúshānhuánbǎojú,福山环保局,Fushan Environmental Protection Bureau,yāntái,烟台,Yantai,Mainland China,Shandong
+1648A,36.7019,119.12,zhòngcáiwěi,仲裁委,Arbitration commission,wéifāng,潍坊,Weifang,Mainland China,Shandong
+1650A,36.7008,119.1425,huánbǎojú,环保局,Environmental Protection Agency,wéifāng,潍坊,Weifang,Mainland China,Shandong
+1652A,36.7731,119.1939,hántíngjiāncèzhàn,寒亭监测站,Hanting Monitoring Station,wéifāng,潍坊,Weifang,Mainland China,Shandong
+1654A,35.4144,116.5856,jiāncèzhàn,监测站,GHG monitoring,jìníng,济宁,Jining,Mainland China,Shandong
+1656A,36.1942,117.1436,jiāncèzhàn,监测站,GHG monitoring,tàiān,泰安,Tai'an,Mainland China,Shandong
+1658A,36.1758,117.1081,diànlìxuéxiào,电力学校,Electric power school,tàiān,泰安,Tai'an,Mainland China,Shandong
+1660A,35.4234,119.5198,shìzhèngfǔguǎngcháng,市政府广场,(Municipal Government Square),rìzhào,日照,Sunlight,Mainland China,Shandong
+1662A,37.4294,122.1206,huáxiàjìxiào,华夏技校,Huaxia Technical School,wēihǎi,威海,Weihai,Mainland China,Shandong
+1664A,37.5072,122.1067,shìjiāncèzhàn,市监测站,City monitoring station,wēihǎi,威海,Weihai,Mainland China,Shandong
+1666A,37.4314,118.6672,shìhuánbǎojú,市环保局,municipal environmental protection Bureau,dōngyíng,东营,Dongying,Mainland China,Shandong
+1668A,37.3781,118.8192,guǎngnánshǔikù,广南水库,Guangnan Reservoir,dōngyíng,东营,Dongying,Mainland China,Shandong
+1670A,24.81119444,113.5593889,bìhúshānzhuāng,碧湖山庄,Bihu Villa,sháoguān,韶关,Shaoguan,Mainland China,Guangdong
+1672A,24.77908333,113.6734722,sháoguānxuéyuàn,韶关学院,Shaoguan College,sháoguān,韶关,Shaoguan,Mainland China,Guangdong
+1674A,23.3667,116.6794,jīnpíngzǐzhàn,金平子站,Jinpingzi Station,shàntóu,汕头,Shantou,Mainland China,Guangdong
+1676A,23.2775,116.7258,háojiāngzǐzhàn,濠江子站,Minjiangzi Station,shàntóu,汕头,Shantou,Mainland China,Guangdong
+1678A,23.2539,116.6092,cháoyángzǐzhàn,潮阳子站,Chaoyangzi Station,shàntóu,汕头,Shantou,Mainland China,Guangdong
+1680A,21.2706,110.3539,zhànjiāngyǐngjùyuàn,湛江影剧院,Zhanjiang Theater,zhànjiāng,湛江,Zhanjiang,Mainland China,Guangdong
+1682A,21.1997,110.4019,huánbǎojúsùshè,环保局宿舍,EPA Dormitory,zhànjiāng,湛江,Zhanjiang,Mainland China,Guangdong
+1684A,21.2679,110.3316,mázhāngqūhuánbǎojú,麻章区环保局,Mazhang District Environmental Protection Bureau,zhànjiāng,湛江,Zhanjiang,Mainland China,Guangdong
+1686A,21.4689,111.0286,shìhuánbǎojúmàogǎngfēnjú,市环保局茂港分局,Municipal Environmental Protection Bureau Maogang Branch,màomíng,茂名,Maoming,Mainland China,Guangdong
+1688A,21.6669,110.9067,jiànkānglù,健康路,Health road,màomíng,茂名,Maoming,Mainland China,Guangdong
+1690A,24.3289,116.1278,jiāyìngdàxué,嘉应大学,Jiaying University,méizhōu,梅州,Meizhou,Mainland China,Guangdong
+1692A,24.2654,116.1248,huánjìngjiānkòngzhōngxīn,环境监控中心,Environmental monitoring center,méizhōu,梅州,Meizhou,Mainland China,Guangdong
+1694A,22.7898,115.3706,shìzhèngfǔ,市政府,Local government,shànwěi,汕尾,Iris,Mainland China,Guangdong
+1696A,23.7569,114.6778,yuánxī,源西,Source west,héyuán,河源,Heyuan,Mainland China,Guangdong
+1698A,23.7233,114.6892,lǎochéng,老城,Old Town,héyuán,河源,Heyuan,Mainland China,Guangdong
+1700A,21.8536,111.9508,nánēnlù,南恩路,Nanen Road,yángjiāng,阳江,Yangjiang,Mainland China,Guangdong
+1702A,23.6936,113.0425,huánbǎodàlóu,环保大楼,Environmental protection building,qīngyuǎn,清远,Qingyuan,Mainland China,Guangdong
+1704A,23.6272,113.0622,gāoxīnqū,高新区,High-tech Zone,qīngyuǎn,清远,Qingyuan,Mainland China,Guangdong
+1706A,23.6706,116.6447,dǎngànjú,档案局,Archives bureau,cháozhōu,潮州,chicken,Mainland China,Guangdong
+1708A,23.5353,116.3697,xīnxīng,新兴,Emerging,jiēyáng,揭阳,Jieyang,Mainland China,Guangdong
+1710A,23.5739,116.3594,dōngxīng,东兴,Dongxing,jiēyáng,揭阳,Jieyang,Mainland China,Guangdong
+1712A,22.9169,112.0392,xīnshìfǔ,新市府,New city,yúnfú,云浮,Yunfu,Mainland China,Guangdong
+1714A,22.9539,112.0539,mùyáng,牧羊,shepherds,yúnfú,云浮,Yunfu,Mainland China,Guangdong
+1716A,24.3603,102.5433,shìjiāncèzhàn,市监测站,City monitoring station,yùxī,玉溪,Yuxi,Mainland China,Yunnan
+1718A,35.248889,115.42277,shìqìxiàngjú,市气象局,Municipal meteorological bureau,hézé,菏泽,Heze,Mainland China,Shandong
+1720A,35.27,115.455,hézéxuéyuàn,菏泽学院,Heze College,hézé,菏泽,Heze,Mainland China,Shandong
+1722A,40.0958,113.2858,hóngqíguǎngcháng,红旗广场,Red Flag Square,dàtóng,大同,Datong,Mainland China,Shanxi
+1725A,40.1269,113.2661,ānjiāxiǎocūn,安家小村,Anjia Xiaocun,dàtóng,大同,Datong,Mainland China,Shanxi
+1727A,36.1542,113.1097,qīnghuázhàn,清华站,Tsinghua Station,chángzhì,长治,Changzhi,Mainland China,Shanxi
+1729A,36.1961,113.1466,àorùitè,澳瑞特,Orient,chángzhì,长治,Changzhi,Mainland China,Shanxi
+1731A,36.1855,113.0844444,chángzhìbāzhōng,长治八中,Changzhi Bazhong,chángzhì,长治,Changzhi,Mainland China,Shanxi
+1733A,36.0783,111.5531,língāngyìyuàn,临钢医院,Lingang Hospital,línfén,临汾,Linfen,Mainland China,Shanxi
+1735A,36.0822,111.5169,gōngshāngxuéxiào,工商学校,Business school,línfén,临汾,Linfen,Mainland China,Shanxi
+1737A,36.0417,111.4917,nánjīcháng,南机场,South Airport,línfén,临汾,Linfen,Mainland China,Shanxi
+1739A,37.8792,113.4922,sàiyú,赛鱼,Safari,yángquán,阳泉,Yangquan,Mainland China,Shanxi
+1741A,37.8531,113.6292,báiyángshù,白羊墅,White sheep villa,yángquán,阳泉,Yangquan,Mainland China,Shanxi
+1743A,37.85,113.5158,dàyángquán,大阳泉,Dayang Spring,yángquán,阳泉,Yangquan,Mainland China,Shanxi
+1746A,42.2556,118.8789,tiānyìlù,天义路,Tianyi Road,chìfēng,赤峰,Chifeng,Mainland China,Nei Mongol
