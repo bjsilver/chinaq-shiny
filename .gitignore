@@ -1,2 +1,6 @@
+# ignore rsconnect folder and contents
 rsconnect/
 rsconnect/*/
+
+.RData
+.Rhistory
