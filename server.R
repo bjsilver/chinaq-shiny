@@ -1,5 +1,20 @@
 shinyServer(function (input, output, session) {
   
+
+  
+  output$map <- renderLeaflet({
+    
+    leaflet(options = leafletOptions(zoomControl = FALSE)) %>%
+      setView(lng = 105.597190, lat = 33.193677, zoom = 4) %>%
+      addProviderTiles(providers$Esri.WorldTopoMap, options = providerTileOptions(noWrap = FALSE)) %>%
+      
+      htmlwidgets::onRender("function(el, x) {
+        L.control.zoom({ position: 'bottomright' }).addTo(this)
+    }") 
+    
+    
+  })
+  
   trends_subset <- reactive({
     # subset by pol
     a <- trends[trends$pol == input$pol,]
@@ -24,30 +39,16 @@ shinyServer(function (input, output, session) {
     cuspal(trends_subset()$slope)
   })
   
-  
-  output$map <- renderLeaflet({
-    
-    leaflet(trends, options = leafletOptions(zoomControl = FALSE)) %>%
-      setView(lng = 105.597190, lat = 33.193677, zoom = 4) %>%
-      addProviderTiles(providers$Esri.WorldTopoMap, options = providerTileOptions(noWrap = FALSE)) %>%
-      
-      htmlwidgets::onRender("function(el, x) {
-        L.control.zoom({ position: 'bottomright' }).addTo(this)
-    }") 
-    
-    
-  })
-  
+  # react to change in pol or slope slider input
   observeEvent({
     input$pol
-    input$slopeslider
     }, {
-               pol <- input$pol
                proxy <- leafletProxy("map")
-               proxy %>% removeShape(layerId = "map") %>%
-               addCircleMarkers(lng=trends_subset()$lon,lat=trends_subset()$lat,
+               proxy %>% 
+               addCircleMarkers(layerId=as.character(trends_subset()$station), 
+                                lng=trends_subset()$lon,lat=trends_subset()$lat,
                                                  label=trends_subset()$station,
-                                                 color=trendColors(),
+                                                 color=trendColors(), group = "circles",
                                                  fillOpacity=1,
                                                  stroke=FALSE,
                                                  radius=5,
@@ -58,6 +59,28 @@ shinyServer(function (input, output, session) {
                  
                  addLegend("bottomright",pal = pal, values = trendBound(), bins=10,
                            title = HTML("<font size=\"1\" color=\"black\">Trends &mu;g m<sup>-3</sup> </font>"), opacity = 1)
+  })
+  
+  # react to change in pol or slope slider input
+  observeEvent({
+    input$slopeslider
+  }, {
+    pol <- input$pol
+    proxy <- leafletProxy("map")
+    proxy %>% clearGroup("circles") %>%
+      addCircleMarkers(lng=trends_subset()$lon,lat=trends_subset()$lat,
+                       label=trends_subset()$station,
+                       color=trendColors(),
+                       fillOpacity=1, group = "circles",
+                       stroke=FALSE,
+                       radius=5,
+                       # THIS IS NOT MATCHING
+                       popup = paste0("<img src = http://homepages.see.leeds.ac.uk/~eebjs/station_svgs/",input$pol, "_", trends_subset()$station, ".svg>")
+      ) %>%
+      clearControls() %>%
+
+      addLegend("bottomright",pal = pal, values = trendBound(), bins=10,
+                title = HTML("<font size=\"1\" color=\"black\">Trends &mu;g m<sup>-3</sup> </font>"), opacity = 1)
   })
   
   
@@ -149,20 +172,33 @@ shinyServer(function (input, output, session) {
   
   output$meanmap <- renderLeaflet({
     
-    leaflet(means_subset()) %>%
+    leaflet() %>%
       setView(lng = 105.597190, lat = 33.193677, zoom = 4) %>%
-      addProviderTiles(providers$Esri.WorldTopoMap, options = providerTileOptions(noWrap = FALSE)) %>%
+      addProviderTiles(providers$Esri.WorldTopoMap, options = providerTileOptions(noWrap = FALSE))
       
-      addCircleMarkers(lng=~lon,lat=~lat,
-                       color=polColors(),
+      
+    
+  })
+  
+  # react to change in pol or slope slider input
+  observeEvent({
+    input$slider
+  }, {
+    print(input$slider)
+    proxy <- leafletProxy("meanmap")
+    proxy %>% 
+      addCircleMarkers(lng=means_subset()$lon,lat=means_subset()$lat,
+                       color=polColors(), group = "meanpoints",
                        fillOpacity=1,
                        stroke=FALSE,
-                       radius=5) %>%
+                       radius=5)  %>%
+      clearControls() %>%
       
       addLegend("bottomright",pal = palmean, values = 0:quantile(polBound(), na.rm = T,  probs = c(.95)),
                 title = HTML("<font size=\"1\" color=\"black\">Trends &mu;g m<sup>-3</sup> </font>"), opacity = 1)
-    
   })
+  
+    
   
   
 })
