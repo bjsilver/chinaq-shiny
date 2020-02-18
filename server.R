@@ -27,30 +27,39 @@ shinyServer(function (input, output, session) {
   
   output$map <- renderLeaflet({
     
-    leaflet(trends_subset(), options = leafletOptions(zoomControl = FALSE)) %>%
+    leaflet(trends, options = leafletOptions(zoomControl = FALSE)) %>%
       setView(lng = 105.597190, lat = 33.193677, zoom = 4) %>%
       addProviderTiles(providers$Esri.WorldTopoMap, options = providerTileOptions(noWrap = FALSE)) %>%
       
       htmlwidgets::onRender("function(el, x) {
         L.control.zoom({ position: 'bottomright' }).addTo(this)
-    }") %>%
-      
-      addCircleMarkers(lng=~lon,lat=~lat,
-                       label=~station,
-                       color=trendColors(),
-                       fillOpacity=1,
-                       stroke=FALSE,
-                       radius=5,
-                       # THIS IS NOT MATCHING
-                       popup = paste0("<img src = http://homepages.see.leeds.ac.uk/~eebjs/station_svgs/",input$pol, "_", trends_subset()$station, ".svg>")
-      ) %>%
-      
-      
-      addLegend("bottomright",pal = pal, values = trendBound(), bins=10,
-                title = HTML("<font size=\"1\" color=\"black\">Trends &mu;g m<sup>-3</sup> </font>"), opacity = 1)
+    }") 
     
     
   })
+  
+  observeEvent({
+    input$pol
+    input$slopeslider
+    }, {
+               pol <- input$pol
+               proxy <- leafletProxy("map")
+               proxy %>% removeShape(layerId = "map") %>%
+               addCircleMarkers(lng=trends_subset()$lon,lat=trends_subset()$lat,
+                                                 label=trends_subset()$station,
+                                                 color=trendColors(),
+                                                 fillOpacity=1,
+                                                 stroke=FALSE,
+                                                 radius=5,
+                                                 # THIS IS NOT MATCHING
+                                                 popup = paste0("<img src = http://homepages.see.leeds.ac.uk/~eebjs/station_svgs/",input$pol, "_", trends_subset()$station, ".svg>")
+                                ) %>%
+                 clearControls() %>%
+                 
+                 addLegend("bottomright",pal = pal, values = trendBound(), bins=10,
+                           title = HTML("<font size=\"1\" color=\"black\">Trends &mu;g m<sup>-3</sup> </font>"), opacity = 1)
+  })
+  
   
   # update the slopeslider input based on selected pol
   observe({
