@@ -106,8 +106,6 @@ shinyServer(function (input, output, session) {
   })
   
   
-  
-  
   # function to return date string of slider
   sliderMonth <- reactiveValues()
   observe({
@@ -126,9 +124,15 @@ shinyServer(function (input, output, session) {
   polBound <- reactive({
     a <- means[means$pol == input$meanpol,]
     a <- a[, unlist(lapply(a, is.numeric))]
-    polBound <- quantile(a, na.rm = T,  probs = c(.95))
-    
-    return(polBound)
+    return(a)
+  })
+  
+  # pol input reactive list of colours from palette 
+  polColors <- reactive({
+    cuspal <- colorNumeric(
+      palette = "YlOrRd",
+      domain = polBound(), reverse=F, na.color = "transparent")
+    cuspal(means_subset()[,4])
   })
   
   
@@ -139,12 +143,12 @@ shinyServer(function (input, output, session) {
       addProviderTiles(providers$Esri.WorldTopoMap, options = providerTileOptions(noWrap = FALSE)) %>%
       
       addCircleMarkers(lng=~lon,lat=~lat,
-                       color=palmean(means_subset()[,4]),
+                       color=polColors(),
                        fillOpacity=1,
                        stroke=FALSE,
                        radius=5) %>%
       
-      addLegend("bottomright",pal = palmean, values = 0:polBound(),
+      addLegend("bottomright",pal = palmean, values = 0:quantile(polBound(), na.rm = T,  probs = c(.95)),
                 title = HTML("<font size=\"1\" color=\"black\">Trends &mu;g m<sup>-3</sup> </font>"), opacity = 1)
     
   })

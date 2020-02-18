@@ -20,23 +20,23 @@ trends <- trends[trends$slope>-10 & trends$slope<10, ] # replace later with excl
 
 # load in means dataset
 means <- read.csv("./datafiles/decomposed_means.csv", header=TRUE, stringsAsFactors=FALSE, check.names = FALSE)
+# remove rows with missing lat/lon data
+trends <- trends[!is.na(trends$lat),]
+trends <- trends[!is.na(trends$lon),]
 # # create copy of table with just numeric columns
 # nummeans <- means[, unlist(lapply(means, is.numeric))]
 
-# Create a continuous palette function
-pal <- colorNumeric(
-  palette = "RdBu",
-  domain = NULL, reverse=TRUE)
 
-# Create a continuous palette function for means
-palmean <- colorNumeric(
-  palette = "YlOrRd",
-  domain = NULL, reverse=F,
-  na.color = "transparent")
-
-# Create a categorical palette function for Chinese Air Quality Guidelines
-
-
+# # Load in WHO AQGs data
+# aqgs <- read.csv("./datafiles/who_aqgs.csv", header=TRUE, stringsAsFactors=FALSE)
+# # Create a categorical palette function for WHO AQGs
+# who_pal <- function(pol) {
+#   # extract pollutant
+#   polaqg <- aqgs[aqgs$pol == pol & aqgs$avtime == 'year',]
+#   polaqg <- polaqg[, unlist(lapply(polaqg, is.numeric))]
+#   polaqg <- polaqg[,colSums(is.na(polaqg))<nrow(polaqg)]
+#   
+# }
 
 # a function used in the month slider
 monthStart <- function(x) {
