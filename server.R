@@ -100,6 +100,7 @@ shinyServer(function (input, output, session) {
          xlab = NULL,
          breaks = slopeBreaks,
          xlim = c(-10,10),
+         ylim = c(0, 150),
          col = "lightgrey",
          border = 'white')
     
@@ -107,6 +108,7 @@ shinyServer(function (input, output, session) {
          xlab = NULL,
          breaks = slopeBreaks,
          xlim = c(-10,10),
+         ylim = c(0, 150),
          col = "darkgrey",
          border = 'white', add=T)
     box()
